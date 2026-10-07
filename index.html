@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#10101a">
 <meta name="description" content="No Way Back — an AI-generated song and music video project made with Suno, ImageGen and ChatGPT Codex. Neon nights, old friends and a whole other world.">
-<title>No Way Back · Every Colour</title>
+<title>No Way Back · AI Music Video</title>
 <style>
 :root{color-scheme:dark;--ink:#10101a;--paper:#fff5ea;--muted:#b9b0c5;--pink:#ff97c0;--lime:#dfff9a}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--ink);color:var(--paper);font-family:Inter,"Segoe UI",sans-serif;line-height:1.5}
@@ -65,17 +65,18 @@ footer p{margin:0;letter-spacing:.5px}details{text-align:right;max-width:620px}s
 @media(max-width:650px){.wrap{width:calc(100% - 36px)}nav{padding:22px 0}.nav-links{gap:18px;font-size:12px}.nav-links a:last-child{display:none}.hero{grid-template-columns:1fr;padding:34px 0 26px;gap:29px}h1{font-size:84px;letter-spacing:-5px;margin:18px 0 22px}.intro{font-size:15px;max-width:360px}.collage{width:100%;max-width:510px;height:355px;margin:auto}.photo-main{height:238px;top:60px;left:4%;width:86%}.photo-stage{width:37%;height:121px}.photo-friends{width:45%;height:140px;right:1%;bottom:2px}.scribble{top:0;left:8%}.tape{top:57px}.sticker{bottom:0;left:1%}.song{grid-template-columns:auto 1fr;gap:16px;padding:21px 20px}.play{width:54px;height:54px}.track-title{font-size:21px}.song-right{grid-column:1 / -1;width:100%}.sound{display:none}.section-head{margin-top:44px;display:block}h2{font-size:30px}.section-head p{margin-top:8px}.moments{grid-template-columns:1fr;gap:15px}.moment{aspect-ratio:1.75}.credits{margin-top:42px;flex-direction:column;align-items:flex-start;gap:25px}.credit-list{width:100%;gap:16px;justify-content:space-between;flex-wrap:wrap}.credit-list strong{font-size:14px}footer{display:block}details{text-align:left;margin-top:18px}.workbench{justify-content:flex-start}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
+<link rel="stylesheet" href="site-assets/making-of.css">
 </head>
 <body>
 <div class="wrap">
 <nav aria-label="Main navigation">
 <a class="brand" href="index.html" aria-label="No Way Back home"><span class="brand-star" aria-hidden="true">✳</span> NO WAY BACK</a>
-<div class="nav-links"><a href="#song">The video</a><a href="outputs/storyboard-ai-edit/index.html">The storyboard ↗</a><a href="#credits">Made with AI</a></div>
+<div class="nav-links"><a href="#song">The video</a><a href="outputs/storyboard-ai-edit/index.html">The storyboard ↗</a><a href="#making-of">Made with AI</a></div>
 </nav>
 <main>
 <section class="hero" aria-labelledby="title">
 <div>
-<div class="eyebrow">An AI-generated song &amp; music video project</div>
+<div class="eyebrow">An AI music video · Suno × ImageGen × ChatGPT Codex</div>
 <h1 id="title">No way<br><em>back.</em></h1>
 <p class="intro">Neon nights. Old friends. A little curiosity.<br>And a whole other world waiting to come alive.</p>
 <a class="cta" href="outputs/storyboard-ai-edit/index.html">Play the storyboard <span aria-hidden="true">↗</span></a>
@@ -102,6 +103,53 @@ footer p{margin:0;letter-spacing:.5px}details{text-align:right;max-width:620px}s
 <a class="moment" href="outputs/storyboard-ai-edit/index.html"><img loading="lazy" src="outputs/storyboard-ai-edit/assets/s101-source-match-r57.png" alt="She floats above a luminous world of ruins, water and colour."><div class="moment-text"><small>Beyond the familiar</small><strong>Every colour comes alive</strong><span aria-hidden="true">↗</span></div></a>
 </div>
 </section>
+<section class="making-of" id="making-of" aria-labelledby="making-title">
+<div class="eyebrow">Inside the making of an AI music video</div>
+<div class="section-head"><h2 id="making-title">A song. A whole world.<br>A very curious process.</h2><p>Human direction, AI imagination, and a set of homemade creative tools to bring it all together.</p></div>
+<div class="process-strip" aria-label="Our creative process"><b>Make the song</b><span aria-hidden="true">→</span><b>Map the music</b><span aria-hidden="true">→</span><b>Build the characters</b><span aria-hidden="true">→</span><b>Direct the shots</b><span aria-hidden="true">→</span><b>Refine the look</b></div>
+<div class="studio-grid">
+<article class="studio-card studio-wide">
+<button class="screen-button" data-screenshot="site-assets/making-of/storyboard-player.png" data-caption="Our custom storyboard player · 138 shots, timed to the song" aria-label="Enlarge the storyboard tool screenshot"><img loading="lazy" src="site-assets/making-of/storyboard-player.png" width="1265" height="712" alt="The real storyboard player showing a neural-device scene, shot timing and detailed direction alongside the image."></button>
+<div class="studio-copy"><span class="kicker">01 / Turn a song into a story</span><h3>Every frame has a job.</h3><p>Heartbreak, old friends, rediscovered curiosity, and a world that answers back. We shaped the story around the song, then built a player to watch it unfold.</p><p>Each of the <strong>138 shots</strong> has direction for action, angle, camera movement, emotion, body language, continuity and its place in the music.</p><a class="studio-link" href="outputs/storyboard-ai-edit/index.html">Explore the storyboard <span aria-hidden="true">↗</span></a><div class="tech-tags"><span>10-part shot handoffs</span><span>Stable shot IDs</span><span>4:33 master track</span></div></div>
+</article>
+<article class="studio-card">
+<button class="screen-button" data-screenshot="site-assets/making-of/beat-analysis.png" data-caption="MP3 analysis · detected beats, tempo, energy and lyric offsets" aria-label="Enlarge the MP3 beat analyzer screenshot"><img loading="lazy" src="site-assets/making-of/beat-analysis.png" width="1265" height="712" alt="Our MP3 analyzer plots blue tempo and pink energy curves, with detected beats and lyric timing offsets below."></button>
+<div class="studio-copy"><span class="kicker">02 / Find the pulse</span><h3>The music draws the map.</h3><p>The song was made with <strong>Suno</strong>. Our MP3 tools charted its pulse and energy, helping us place discoveries, scene changes and the final crescendo.</p><p><strong>575 detected beats.</strong> An estimated pulse of <strong>127.51 BPM.</strong> Click-track playback lets us check the cuts against the recording.</p><div class="tech-tags"><span>Python + librosa</span><span>Onset analysis</span><span>Tempo ≠ energy</span></div></div>
+</article>
+<article class="studio-card">
+<button class="screen-button" data-screenshot="site-assets/making-of/lyric-alignment.png" data-caption="Lyric extractor and alignment preview · click a line, follow the words" aria-label="Enlarge the lyric extraction tool screenshot"><img loading="lazy" src="site-assets/making-of/lyric-alignment.png" width="1265" height="712" alt="The lyric preview lists song sections and clickable lines with estimated start and end times and individual words."></button>
+<div class="studio-copy"><span class="kicker">03 / Catch every word</span><h3>The song had a surprise.</h3><p>We separated vocals from the music, cross-checked speech recognition, then aligned the lyrics to the recording. The result: <strong>45 lyric lines and 223 word spans</strong>, with uncertain passages flagged for playback review.</p><div class="discovery">It caught an extra final “And every colour comes alive” repeat missing from the supplied lyrics. That changed the ending.</div><div class="tech-tags"><span>Demucs vocals</span><span>Whisper</span><span>wav2vec2 / CTC alignment</span><span>SRT · CSV · Excel</span></div></div>
+</article>
+</div>
+<div class="studio-minihead"><h3>Same girl. Different chapters.</h3><p>Character and outfit reference sheets keep the cast recognisable.</p></div>
+<div class="cast-grid">
+<article class="cast-card"><button class="screen-button" data-screenshot="site-assets/making-of/original-character.png" data-caption="Character reference · her city-night outfit" aria-label="Enlarge the original character reference sheet"><img loading="lazy" src="site-assets/making-of/original-character.png" alt="Character reference sheet showing her jeans, white top and black leather jacket." width="1672" height="941"></button><div class="cast-caption"><strong>The city girl</strong><span>Face, hair, silhouette and familiar details.</span></div></article>
+<article class="cast-card"><button class="screen-button" data-screenshot="site-assets/making-of/market-outfit.png" data-caption="Wardrobe turnaround · teal market dress, front, side and back" aria-label="Enlarge the market outfit turnaround"><img loading="lazy" src="site-assets/making-of/market-outfit.png" alt="Front, side and back wardrobe turnaround of the teal wrap dress over black mesh." width="1536" height="1024"></button><div class="cast-caption"><strong>The curious inventor</strong><span>Teal wrap dress. Black mesh. Back to her world.</span></div></article>
+<article class="cast-card"><button class="screen-button" data-screenshot="site-assets/making-of/popstar-outfit.png" data-caption="Character reference · silver popstar stage outfit" aria-label="Enlarge the popstar character sheet"><img loading="lazy" src="site-assets/making-of/popstar-outfit.png" alt="Character reference sheet for her silver popstar stage look." width="1672" height="941"></button><div class="cast-caption"><strong>The popstar within</strong><span>Silver stagewear and a voice that fills the room.</span></div></article>
+</div>
+<div class="studio-grid">
+<article class="studio-card">
+<button class="screen-button" data-screenshot="site-assets/making-of/colour-palettes.png" data-caption="Colour reference pack · scene palettes, materials and lighting rules" aria-label="Enlarge the colour palette tool screenshot"><img loading="lazy" src="site-assets/making-of/colour-palettes.png" width="1265" height="712" alt="Our colour reference page shows indigo, charcoal, amber, cobalt and violet swatches alongside scene references."></button>
+<div class="studio-copy"><span class="kicker">04 / Give the world a look</span><h3>One film. Many moods.</h3><p>Midnight indigo and warm amber connect the film. Scene palettes guide the light: cosy apartment lamps, blue electronics, selective arcade neon, and magic that gets to <em>pop</em>.</p><div class="swatches" aria-label="Master palette: near black, indigo, slate, amber, cobalt and violet"><i style="--swatch:#0B0D16" title="Near black · #0B0D16"></i><i style="--swatch:#181D35" title="Indigo · #181D35"></i><i style="--swatch:#374554" title="Steel slate · #374554"></i><i style="--swatch:#D99A52" title="Amber · #D99A52"></i><i style="--swatch:#4265C7" title="Cobalt · #4265C7"></i><i style="--swatch:#785492" title="Violet · #785492"></i></div><p class="palette-legend">Stable skin, hair and wardrobe colours. Lighting judged scene by scene.</p><div class="scene-tags"><span>Apartment / amber</span><span>Market / blue + bronze</span><span>Arcade / plum + cyan</span><span>Fantasy / indigo + gold</span></div></div>
+</article>
+<article class="studio-card">
+<button class="screen-button" data-screenshot="site-assets/making-of/image-comparison.png" data-caption="Artwork comparison · draggable wipe, original hold and live CRT preview controls" aria-label="Enlarge the artwork comparison and CRT tool screenshot"><img loading="lazy" src="site-assets/making-of/image-comparison.png" width="1265" height="712" alt="Our real comparison tool uses a draggable white divider between the original and regenerated image, with CRT settings in a floating panel."></button>
+<div class="studio-copy"><span class="kicker">05 / Make the detail sing</span><h3>More detail. Same movie.</h3><p><strong>ImageGen</strong> redraws used the existing shots as references. We compared composition, expression, props, skin tone and exposure before choosing the new artwork.</p><p>The review tool has side-by-side views, a draggable wipe and press-and-hold originals. Its floating CRT panel adds browser-only scanlines, bloom and colour controls.</p><div class="tech-tags"><span>Reference-guided regeneration</span><span>Most stills: 1672 × 941</span><span>Clean originals retained</span></div></div>
+</article>
+</div>
+<div class="studio-minihead comparison-copy"><h3>Try the before &amp; after.</h3><p>Drag the white circle. Arrow keys work, too.</p></div>
+<div class="studio-card">
+<div class="detail-stage" id="detailStage">
+<img loading="lazy" src="outputs/storyboard-ai-edit/assets/s025-source-match-r57.png" alt="Current detailed neural-device demonstration frame with source-matched lighting." width="1672" height="941">
+<img class="detail-before" loading="lazy" src="outputs/storyboard-ai-edit/assets/s025-head-link-side-r35.png" alt="Earlier version of the same neural-device demonstration frame." width="1672" height="941">
+<div class="crt-overlay" aria-hidden="true"></div><span class="image-label before">EARLIER FRAME</span><span class="image-label after">CURRENT FRAME</span><div class="wipe-line" aria-hidden="true"></div>
+<div class="wipe-handle" id="wipeHandle" role="slider" tabindex="0" aria-label="Before and after image divider" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" aria-valuetext="50% earlier frame visible"><span aria-hidden="true">↔</span></div>
+</div>
+<div class="detail-controls"><button class="hold-button" id="holdOriginal" aria-pressed="false">Press &amp; hold for the earlier frame</button><label class="crt-toggle"><input id="crtDemo" type="checkbox"> A little CRT nostalgia</label></div>
+</div>
+<div class="final-note"><span class="spark" aria-hidden="true">✳</span><p><b>Human taste is the thread through it all.</b> The tools help us explore; the decisions about story, rhythm, performance and colour stay intentional. The video above is our storyboard film. Detailed shot handoffs prepare the next stage of animation.</p></div>
+</section>
+
 <section class="credits" id="credits" aria-labelledby="credits-title">
 <div><h2 id="credits-title">A human idea. An AI adventure.</h2><p>A song and music video imagined with AI, one scene at a time.</p></div>
 <div class="credit-list"><div><small>Music</small><strong>Suno</strong></div><div><small>Artwork</small><strong>ImageGen</strong></div><div><small>Story &amp; creative tools</small><strong>ChatGPT Codex</strong></div></div>
@@ -113,5 +161,7 @@ footer p{margin:0;letter-spacing:.5px}details{text-align:right;max-width:620px}s
 </footer>
 </div>
 
+<dialog class="screenshot-dialog" id="screenshotDialog" aria-labelledby="screenshotTitle"><header><h3 id="screenshotTitle">Behind the scenes</h3><button id="closeScreenshot" aria-label="Close screenshot">×</button></header><img id="screenshotPreview" alt=""></dialog>
+<script src="site-assets/making-of.js" defer></script>
 </body>
 </html>

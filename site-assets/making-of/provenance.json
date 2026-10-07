@@ -1,0 +1,46 @@
+{
+  "captured": "2026-10-07",
+  "mode": "Actual browser screenshots and unchanged approved character sheets; no AI-generated UI mockups.",
+  "screenshots": [
+    {
+      "file": "storyboard-player.png",
+      "source": "outputs/storyboard-ai-edit/index.html (S025)",
+      "sha256": "eef1079d33af12a73ab6fa0cc622da187a84cf26d3cb55ca5d4776dd56604a6e"
+    },
+    {
+      "file": "beat-analysis.png",
+      "source": "lyric-analysis/outputs/final-take/beat-sync-preview.html",
+      "sha256": "fe83c224c3fed18d2d1872e7ba0dbd6ef5fd97568b8f916bf265259a675df784"
+    },
+    {
+      "file": "lyric-alignment.png",
+      "source": "lyric-analysis/outputs/final-take/lyric-preview.html",
+      "sha256": "3dd30c71ec335f6b5077a666ae8fdfc4c80dcc68e9b853df2e8430449828a958"
+    },
+    {
+      "file": "colour-palettes.png",
+      "source": "outputs/colour-reference-pack-v1/index.html",
+      "sha256": "5eb0ac99def360416cb2697e486fe66fd5d7f45767b01a5ffa4cb68a9616b12d"
+    },
+    {
+      "file": "image-comparison.png",
+      "source": "outputs/image-quality-tests/full-storyboard-source-match-v2/index.html (S025)",
+      "sha256": "545c0e11b4ffbffb82e2ba448aee8f0621bde7f6b3cb1dcaa9e9182ce37cd8f9"
+    },
+    {
+      "file": "market-outfit.png",
+      "source": "outputs/character-sheets/07-hacker-market-teal-dress-approved.png",
+      "sha256": "002f80e4fdf1d0edec8dbb6619401f306f2d9d271bd84ba3b517cf56e5402607"
+    },
+    {
+      "file": "popstar-outfit.png",
+      "source": "outputs/character-sheets/03-popstar-dress-v2.png",
+      "sha256": "d68d58d2b1f791e9244b3ff552b5a69bd2c196a9a5a55132dfd4be747a82490e"
+    },
+    {
+      "file": "original-character.png",
+      "source": "outputs/character-sheets/01-jeans-jacket-v2.png",
+      "sha256": "407db6f2d9e1bbbde162e23b268b44da6defb60265501b2bbe3f44585c5407e9"
+    }
+  ]
+}

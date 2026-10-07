@@ -14,8 +14,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "a6084da1b7ed1a319dbb22b8c4d40355bd95906e4fda0671adc68c5c104ddd2c",
-      "bytes": 13344
+      "sha256": "b311fec0f11bda83f5738a90a4875dfc2cc179195826b03a482272538ef8a61a",
+      "bytes": 24066
     },
     {
       "path": "media/no-way-back.mp4",
@@ -1546,6 +1546,61 @@
       "path": "outputs/storyboard-ai-edit/song.mp3",
       "sha256": "6e08e4ab17800094a87870c2b5b023f8a5b81c386ae141b8f389105d91590484",
       "bytes": 10933484
+    },
+    {
+      "path": "site-assets/making-of/beat-analysis.png",
+      "sha256": "fe83c224c3fed18d2d1872e7ba0dbd6ef5fd97568b8f916bf265259a675df784",
+      "bytes": 62647
+    },
+    {
+      "path": "site-assets/making-of/colour-palettes.png",
+      "sha256": "5eb0ac99def360416cb2697e486fe66fd5d7f45767b01a5ffa4cb68a9616b12d",
+      "bytes": 100013
+    },
+    {
+      "path": "site-assets/making-of/image-comparison.png",
+      "sha256": "545c0e11b4ffbffb82e2ba448aee8f0621bde7f6b3cb1dcaa9e9182ce37cd8f9",
+      "bytes": 122522
+    },
+    {
+      "path": "site-assets/making-of/lyric-alignment.png",
+      "sha256": "3dd30c71ec335f6b5077a666ae8fdfc4c80dcc68e9b853df2e8430449828a958",
+      "bytes": 47281
+    },
+    {
+      "path": "site-assets/making-of/market-outfit.png",
+      "sha256": "002f80e4fdf1d0edec8dbb6619401f306f2d9d271bd84ba3b517cf56e5402607",
+      "bytes": 1909670
+    },
+    {
+      "path": "site-assets/making-of/original-character.png",
+      "sha256": "407db6f2d9e1bbbde162e23b268b44da6defb60265501b2bbe3f44585c5407e9",
+      "bytes": 2154795
+    },
+    {
+      "path": "site-assets/making-of/popstar-outfit.png",
+      "sha256": "d68d58d2b1f791e9244b3ff552b5a69bd2c196a9a5a55132dfd4be747a82490e",
+      "bytes": 2514982
+    },
+    {
+      "path": "site-assets/making-of/provenance.json",
+      "sha256": "72e2c687b3ef6fb99f3b5b8c287d41e93c74e2a5ce5c73c3e27e5123c2b78b1f",
+      "bytes": 1820
+    },
+    {
+      "path": "site-assets/making-of/storyboard-player.png",
+      "sha256": "eef1079d33af12a73ab6fa0cc622da187a84cf26d3cb55ca5d4776dd56604a6e",
+      "bytes": 120103
+    },
+    {
+      "path": "site-assets/making-of.css",
+      "sha256": "2ddd8da900d61576ce430d5dac13b66f1ba0490ba5a9621e6ff5ed418dfb5280",
+      "bytes": 7902
+    },
+    {
+      "path": "site-assets/making-of.js",
+      "sha256": "124ae59487b133cd9fbad240404971df13d4988c731c5f47b653b9080ba2b4f2",
+      "bytes": 3023
     }
   ]
 }
