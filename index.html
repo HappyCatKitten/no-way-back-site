@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#10101a">
+<meta name="description" content="No Way Back — an AI-generated song and music video project made with Suno, ImageGen and ChatGPT Codex. Neon nights, old friends and a whole other world.">
+<title>No Way Back · Every Colour</title>
+<style>
+:root{color-scheme:dark;--ink:#10101a;--paper:#fff5ea;--muted:#b9b0c5;--pink:#ff97c0;--lime:#dfff9a}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--ink);color:var(--paper);font-family:Inter,"Segoe UI",sans-serif;line-height:1.5}
+body::before{content:"";position:absolute;inset:0 0 auto;height:850px;pointer-events:none;background:radial-gradient(ellipse at 74% 23%,#69216940,transparent 55%),radial-gradient(ellipse at 12% 60%,#28235f45,transparent 50%)}
+a{color:inherit;text-decoration:none}button{font:inherit}button,a{-webkit-tap-highlight-color:transparent}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--lime);outline-offset:7px}
+.wrap{width:min(1260px,calc(100% - 80px));margin:auto;position:relative}
+nav{display:flex;align-items:center;justify-content:space-between;padding:30px 0;border-bottom:1px solid #ffffff18}
+.brand{display:flex;gap:10px;align-items:center;font-size:12px;font-weight:800;letter-spacing:2px}.brand-star{color:var(--pink);font-size:30px;line-height:1}
+.nav-links{display:flex;gap:30px;font-size:13px;color:#d4cbdc}.nav-links a:hover{color:var(--pink)}
+.hero{display:grid;grid-template-columns:.95fr 1.15fr;align-items:center;gap:16px;padding:64px 0 38px}
+.eyebrow{font-size:11px;text-transform:uppercase;font-weight:700;letter-spacing:2.3px;color:var(--pink);display:flex;gap:9px;align-items:center}
+.eyebrow::before{content:"";width:6px;height:6px;background:var(--pink);border-radius:50%;flex-shrink:0}
+h1{font-size:clamp(68px,7.9vw,108px);letter-spacing:-6px;line-height:.94;margin:25px 0 27px;font-weight:850}
+h1 em{display:block;color:var(--pink);font-family:Georgia,serif;font-weight:400;letter-spacing:-5px}
+.intro{max-width:390px;color:#c9bfd3;font-size:17px;line-height:1.75;margin:0 0 26px}
+.cta{display:inline-flex;gap:28px;align-items:center;border-radius:999px;background:var(--lime);color:#152019;font-weight:750;padding:15px 23px;font-size:14px;transition:transform .18s,background .18s}
+.cta:hover{transform:translateY(-3px);background:#edffc9}.hero-footnote{color:#958ca3;font-size:11px;margin:15px 0 0}
+.collage{height:470px;position:relative;isolation:isolate}
+.photo{position:absolute;margin:0;background:#f9ede7;padding:7px 7px 29px;box-shadow:0 18px 50px #0008}
+.photo img{width:100%;height:100%;display:block;object-fit:cover}
+.photo figcaption{position:absolute;bottom:6px;left:12px;color:#3a2941;font-size:9px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase}
+.photo-main{width:89%;height:320px;top:72px;left:3%;transform:rotate(-5deg);z-index:2}.photo-main img{object-position:38% 50%}
+.photo-stage{width:39%;height:150px;top:0;right:1%;transform:rotate(9deg);z-index:3}
+.photo-friends{width:46%;height:180px;bottom:0;right:-1%;transform:rotate(8deg);z-index:4}
+.tape{position:absolute;z-index:5;width:100px;height:24px;top:70px;left:27%;transform:rotate(-13deg);background:#e9d1bd99;border-left:2px dashed #ffffff40;border-right:2px dashed #ffffff40}
+.scribble{position:absolute;top:2px;left:4%;color:var(--pink);font:italic 24px Georgia,serif;transform:rotate(-8deg)}
+.scribble span{display:block;text-align:center;font-size:38px;line-height:.8;transform:rotate(20deg)}
+.sticker{position:absolute;left:-1%;bottom:5px;z-index:6;width:104px;height:104px;display:grid;align-content:center;text-align:center;border-radius:50%;background:var(--pink);color:#26172f;transform:rotate(-14deg);box-shadow:0 5px 20px #0004;font-size:11px;font-weight:850;letter-spacing:1px;line-height:1.35}.sticker b{display:block;font-size:20px;line-height:1.25;letter-spacing:-.3px;white-space:nowrap}.sticker small{font-size:9px;letter-spacing:.6px}
+.film{padding:25px 28px;border:1px solid #ffffff20;border-radius:20px;background:linear-gradient(110deg,#262031,#191927)}
+.film-heading{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:20px}.film-heading>a{font-size:12px;color:var(--lime)}
+.track-label{font-size:10px;color:var(--pink);letter-spacing:2px;text-transform:uppercase;margin:0 0 3px}
+.track-title{font-size:23px;letter-spacing:-.7px;margin:0;font-weight:750}.track-subtitle{color:var(--muted);font-size:12px;margin:3px 0 0}
+video{display:block;width:100%;aspect-ratio:16/9;border-radius:12px;background:#06060c}
+@media(max-width:650px){.film{padding:18px 15px}.film-heading{align-items:flex-start;flex-direction:column;gap:12px}}
+.section-head{display:flex;justify-content:space-between;align-items:baseline;margin:64px 0 22px;gap:20px}
+h2{font:400 34px/1.2 Georgia,serif;margin:0;letter-spacing:-.7px}.section-head p{color:var(--muted);font-size:12px;margin:0}
+.moments{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.moment{display:block;position:relative;overflow:hidden;border-radius:13px;aspect-ratio:1.38;background:#232139}
+.moment img{width:100%;height:100%;object-fit:cover;transition:transform .45s}.moment:hover img{transform:scale(1.045)}
+.moment::after{content:"";position:absolute;inset:0;background:linear-gradient(transparent 35%,#0b0810df)}
+.moment-text{position:absolute;z-index:1;left:23px;bottom:20px;right:20px}
+.moment-text small{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#eedcec}
+.moment-text strong{display:block;font:400 26px Georgia,serif;margin-top:4px}
+.moment-text span{position:absolute;bottom:1px;right:0;font-size:22px;color:var(--pink)}
+.credits{margin-top:64px;padding:30px 0 33px;display:flex;gap:35px;align-items:center;justify-content:space-between;border-top:1px solid #ffffff18;border-bottom:1px solid #ffffff18}
+.credits h2{font-size:26px}.credits p{font-size:12px;color:var(--muted);margin:8px 0 0;max-width:330px}
+.credit-list{display:flex;gap:32px}.credit-list div{min-width:105px}
+.credit-list small{display:block;text-transform:uppercase;font-size:9px;letter-spacing:1.6px;color:var(--muted);margin-bottom:7px}
+.credit-list strong{font-size:16px;letter-spacing:-.4px}.credit-list div:nth-child(1) strong{color:var(--lime)}.credit-list div:nth-child(2) strong{color:var(--pink)}
+footer{padding:25px 0 32px;display:flex;justify-content:space-between;align-items:flex-start;gap:30px;color:#a197b0;font-size:11px}
+footer p{margin:0;letter-spacing:.5px}details{text-align:right;max-width:620px}summary{cursor:pointer;color:#d1c5de}
+.workbench{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:9px 19px;padding:18px 0 0}.workbench a:hover{color:var(--pink)}
+.message{font-size:12px;color:var(--pink);margin:6px 0 0}.message:empty{display:none}
+@media(min-width:1450px){.hero{padding-top:76px;padding-bottom:52px}}
+@media(max-width:900px){.wrap{width:calc(100% - 48px)}h1{font-size:80px;letter-spacing:-4px}.collage{height:400px}.photo-main{height:260px;top:80px}.photo-stage{height:125px;width:44%}.photo-friends{height:145px;width:52%}.sticker{width:85px;height:85px;left:0;font-size:9px}.sticker b{font-size:16px}.scribble{font-size:19px}.credit-list{gap:20px}.credit-list div{min-width:80px}.credits{gap:20px}}
+@media(max-width:650px){.wrap{width:calc(100% - 36px)}nav{padding:22px 0}.nav-links{gap:18px;font-size:12px}.nav-links a:last-child{display:none}.hero{grid-template-columns:1fr;padding:34px 0 26px;gap:29px}h1{font-size:84px;letter-spacing:-5px;margin:18px 0 22px}.intro{font-size:15px;max-width:360px}.collage{width:100%;max-width:510px;height:355px;margin:auto}.photo-main{height:238px;top:60px;left:4%;width:86%}.photo-stage{width:37%;height:121px}.photo-friends{width:45%;height:140px;right:1%;bottom:2px}.scribble{top:0;left:8%}.tape{top:57px}.sticker{bottom:0;left:1%}.song{grid-template-columns:auto 1fr;gap:16px;padding:21px 20px}.play{width:54px;height:54px}.track-title{font-size:21px}.song-right{grid-column:1 / -1;width:100%}.sound{display:none}.section-head{margin-top:44px;display:block}h2{font-size:30px}.section-head p{margin-top:8px}.moments{grid-template-columns:1fr;gap:15px}.moment{aspect-ratio:1.75}.credits{margin-top:42px;flex-direction:column;align-items:flex-start;gap:25px}.credit-list{width:100%;gap:16px;justify-content:space-between;flex-wrap:wrap}.credit-list strong{font-size:14px}footer{display:block}details{text-align:left;margin-top:18px}.workbench{justify-content:flex-start}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav aria-label="Main navigation">
+<a class="brand" href="index.html" aria-label="No Way Back home"><span class="brand-star" aria-hidden="true">✳</span> NO WAY BACK</a>
+<div class="nav-links"><a href="#song">The video</a><a href="outputs/storyboard-ai-edit/index.html">The storyboard ↗</a><a href="#credits">Made with AI</a></div>
+</nav>
+<main>
+<section class="hero" aria-labelledby="title">
+<div>
+<div class="eyebrow">An AI-generated song &amp; music video project</div>
+<h1 id="title">No way<br><em>back.</em></h1>
+<p class="intro">Neon nights. Old friends. A little curiosity.<br>And a whole other world waiting to come alive.</p>
+<a class="cta" href="outputs/storyboard-ai-edit/index.html">Play the storyboard <span aria-hidden="true">↗</span></a>
+<p class="hero-footnote">Follow the story, frame by frame, to the music.</p>
+</div>
+<div class="collage" aria-label="A few moments from the story">
+<div class="scribble" aria-hidden="true">every colour comes alive <span>↴</span></div>
+<figure class="photo photo-main"><img fetchpriority="high" src="outputs/storyboard-ai-edit/assets/s097b-source-match-r57.png" alt="Her eyes close as ribbons of light flow through a world of floating islands."><figcaption>A whole other world</figcaption></figure>
+<figure class="photo photo-stage"><img src="outputs/storyboard-ai-edit/assets/s090-source-match-r57.png" alt="She sings into a microphone beneath the theatre spotlights."><figcaption>Sing your heart out</figcaption></figure>
+<figure class="photo photo-friends"><img src="outputs/storyboard-ai-edit/assets/s053-source-match-r57.png" alt="Two friends laughing together at the neon arcade."><figcaption>One more game?</figcaption></figure>
+<span class="tape" aria-hidden="true"></span>
+<div class="sticker" aria-hidden="true"><small>PRESS PLAY</small><b>&amp; escape</b><small>FOR A WHILE</small></div>
+</div>
+</section>
+<section class="film" id="song" aria-labelledby="song-title">
+<div class="film-heading"><div><p class="track-label">Watch the story</p><h2 class="track-title" id="song-title">No Way Back — Every Colour</h2><p class="track-subtitle">Latest storyboard video · 4:33 · headphones encouraged</p></div><a href="outputs/storyboard-ai-edit/index.html">Explore the storyboard ↗</a></div>
+<video id="musicVideo" controls playsinline preload="metadata" poster="outputs/storyboard-ai-edit/assets/s001-source-match-r57.png" aria-label="No Way Back — Every Colour music video"><source src="media/no-way-back.mp4" type="video/mp4">Your browser cannot play this video. <a href="media/no-way-back.mp4">Open the video</a>.</video>
+</section>
+<section aria-labelledby="moments-title">
+<div class="section-head"><h2 id="moments-title">A glimpse of the journey.</h2><p>From city lights to something extraordinary.</p></div>
+<div class="moments">
+<a class="moment" href="outputs/storyboard-ai-edit/index.html"><img loading="lazy" src="outputs/storyboard-ai-edit/assets/s005-source-match-r57.png" alt="Warm apartment windows amid an immense midnight city."><div class="moment-text"><small>Where it begins</small><strong>The city after dark</strong><span aria-hidden="true">↗</span></div></a>
+<a class="moment" href="outputs/storyboard-ai-edit/index.html"><img loading="lazy" src="outputs/storyboard-ai-edit/assets/s025-source-match-r57.png" alt="Her old friend introduces her to a new neural device at his electronics stall."><div class="moment-text"><small>A spark of curiosity</small><strong>Something new</strong><span aria-hidden="true">↗</span></div></a>
+<a class="moment" href="outputs/storyboard-ai-edit/index.html"><img loading="lazy" src="outputs/storyboard-ai-edit/assets/s101-source-match-r57.png" alt="She floats above a luminous world of ruins, water and colour."><div class="moment-text"><small>Beyond the familiar</small><strong>Every colour comes alive</strong><span aria-hidden="true">↗</span></div></a>
+</div>
+</section>
+<section class="credits" id="credits" aria-labelledby="credits-title">
+<div><h2 id="credits-title">A human idea. An AI adventure.</h2><p>A song and music video imagined with AI, one scene at a time.</p></div>
+<div class="credit-list"><div><small>Music</small><strong>Suno</strong></div><div><small>Artwork</small><strong>ImageGen</strong></div><div><small>Story &amp; creative tools</small><strong>ChatGPT Codex</strong></div></div>
+</section>
+</main>
+<footer>
+<p>NO WAY BACK <span aria-hidden="true">✳</span> A little neon. A lot of imagination.</p>
+<a href="outputs/storyboard-ai-edit/index.html">Explore the storyboard ↗</a>
+</footer>
+</div>
+
+</body>
+</html>

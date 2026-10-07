@@ -1,0 +1,378 @@
+NO WAY BACK — STORYBOARD AI EDIT
+138 active shots · unchanged audio04:33.285 ·16:9
+Current revision: full-source-match-r57. All 138 approved native images published; story/timing/audio unchanged.
+
+01 · Metropolis to apartment [S001–S006]
+
+1 STORY
+The dense metropolis descent reaches one weathered apartment window. She is already alone and returning briskly to the sofa, before the interior sit cut.
+
+2 SHOT CHANGES
+City images and timings preserved; the approved Option04 exterior return replaces the long seated exterior hold.
+
+3 TIMING / MUSIC
+Instrumental city approach; the strong hand-grip cut at 19.500 marks the user-reported first beat/vocal entrance.
+
+3 RHYTHM
+Four city-scale steps, a short exterior approach to her private movement, then brisk interior coverage.
+
+4 CONTINUITY
+One fixed May 2074 apartment: charcoal sofa against wall below palm/city print, orange cushion left and pale patterned cushions right. Coffee table faces city glazing; bookcase, amber lamps and plants fixed. Rear-right kitchen opening leads to black gooseneck tap and metal sink. She rises from sofa, crosses the floor to kitchen, then finishes the evening at the same kitchen task-light switch. No return to the window. No furniture rearrangement, new side window, workshop, neural hardware, man, keys, jacket action or stairs. No drinking cup in this sequence. Exterior retains S004/S005 older rustic block: weathered indigo-charcoal metal horizontal sliding sashes with rectangular divisions, crossrails, tracks, handle and aged concrete/render sill. May window stays CLOSED; reflections stay on glass, no sash movement or modern curtain wall.
+
+5 COMPOSITION / LIGHT
+Cool steel blue/indigo city, restrained cyan-white and amber practical light. Deep shadows; no broad neon wash. Exterior glass remains a foreground plane.
+
+6 PERFORMANCE
+Hurt body language during a quick return to the seat; no boyfriend or argument.
+
+7 CAMERA
+Keep the city-scale descent, then settle outside the window. The sofa/table axis leads into the interior; never redesign the room for the reverse view.
+
+8 EDITING
+Window establishes the fixed room, then a low sit cut; no literal key or open-door insert.
+
+9 GENERATION
+Use the approved S010 room geometry and new S007 interior anchor for the exterior. Keep furniture positions exact; remove storyboard labels from clean keyframes. S004/S005 are the protected exterior architecture baseline: an older rustic cyberpunk apartment block, weathered indigo-charcoal metal horizontal sliding sashes, practical rectangular divisions, tracks/handles, aged concrete/render reveals and sill. Never modernize them into new curtain-wall glazing or polished cladding. Preserve camera, aperture location and the existing interior floor plan. Windows are operable horizontally, not permanently sealed. S006 window remains closed.
+
+10 REVIEW
+Preserve S001–S005 visual architecture, scale descent and original city grade. Verify readable return to sofa and 19.500 hand cut.
+
+========================================================================
+
+02 · Private aftermath [S007–S015]
+
+1 STORY
+He has already left. She sits and folds forward, a tense grip lands on the first beat/vocal, composure gives way to one tear, then she hurries to wet a cloth, cools her cheek and ends the evening at the task-light switch.
+
+2 SHOT CHANGES
+Remove S007D repeated face reaction; grip cuts directly to one tear. Extend cloth and switch action without changing the19.500 beat cue. Regenerate all retained stills as individual960×540 frames.
+
+3 TIMING / MUSIC
+First vocal/beat remains19.500. Verse recalls the breakup; picture shows aftermath. Blackout ends34.000; empty May holds as the chorus begins before the35.400 matched August cut.
+
+3 RHYTHM
+2.0s exterior,2.2s sit,2.0s fold,2.4s grip,3.7s tear,3.0s crossing,1.5s cloth,2.8s cheek,1.1s switch/fade. One emotional pivot then purposeful action.
+
+4 CONTINUITY
+One fixed apartment: charcoal sofa under palm/city print, orange cushion at her left seat and pale cushions at the empty end, coffee table before it, bookcase/lamp/plant fixed, rear-right kitchen route. City glazing remains weathered rectangular horizontal sliding sashes. Never move furniture or mirror the room to accommodate a camera. Cloth anatomical LEFT at cheek, RIGHT counter/switch; tap off and cloth down before the switch. May window closed; no workshop, jacket, keys or man.
+
+5 COMPOSITION / LIGHT
+Original dark hand-drawn cel shading, indigo/charcoal shadows, muted warm skin, restrained amber practical lamps and selective cool city rims. Kitchen task light can be locally warmer without lifting the room exposure; no glossy 3D finish.
+
+6 PERFORMANCE
+Contained hurt → grip tightening → composure cracks → one tear → practical self-comfort and steadier breathing. Travel is hurried; sadness never turns abruptly into a grin.
+
+7 CAMERA
+Exterior wide → low sit → higher fold → hand insert → face → eye → room route → sink detail → cheek medium → high switch detail. Short motivated moves and a still tear hold.
+
+8 EDITING
+Grip → single tear; rise and kitchen crossing within one clip. Cloth stays LEFT, tap is off before cheek, cloth down before RIGHT switch. Picture fades to black; master audio never fades.
+
+9 GENERATION
+Approved contact panels are extracted directly without restaging or enlargement. Ten categories distinguish representative still from before-action keyframes, performance, camera and full source action.
+
+10 REVIEW
+Check exact 19.500 action cut, one tear, fixed apartment, cloth/hand continuity, quick physical travel and deterministic blackout at 34.600.
+
+========================================================================
+
+03 · Three months and a rediscovered interest [S015B–S017]
+
+1 STORY
+The identical empty room shifts from May to August 2074. Her transformed workshop leads to a shelf rediscovery: her worn 2064 AI circuitry textbook and sophisticated older hobby project. A small successful connector test rekindles pleasure; she leaves it on the desk and hurries into the city, discovering AFTERIMAGE on Into view.
+
+2 SHOT CHANGES
+Archive S015E/H/J and S016B/S017; retain stable IDs for the others. Book spine is part of shelf attention; placement is a cut ellipse; chip lift happens in the overhead; one continuous brisk boot/puddle insert replaces the distant street jog, preserving its3.120s interval.
+
+3 TIMING / MUSIC
+The first chorus carries the time jump and recovery of curiosity; AFTERIMAGE is first readable at 50.020 and remains through Into view.
+
+3 RHYTHM
+Matched room holds1.4s each; shelf1.3s,cover1.5s,retrieval1.4s,case/lift1.4s,reaction1.45s,test1.65s,departure1.4s,street3.12s,market2.41s. Fast character actions can play inside longer shots.
+
+4 CONTINUITY
+May/August use the identical calendar position and camera, year 2074. August main desk is under and parallel to the city window; she works on its room side facing the glass. Bookcase beside sofa/window is the shelf origin. Window-side inward close-ups show interior shelves behind her. THE THINKING CIRCUIT / Advanced Circuitry for Artificial Intelligence is a worn navy textbook printed Published 2064. Blue-grey hobby case contains a compact black/teal layered processor assembly, central ceramic processor, fine gold traces, chiplets, cooling edge and precision connectors; not a retro knob box or 2000-era junk. Book is on desk left, case behind/centre, test instrument right. One main assembly leaves an empty recess when lifted. Red indicator is off until S015L. No acquired CORTEX ARRAY, head contacts, neural chair or VR before the market. Travel is brisk or a light purposeful jog; attentive inspection can pause her. Freestanding warm wooden desk matching supplied S054B, rectangular top on visible legs/dark support, open knee space and black padded rolling office chair on room side facing the window. No fitted wall-long desk or continuous cabinet base. Its long edge stays parallel to the same sliding glazing. Normal small textbook approximately18×24×1.5cm, blue-grey portable case about28×20cm; maintain credible scale and correct perspective.
+
+5 COMPOSITION / LIGHT
+User-approved current movie drawing, established by S015D/S015K/S016 previews and current S021/S024/S055: fine varied organic contours, natural irregular hair strands, softly graduated warm skin and nuanced facial shading, detailed atmospheric worn materials and localized light. No heavy uniform outlines, flat uniform cel polygons or waxy3D finish. Exterior follows current S004/S005 steel/slate/charcoal, small warm windows, restrained cyan-white and tiny aviation reds. Preserve fixed room relationships and foreground May/August date position. S016 specifically uses the exact supplied boots/puddle art: dark paving with localized magenta/amber/indigo reflections; no new skyline or street layout visible.
+
+6 PERFORMANCE
+Recognition interrupts her hurry → deft familiar hands → quiet focused pleasure → one successful response → purposeful quick departure and street jog → attentive market discovery.
+
+7 CAMERA
+Locked May/August comparison; motivated shelf attention, readable angled cover, exact overhead case reveal/lift, intimate reaction, precise connector test, quick apartment pivot, pavement-height close tracking of brisk boot footfalls and shallow-puddle ripples, then eyeline market discovery.
+
+8 EDITING
+Natural shelf attention → book cover → retrieval with book on case → overhead already-open case on window desk → lift to face → connector/LED → leave project and turn → continuous street travel → sign at50.020. Case settling and book placement occur across the cut, with explicit prop states.
+
+9 GENERATION
+S015C/D/F/G/I/K/L/M and S016 use individually authored native1672×941 current-style illustrations, with S019 matching. Three approved previews are reused untouched. Current S021/S024/S055 and approved previews govern drawing, supplied S054B governs desk, S004/S005 govern city. All generated originals retained. Prepare production keyframes separately. Latest S016 override: exact user-supplied960×540 boots/puddle image, unchanged; current native images for other shots retained. S017 printed slate is legacy only.
+
+10 REVIEW
+Check current fine drawing/style, desk/open knee space/rolling chair, normal textbook2064 scale and title, empty-case recess/compact board/LED OFF→RED, hurried empty-handed travel, exact19.500/50.020 anchors. Preserve other scenes. For S016 check natural brisk gait, matching boots, small splash and no invented visible facial acting; maintain50.020 reveal.
+========================================================================
+
+04 · AFTERIMAGE, old friend and first demonstration [S019–S030]
+
+1 STORY
+She enters the hardware market, unexpectedly meets her old friend, hugs him and accepts his invitation to see something new. He fits the prototype, activates it, and her abstract preview leads to taking the module home.
+
+2 SHOT CHANGES
+Keep invitation S023A explicit. Tighten redundant exposition, allow the subjective preview and reaction to register. Correct entrance year to 2074. R52 S019 fresh current-style image replaces exact suppliedr50 pixels with same selected entrance concept and2074 signage.
+
+3 TIMING / MUSIC
+First Into view is the market arrival. Chorus supplies discovery and reunion; the instrumental provides enough time for fitting → activation → sensation → reaction → handover.
+
+3 RHYTHM
+Geography first, paired recognition close-ups, warm hug, then increasingly precise technical details. One graceful high departure shot ends the sequence.
+
+4 CONTINUITY
+Beanie friend is older, bearded and bespectacled, never the ex. Teal wrap dress/black mesh/ankle boots. Module has stacked boards, three chips and cooler; right-hand rigid case after handover.
+
+5 COMPOSITION / LIGHT
+S019 selected canopied specialist entrance redrawn in approved current movie style: worn steel posts, restrained AFTERIMAGE sign glow, sparse entrance workers, muted city backdrop. S019 arrival follows original cel drawing and supplied S004/S005 subdued outdoor palette. Dense hacker paradise, worn components, task lamps and cool screens. Preserve dark original palette. Preview is abstract swirls, not the full later landscape.
+
+6 PERFORMANCE
+Curiosity → pleased recognition → relaxed friendship → technical interest → absorbed surprise → purposeful eagerness. Each reaction changes rather than repeating amazement.
+
+7 CAMERA
+High market geography, reciprocal eyelines, layered bench views, macro power action, restrained face close-up and distant high departure.
+
+8 EDITING
+Every technical effect has a visible cause. Fit before activation; return to the real stall before handover. Allow an offscreen packing ellipse after the reaction.
+
+9 GENERATION
+Module, contacts and case references accompany relevant shots. No gloves, Neuralink labels, extra dialogue, or a floating fantasy diorama in the demonstration. External blue contacts sit flush on natural temple skin at the hairline, never on top of hair. Keep her intact hairline and beautiful full chestnut hair; tuck a few strands naturally behind the pad and allow soft strands over its upper edge. No shaved/bald patches, hairless scalp islands or enlarged forehead. Keep the glowing disc readable without clearing a large area. Contact face follows the local side-plane of the temple, with perspective-appropriate foreshortening rather than pointing toward the camera. S025 begins with left contact attached; she explores its rim while friend fits the right.
+
+10 REVIEW
+Check year sign, fitting/cables, right-hand case, original hair silhouette and friendly non-romantic greeting.
+
+========================================================================
+
+05 · Awkward reunion and final closure [S031–S044]
+
+1 STORY
+Returning from the market she finds her ex at the lift. They wait, enter, brush shoulders and exchange tentative looks. At his floor he exits; she stays. Her steady gaze and the closing doors are her answer.
+
+2 SHOT CHANGES
+Correct reverse-angle staging in S034/S040, restore consistent right-hand duffel in S031/S044, shorten the final lonely rear shot, and give held discomfort room between inserts.
+
+3 TIMING / MUSIC
+Verse 2 is literal encounter and wait. His nearly-called admission belongs to the mirror beat. You ask if I remember leads into the threshold; But I do not care closes the doors at 108.500.
+
+3 RHYTHM
+Arrival movement → uncomfortable stillness → threshold movement → tiny contact → silence → admission → response → exit → closure. Do not fill the wait with arbitrary gestures.
+
+4 CONTINUITY
+Door south, rear cabin north. She occupies west side, he east. Screen sides change only when camera reverses: inside-looking-out S034/S040 woman right; door-side frontal shots woman left. Both bags remain anatomical right hands.
+
+5 COMPOSITION / LIGHT
+Cool brushed steel cabin, warm landing practicals, subdued reflections with exactly one of each person. No invented crowd or mirrored duplicate ex.
+
+6 PERFORMANCE
+He is tentative and regretful. She is briefly affected but increasingly resolved. Neither performs anger or longing through exaggerated hands. Contact is accidental and brief.
+
+7 CAMERA
+Establish the wait from behind; indicator is a neutral orientation reset; show the entering turn before the door-side angle. Mirror and detail shots stay restrained.
+
+8 EDITING
+Cut on his exit to restore landing geography, hold her answer in the threshold, then doors close completely before his final rear view.
+
+9 GENERATION
+First/end frames recommended for entering and exiting shots. Do not mirror the whole image to solve a side issue. Shoulder-contact lyric cue restored from timing-reference.txt at 87.040–90.380; it remains an estimate needing listening review at final conform.
+
+10 REVIEW
+Check bag hands, shoulder proximity, threshold safety, reflected identities, closing direction, and no reappearance of the ex after S044.
+
+========================================================================
+
+06 · An evening of ordinary friendship [S044A–S054]
+
+1 STORY
+She bursts home with the processor case, puts it safely down, changes offscreen and hurries downstairs towards the arcade. She arrives first, absorbs herself in RAD RACER, then her friend comforts her and they play together.
+
+2 SHOT CHANGES
+Add S044B to explain case and outfit. Redistribute solo-race time into cabinet, coin, steering, concentration and tap. Keep the successful S053 reaction replacement instead of broken cabinet geometry. New S044C stair descent connects home to arcade; S045 retains the tighter view with eager jogging. S044B/S045 local trims preserve S046 onward. R46 adds0.800s S044A entrance, trims ex hold0.350s and case placement0.450s. S044B teal market clothes; stairs retain arcade clothes after an explicit wardrobe ellipse. R54 replaces ordinary S051 walk with selected02A knowing glance →03A playful guard →04B hurried follow, newS051B/C.0.750s borrowed from controls/reaction; all later anchors preserved.
+
+3 TIMING / MUSIC
+Defiant chorus carries departure into active distraction. Into view at 125.360 reveals the arriving friend. Match-end finishes before the instrumental at 141.200.
+
+3 RHYTHM
+0.80s entrance →0.95s grounded case set-down → wardrobe/travel ellipse →1.50s stairs → unchanged arcade approach. → solo race → friend → shared game. Shared-game transition now0.850s look →0.800s teasing guard →1.530s short dash →1.800s inputs →2.750s spontaneous reaction → unchanged2.700s result.
+
+4 CONTINUITY
+Plum geometric top, teal pleated skirt, pouch, socks and platform Mary Janes. Case remains home. Friend wears palm-print top and denim shorts. Cabinet controls sit under the same screen facing both players. S044B leaves the case on the bench in market clothes. Cut to S044C omits changing clothes and exiting the apartment; she is now in the approved plum top/teal pleated skirt arcade outfit, empty-handed. No on-camera costume morph or instantaneous continuous-action match across this ellipse. User-selected S044A carries the case in anatomical LEFT and uses RIGHT on the door. In the omitted entry-to-bench walk she transfers the case to RIGHT before S044B. No hand transfer needs to fit inside the0.800s entrance; S044B artwork and right-hand placement remain unchanged.
+
+5 COMPOSITION / LIGHT
+Dark worn arcade surfaces, limited screen reflections, teal skirt retains material highlights without making everything glossy. Racing graphics remain retro inside a future cockpit. R55 colour correction: S049/S050 are the arcade colour/exposure baseline: warm-brown readable skin, chestnut brown hair, subdued plum and indigo surfaces. Reduce excessive broad red/magenta spill; keep local neon, game screens and metal glints vivid. Correct chroma selectively, without another uniform darkening pass.
+
+6 PERFORMANCE
+She is already eager to meet her friend. Solo racing absorbs her while she waits; the shoulder tap gives a happy surprise in its timing, not an unexplained stranger reunion. Friendship brings ease; one spontaneous laugh rather than constant laughter. Reassurance restores her playful initiative: one knowing look, one tiny mock-fighting tease, then immediate eager movement with friend. A single game laugh still lands afterwards.
+
+7 CAMERA
+Architectural high entry, high cabinet reveal, intimate coin and steering, screen-side face, high route to the fighting cabinet. No repeated flat medium coverage. Selected transition: intimate65mm glance, same-axis40mm waist-up guard, elevated rear28mm short diagonal follow; cabinet front and lanes remain coherent.
+
+8 EDITING
+A small game-time ellipse permits GAME OVER after a compact montage. Shoulder tap motivates the turn. End on game result, no waving goodbye. Elide standing between seatedS050 and standingS051. Match shoulder/arm impulse intoS051B/C; cut arriving hands intoS052 first inputs with tiny game-start ellipse.
+
+9 GENERATION
+Gameplay screens and exact lettering may be composited if video generation warps them. Stage left hand on joystick/right on buttons. Remove slate labels from production keyframes.
+
+10 REVIEW
+Check outfit consistency, delicate hand proportions, case absent, game lettering orientation and casual friendship. Check native selected frames, dainty fists, purposeful travel and exact red-left/blue-right arrival; original S052/S053 artwork remains untouched. S051/B/C and S053 chroma corrected; S049/S050 unchanged as visual baseline. Native originals/backups preserved.
+
+========================================================================
+
+07 · Making it work [S054B–S060]
+
+1 STORY
+The familiar apartment exterior now shows her working alone. A short sequence of competent finishing steps leads to a stable READY result and a clear pleased reaction.
+
+2 SHOT CHANGES
+Retire S056 redundant connector. Use its time for the main bench and successful reaction. Correct inward-facing bench backgrounds in S055/S057/S060.
+
+3 TIMING / MUSIC
+Instrumental from141.200 supports purposeful hand rhythm; READY stabilises in2.20s, followed by2.00s delight and eager preparation at154.700. Evidence precedes reaction.
+
+3 RHYTHM
+Establish the room, locate the build, tighten, connect, show result, then let pride arrive. One distinct action per shot.
+
+4 CONTINUITY
+Main bench faces the city window; secondary diagnostic shelves lie inside. Sage playsuit, peach tank, bare feet. Module and cooler match the market; cables connect to external pads, not a glove.
+
+5 COMPOSITION / LIGHT
+Amber task light over deep indigo interior, restrained cool window/screen illumination. Inward camera views show shelves and room, not the same exterior window behind her.
+
+6 PERFORMANCE
+She is skilled and absorbed; tension is ordinary concentration. Stable test produces relief, pride and the decision to try it, not a random glamour expression.
+
+7 CAMERA
+Window establishing view, high workbench, low hardware, macro connector, over-shoulder result, close human response.
+
+8 EDITING
+Build actions have a clear order. Show evidence of success before the smile. Tool and screen inserts permit modest changes of viewpoint without pretending a continuous orbit.
+
+9 GENERATION
+Preserve exact hardware geometry across all keyframes. A screen plate can hold READY and diagnostics sharp. Chair can be visible now, after the acquisition ellipse. S004/S005 are the protected exterior architecture baseline: an older rustic cyberpunk apartment block, weathered indigo-charcoal metal horizontal sliding sashes, practical rectangular divisions, tracks/handles, aged concrete/render reveals and sill. Never modernize them into new curtain-wall glazing or polished cladding. Preserve camera, aperture location and the existing interior floor plan. Windows are operable horizontally, not permanently sealed. S054B occurs on a hot August night: the broad sash is already slid LEFT, overlapping glazing at picture-left; centre/right aperture is OPEN, clear of glass. City reflections occur only on remaining glazed panes, never across the open aperture. Keep the sash in this state for the entire clip; no opening action, hinged swing, new balcony or added character action.
+
+10 REVIEW
+Check bench direction, hands/tool contact, stable cables, no duplicated build action and visible successful result before excitement.
+
+========================================================================
+
+08 · Eager preparation, calm connection [S061–S066B]
+
+1 STORY
+Her tested build leads to eager preparation and supported immersion. After settling she closes her eyes with quiet bliss. One contact adjustment and one deliberate wrist press precede light across her closed eyelid. A single supported portrait remains still as architecture enters her perception; the physical chair never leaves the apartment.
+
+2 SHOT CHANGES
+S063 eyes/bliss corrected, S066 eye stays closed, S066B supported overlap corrected. All intervals before C retained.
+
+3 TIMING / MUSIC
+Recovered holds give S066166.050–168.050 and S066B168.050–168.950; the arrival wide starts168.950. The voice remains173.560.
+
+3 RHYTHM
+Closed eye 2.00s → supported first overlap .90s → C perception .85s → D room recedes .95s → E world/portrait release 1.10s → F clean arrival 1.71s. C–F replace the same4.61s, with .91s fully clean at the end. I still turn remains173.560; S068 onward unchanged. These are phases of one continuous composite, not four hard cutaways.
+
+4 CONTINUITY
+For S061–S061D the approved S061 camera is the local spatial anchor: workbench at picture-left, ordinary desk chair immediately beside it, city window behind and neural chair farther back/right. She travels diagonally towards camera and picture-right onto the clear foreground rug. The fall and recovery happen on that same open rug, away from shelving. Stay on this camera side of the movement axis; no mirroring, doorway reverse, moved furniture or extended chair base. The wardrobe destination is off-screen right in the fall views, not behind her or directly in her fall path. Sage short utility playsuit with rolled sleeves, collar, pockets and drawstring over a visible peach scoop-neck tank; bare feet, gold hoops. No external temple contacts or wrist device worn during the rush, fall or recovery. Charcoal short one-piece, bare feet, gold hoops and external blue temple contacts; right wrist control. The costume change and contact fitting are omitted across the cut from S062 to S062B, never a morph.
+
+5 COMPOSITION / LIGHT
+Same dark workshop and cool contact light. The near-chair angle may see city glazing beyond; workbench close-ups looking inward do not.
+
+6 PERFORMANCE
+Eagerness settles into supported closed-eye bliss. Keep both real eyes closed through perception; gentle breathing, quiet lips and tiny smile. S061C brief amused “oh boy” eye contact shares the stumble with the audience; S061D gaze returns to wardrobe and eager movement immediately resumes.
+
+7 CAMERA
+Existing rush/recovery views retained; chair settles, temple/control details stay precise, eye locked, then supported portrait/world plates form the architectural overlap. S061C low near-frontal close-up then S061D wider/higher normal-lens recovery on the same side of axis; retain full feet, knees, supporting palm and headroom through standing.
+
+8 EDITING
+One contact and press precede light across the CLOSED lid, then first supported arch overlap. Continue into C–F as one composite.
+
+9 GENERATION
+Prepare before-action first frames for rise/reach/press. Do not start with a fully completed movement then ask the model to perform it again. External blue contacts sit flush on natural temple skin at the hairline, never on top of hair. Keep her intact hairline and beautiful full chestnut hair; tuck a few strands naturally behind the pad and allow soft strands over its upper edge. No shaved/bald patches, hairless scalp islands or enlarged forehead. Keep the glowing disc readable without clearing a large area. Contact face follows the local side-plane of the temple, with perspective-appropriate foreshortening rather than pointing toward the camera. For fall shots use S061 as the strict local camera/room reference. Do not use rejected shelf-directed attempts. Generate start/end states before animation; the S061D representative middle pose does not prove the full recovery has been animated. S066B requires separate chair/world plates and editorial double exposure, not a one-pass room morph. Latest rule: real-chair eyes remain closed; matched separate plates for continuous mind-to-place composite.
+
+10 REVIEW
+Check full hairline, pad contact on skin, supported body and closed real eyes with slight bliss; no physical transport. R56 selected option01, no mirrored forward/right trajectory, slim legs and constant body proportions; complete 1.80s get-up before the wardrobe ellipse.
+
+========================================================================
+
+09 · A responsive world, one continuous route [S066C–S096]
+
+1 STORY
+The existing world arrival, leaf and circular-pool response lead into the approved grounded current turn. At03:44 the silver-dress theatre insert begins; from03:48 the final stage passage carries the declarations, two quiet direct-gaze lines and gentle instrumental views. The quiet final gaze leads into the existing world iris after its complete phrase.
+
+2 SHOT CHANGES
+Replace long static arrival with three extra phase IDs D/E/F. Reuse original clean wide for F; revise C/D/E perception composites and S067 incoming text only. Eight new measured-beat inserts S076A–H replace S077/S078; S078A is the full-orbit source starting frame; S079 is a new close vocal impact. Retain the earlier r41 arrival composite. R48 selected04 S078A is preserved. R49 replaces S080–S088 with nine individual current-crescendo views, retimes only204.120–227.300 and adds S088A ooooo close-up224.000–227.300. S089 stays archived; Earlier approved S080–S088 retained; latest R51 replaces S090–S096 with eight stage views, including new S095B. S088A extends to228.000, final repeat held to251.040.
+
+3 TIMING / MUSIC
+C168.950–169.800; D169.800–170.750; E170.750–171.850; F171.850–173.560. Original4.61s allocation preserved; overlays gone by172.650, giving.91s clear space before I still turn173.560. Pool build accents194.553,195.020,195.487,195.953,196.420,196.887,197.355,197.821; doubled roll198.287; faster roll200.153; drop202.018. Into view vocal reference202.730; S080 remains204.120. Latest user cut: world S080–S088204.120–224.000(19.880s); S088A sung ooooo224.000–227.300(3.300s). These are user-supplied vocalise direction and editorial cut; lexical lyric objects/master remain unchanged. Latest R51: ooooo228.000; No way back231.440; I’m not coming back234.360; Stars237.620; quiet Colour242.300; non-vocal244.800–248.880; quiet repeat248.880–251.040. User delivery descriptions trusted; no new listening measurement.
+
+3 RHYTHM
+Retain world-entry and measured pool-build rhythm through the grounded current turn and03:44 insert. Final stage:3.440s closed-eye vowel →2.920s conviction →3.260s moving declaration →4.680s low opening →2.500s intimate quiet line →2.040s high breathing space →2.040s side breath →2.160s intimate quiet repeat. Each lexical phrase stays in one shot.
+
+4 CONTINUITY
+Existing world/circular-pool geography remains unchanged through S088. Stage is expressive performance coverage in one fixed empty theatre, silver dress and mounted microphone. Explorer journey to the existing oval pool is omitted during this coverage; S096B resumes retained world-eye art without showing a new arrival or costume morph.
+
+5 COMPOSITION / LIGHT
+Deep indigo moonlit environment, selective blue foliage and amber architecture. Brighter luminous details are allowed, but keep skin and stone grounded. Stage is an empty magnificent theatre with real overhead beams and low haze.
+
+6 PERFORMANCE
+Closed real portrait remains in slight bliss. Virtual heroine is grounded and entranced, then a small familiar reflex on the spoken line returns to present curiosity. Pool response: tactile curiosity → recognition through reflected light → absorbed uplift, never pain or superhero gestures. Stage close-up gives intense sung conviction. S078A keeps its raised LEFT reach/lower RIGHT arm. During S079 the gesture opens into soft outstretched arms; S080 returns already upright without a repeated rise. S080–S088: welcome → felt response → contentment → open release. New stage sustains rounded ooooo with soft eyes and supported breath. Final passage: strong expressive earlier lines, then BOTH colour lines quiet, deep, slow and thoughtful, direct into-camera eye contact. Instrumental body motion is gentle breathing and attention, not wild dancing.
+
+7 CAMERA
+Continuous portrait-to-architecture feathered reveal into centred low rear wide; settle before same-arch S067 close portrait. Pool build contrasts waterline/subsurface macros, skin/jewellery detail, eye extreme close-up, low portrait and high geography. One constant-radius level360° orbit then an almost locked85mm vocal close-up. S078A: low1m level28mm camera, constant4m radius, exact clockwise360° in3.731s, framed left of centre. Dynamic diagonals come from gesture/current, not camera roll. Latest S080–S088 contrasts high diagonal, low medium, tangential hand, tight face, vertical overhead, floor-level feet, distant very low sky, high oblique and front completion. No additional full camera orbit; body rotation supplies continuity. S088A is a tight85mm slight push. Final stage adds low emotional portrait, short20-degree arc, low medium-wide revealing beams, nearly still direct-gaze close-up, high diagonal gentle descent, side-to-front breath and tighter frontal quiet return.
+
+8 EDITING
+Keep existing earlier phase blends, pool build, orbit,03:44 stage cut and grounded turn. Extend S088A to03:48. Final stage holds each sung line uninterrupted; two moving non-vocal views separate the quiet lines. At251.040 match the completed final gaze into original S096B iris.
+
+9 GENERATION
+Eight native16:9 individual ImageGen storyboard stills with ten-category shot briefs and saved prompts. Earlier material unchanged. Production first/end frames and animated/lip-synced clips remain a later stage. Use unchanged song only; user delivery description governs quiet lines and listening has not been performed.
+
+10 REVIEW
+Compare all eight stills to original face/hair and established silver theatre references. Confirm closed-eye ooooo, intense strong lines, thoughtful direct gaze for both quiet lines, native resolution, mounted mic, distinct angles and no audience. Verify all lyric-sheet ranges contained in single shots, unchanged master and fixed ascent anchor254.380 onward.
+
+========================================================================
+
+10 · Every colour comes alive and ascent [S096B–S102]
+
+1 STORY
+After the complete quiet final stage repeat, steady eye contact matches into the original world iris. Fingers release, eyes close for a breath then reopen upward, and the preserved decisive ascent follows.
+
+2 SHOT CHANGES
+Keep S096B and all later artwork unchanged. Return to S096B at251.040 with its full0.800s. Recover0.860s across S097/S097B/S098 only; S098B onward and end273.285 stay fixed.
+
+3 TIMING / MUSIC
+Final quiet repeat remains in stage S096248.880–251.040. Return to original world iris251.040; hand251.840, exhale252.540, upward gaze253.440. Original ascent preparation254.380 and all later anchors unchanged. Final held-note endpoint remains a user-approved lyric-sheet estimate.
+
+3 RHYTHM
+Original iris0.800s → relaxed fingers0.700s → closed-eye exhale0.900s → open eyes/upward gaze0.940s → retained ascent preparation,0.600s lift and2.400s climb. Whole song remains273.285s.
+
+4 CONTINUITY
+Same oval-pool court below throughout ascent. No descent after lift. Navy dress, slim legs, bare feet and anatomical-left anklet; arms stay relaxed low. No new location or threatening fall. Stage-to-world match cut is expressive coverage with an offscreen travel ellipse to the existing oval-pool court; no on-screen teleport or wardrobe morph.
+
+5 COMPOSITION / LIGHT
+Colour flows as translucent currents, not explosions. Preserve face detail through effects and retain the dark foundation beneath luminous colour.
+
+6 PERFORMANCE
+Fulfilment → relaxed trust → quiet amazement → serenity. She accepts the experience without superhero posing or childlike glee.
+
+7 CAMERA
+Intimate nearly locked details precede a real crane showing falling-away ground. High views keep a stable horizon; close-up pauses punctuate the scale.
+
+8 EDITING
+Match thoughtful stage gaze into original iris, then one coherent tension release before ascent. Preserve all original images and every timing fromS098B254.380 onward. No repetition of final lyric across a second stage shot.
+
+9 GENERATION
+S099B needs a low-start frame and elevated end frame. S102 is safer as separately coherent portrait/world layers if the video model duplicates or warps her. Render video only after storyboard/keyframe approval. Existing S096B onward artwork is retained byte-for-byte. Retimed relaxation briefs remain animation directions, not rendered video.
+
+10 REVIEW
+Verify quiet final repeat finishes before iris, original iris duration0.800s retained, no flash-short recovery shots, original art untouched, all anchors254.380 onward and full273.285s master intact.
+LATEST CURRENT MOVIE STYLE ROLLOUT — R52
+User approved fresh S015D/S015K/S016 previews and requested the new images replace S015C–S019. Ten active shots updated: S015C/D/F/G/I/K/L/M, S016 and S019. Three approved previews reused unchanged; seven fresh scene illustrations plus targeted desk/book corrections. Use current movie S021/S024/S055 and approved previews for fine drawing/shading; do not return to historical original-sheet or rejected r49 opening redraw style. User supplied S054B desk is the freestanding wooden desk with open knee space/rolling chair, not a fitted window workbench; book is normal18×24cm slim textbook, Published2064. S019 retains selected canopied market concept with worn posts/AFTERIMAGE sign/sparse workers, redrawn in approved current style and2074 signage. Native1672×941 files retained unchanged, every generated original/variant preserved. All135 intervals,19.500/50.020 anchors, audio/lyrics and125 other current shot records unchanged. Backups in revisions/current-movie-style-rollout-r52/before/. Read its REVIEW.txt; do not rerun older publishers.
+
+LATEST S016 USER SELECTION — R53
+Replace the distant street jog with the exact user-selected boots/puddle image, unchanged960×540. Stable storyboard ID remains S016; supplied S017 corner slate is a legacy image label, not a renumbering. Ground-level close tracking follows brisk natural footfalls, small splash and ripples; no casual stroll, slow-motion twirl or full-body/crowd shot. Same teal-wrap/black-mesh market costume, bare slim lower legs and black platform block-heel ankle boots; no bag or acquired case. Preserve46.900–50.020 (3.120s), original song and Into view/S019 at50.020. S015M outgoing cut text leads into this boot detail; all other images/timings preserved. All ten shot categories and exports synchronized; animation/clean production keyframes remain future work.
+
+LATEST APPROVED FULL SOURCE-MATCH PUBLICATION — R57 / 7 OCTOBER 2026
+User approved all 138 source-match comparison candidates on 7 October 2026. Publish the selected native artwork, preserve the edit and match each original exposure; remove baked shot-number badges. CRT is a separate browser-only preview, not part of the artwork. All 138 stable IDs, timings, lyrics, camera/performance direction, audio and story actions remain unchanged. Selected candidates copied byte-for-byte: 137 at1672×941, S034 at native1671×941. No resize, extra colour grade or regeneration. The approved batch supersedes historical instructions to retain older pixels/resolutions/labels for active shots only. Original boards, original artwork and archived shot records remain untouched; full pre-publication copy in revisions/full-source-match-r57/before/. Current native paths propagate to shot briefs, reference packs, CSV and handoff exports. Browser migration preserves personal notes/direction/custom artwork. Representative stills remain distinct from future production first/end frames and video clips. See revisions/full-source-match-r57/REVIEW.txt.
