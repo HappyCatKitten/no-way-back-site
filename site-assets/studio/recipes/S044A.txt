@@ -1,0 +1,29 @@
+S044A — User-selected high diagonal entrance frame: she crosses her tucked-away apartment threshold in the teal market dress. Her anatomical RIGHT hand holds the already-open door handle; her anatomical LEFT holds the rigid clear-lid processor box beside her thigh. Forward weight and the trailing boot give the hurried arrival, with the rest of the apartment concealed.
+
+REFERENCES
+outputs/storyboard-ai-edit/assets/s044a-source-match-r57.png — Approved high-angle entrance composition and left-hand case.
+outputs/storyboard-ai-edit/references/locked-characters/01-heroine-face.png — Original adult face.
+outputs/storyboard-ai-edit/references/locked-characters/02-heroine-profile-hair.png — Original mid-back hair.
+outputs/storyboard-ai-edit/revisions/r18/elevator-wrap-dress-reference.png — Market wardrobe only.
+outputs/storyboard-ai-edit/assets/s044b-source-match-r57.png — Same rigid processor case and dark home grade; no apartment floor-plan invention.
+
+ARTWORK PROMPT
+Use case: identity-preserve / precise-object-edit.
+Asset: native 1672×941 full-frame storyboard image S044A.
+Input 1 is the exact EDIT TARGET and the ONLY reference. Replicate it extremely conservatively at 1672×941, without crop, zoom, letterbox, camera shift or resampling a smaller generated image.
+The ONLY intended visual change is removal of any shot-number slate and its black rectangle in the top-left; reconstruct that small concealed region naturally. If there is no number, change nothing else. No number, overlay or watermark on the output. Preserve all genuine in-world signs, screens, diagrams, book titles and dates.
+EXACT original colour/exposure matching: do not lighten OR darken the original, warm it, saturate it, change hue or introduce a new grade. Its original subdued brown/tanned skin and painted cel shadows are already the correct shared film identity. Copy the original RGB relationships between skin, hair, costume, room darkness and bright local light. Brown/tanned means match the original, not add orange, red, pink, pale peach, extra tan or darker fill. Preserve the original level of indigo shadow/atmospheric darkness, matte cel-painted anime finish, contrast and soft focus. Keep legitimate neon/magic/spotlights as bright as the original; do not drain fantasy sparkle or apply one global darkening filter.
+No detail enhancement/beautification or HDR. No extra skin gloss, copper hair highlights, rim lights, amber fill, circuitry, grain, sharpened background or microtexture. Resolve the SAME existing lines and painted shapes faithfully at native output size.
+Preserve exact normalized subject scale, positions, pose, expression, mouth/eyes/gaze, face identity, body proportions/slim legs, hair silhouette/length/grouped curls, hands, clothes/jewellery, held props and hand, architecture/furniture/window geometry and opening state, light positions, material textures, perspective, background landmarks, depth of field and effects. Do not restage, redesign, mirror or change any story beat. Where no person appears, do not add one.
+Existing scene context (retain exactly, no new action): User-selected high diagonal entrance frame: she crosses her tucked-away apartment threshold in the teal market dress. Her anatomical RIGHT hand holds the already-open door handle; her anatomical LEFT holds the rigid clear-lid processor box beside her thigh. Forward weight and the trailing boot give the hurried arrival, with the rest of the apartment concealed.
+Literal copying of the source matters more than artistic interpretation. Original image alone is the exposure and skin colour authority, never the previous brighter remake.
+
+
+FIRST FRAME
+Use the approved user-supplied entrance composition and identity. First instant: Door already open; she crosses the sill with LEFT-hand case and RIGHT fingertips still on the handle. Dark-teal short asymmetric wrap dress over sheer black high-neck long-sleeve mesh, silver side buckle, black block-heel ankle boots and gold hoops. Original adult identity, mid-back chestnut hair and slim legs. Rigid clear-lid processor case in anatomical LEFT hand until released onto the bench. No purse or head contacts. Small tucked-away entry alcove only: weathered indigo-charcoal inward-opening metal door, aged plaster and narrow corridor glimpse. Camera inside, door behind at picture-left, travel diagonal deeper towards picture-right. Do not expose or relocate sofa, windows, kitchen, bench or shelves in the entry shot. User-selected S044A carries the case in anatomical LEFT and uses RIGHT on the door. In the omitted entry-to-bench walk she transfers the case to RIGHT before S044B. No hand transfer needs to fit inside the0.800s entrance; S044B artwork and right-hand placement remain unchanged. No captions or new room layout.
+
+ANIMATION BRIEF
+One continuous0.800s selected threshold action plus handles. Start: Door already open; she crosses the sill with LEFT-hand case and RIGHT fingertips still on the handle. Action: She releases the handle with RIGHT, clears the threshold in one quick step and carries the case deeper inside in LEFT. End: She continues towards the offscreen bench with LEFT-hand case; the travel cut omits the later transfer to RIGHT. Camera: High35mm interior three-quarter: brief small lateral follow as she strides from threshold towards picture-right. Foreground jamb supplies parallax; no full door-opening or room reveal. Acting: Forward hinge and grounded fast threshold step. LEFT hand grips the case at her left thigh; RIGHT hand releases the existing door handle as she advances. Hair follows momentum. No hand transfer or full door-opening performance inside this short shot. Keep approved face, hair, dress, case size, door geometry and dark illustrated grade. No extra cuts, speech, costume morph, hand swap or replacement soundtrack.
+
+STATUS
+Exact user-selected still exported960×540 without generative alteration; future video and first/end keyframes pending.

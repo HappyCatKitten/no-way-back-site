@@ -1,0 +1,25 @@
+S001 — A vast cool-toned metropolis fills the horizon: dense towers and inhabited blocks layered into atmospheric distance.
+
+REFERENCES
+outputs/storyboard-ai-edit/assets/s001-source-match-r57.png — Representative composition and scene rendering; not automatically a production first frame.
+
+ARTWORK PROMPT
+Use case: identity-preserve / precise-object-edit.
+Asset: native 1672×941 full-frame storyboard image S001.
+Input 1 is the exact EDIT TARGET and the ONLY reference. Replicate it extremely conservatively at 1672×941, without crop, zoom, letterbox, camera shift or resampling a smaller generated image.
+The ONLY intended visual change is removal of any shot-number slate and its black rectangle in the top-left; reconstruct that small concealed region naturally. If there is no number, change nothing else. No number, overlay or watermark on the output. Preserve all genuine in-world signs, screens, diagrams, book titles and dates.
+EXACT original colour/exposure matching: do not lighten OR darken the original, warm it, saturate it, change hue or introduce a new grade. Its original subdued brown/tanned skin and painted cel shadows are already the correct shared film identity. Copy the original RGB relationships between skin, hair, costume, room darkness and bright local light. Brown/tanned means match the original, not add orange, red, pink, pale peach, extra tan or darker fill. Preserve the original level of indigo shadow/atmospheric darkness, matte cel-painted anime finish, contrast and soft focus. Keep legitimate neon/magic/spotlights as bright as the original; do not drain fantasy sparkle or apply one global darkening filter.
+No detail enhancement/beautification or HDR. No extra skin gloss, copper hair highlights, rim lights, amber fill, circuitry, grain, sharpened background or microtexture. Resolve the SAME existing lines and painted shapes faithfully at native output size.
+Preserve exact normalized subject scale, positions, pose, expression, mouth/eyes/gaze, face identity, body proportions/slim legs, hair silhouette/length/grouped curls, hands, clothes/jewellery, held props and hand, architecture/furniture/window geometry and opening state, light positions, material textures, perspective, background landmarks, depth of field and effects. Do not restage, redesign, mirror or change any story beat. Where no person appears, do not add one.
+Existing scene context (retain exactly, no new action): A vast cool-toned metropolis fills the horizon: dense towers and inhabited blocks layered into atmospheric distance.
+Literal copying of the source matters more than artistic interpretation. Original image alone is the exposure and skin colour authority, never the previous brighter remake.
+
+
+FIRST FRAME
+Create one clean 16:9 first frame for S001. Use the representative still for composition, camera height, environment and rendering; use the supplied identity/outfit references for those roles only. Exact first instant: Dense skyline already readable; paired teal crowns sit beyond the nearest roofs. Performance at that instant must permit: Traffic stays tiny; no aircraft or extravagant spectacle is added. No heroine until S006; cropped white tank and light jeans in apartment, no jacket. Original adult heroine: brown almond eyes, original face/brow/jaw from locked crops, chestnut swept fringe and grouped loose curls ending mid-back above the waistband; no extra-long cascading hair or tiny red ringlets. Gold hoops. Slim naturally tapered legs with curvier hips/bum; preserve adult anatomy and slender hands. Outfit references govern clothes, not body redesign. Original drawn style, deep indigo/charcoal shadows, restrained amber and selective coloured rims. Cool steel blue/indigo city, restrained cyan-white and amber practical light. Deep shadows; no broad neon wash. Exterior glass remains a foreground plane. Do not depict later events from the clip yet. Remove baked shot labels and lyric overlays. Keep physical geography and props consistent: Approved cool city landmarks select the familiar warm bay; S006 finds her already alone, no argument.
+
+ANIMATION BRIEF
+One continuous illustrated shot, 3.800 seconds of selected action, 16:9. Start: Dense skyline already readable; paired teal crowns sit beyond the nearest roofs. Action: Descend through a shallow layer of haze towards those crowns as traffic threads below. End: The same towers remain identifiable, larger but still distant. Performance: No character performance; scale and contained human activity invite attention. Traffic stays tiny; no aircraft or extravagant spectacle is added. Camera: One slow diagonal aerial descent, approximately 24mm perspective, with foreground roofs moving faster than distant towers; no roll. No heroine until S006; cropped white tank and light jeans in apartment, no jacket. Keep identity, hands, costume, prop geometry and background stable; no extra cuts or new story events. No added speech, lip-sync or soundtrack; edit against the unchanged master.
+
+STATUS
+Brief complete; production keyframes and video not generated in this editorial pass.

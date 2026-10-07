@@ -1,0 +1,127 @@
+{
+  "storyboardVersion": "s015b-apartment-match-r58",
+  "audioSHA256": "6e08e4ab17800094a87870c2b5b023f8a5b81c386ae141b8f389105d91590484",
+  "sources": [
+    "outputs/storyboard-ai-edit/shots.json",
+    "lyric-analysis/outputs/final-take/word-timings.json",
+    "lyric-analysis/outputs/final-take/beat-map.json",
+    "outputs/colour-reference-pack-v1/palettes.json",
+    "outputs/image-quality-tests/full-storyboard-source-match-v2/manifest.json"
+  ],
+  "cast": [
+    {
+      "group": "wardrobe",
+      "title": "City girl",
+      "caption": "Jeans, cropped white top and leather jacket.",
+      "path": "site-assets/studio/01-jeans-jacket-v2.png",
+      "source": "outputs/character-sheets/01-jeans-jacket-v2.png",
+      "sha256": "407db6f2d9e1bbbde162e23b268b44da6defb60265501b2bbe3f44585c5407e9"
+    },
+    {
+      "group": "wardrobe",
+      "title": "Fantasy explorer",
+      "caption": "Navy dress, bare feet and crystal jewellery.",
+      "path": "site-assets/studio/02-blue-dress-v3.png",
+      "source": "outputs/character-sheets/02-blue-dress-v3.png",
+      "sha256": "e9e988c984579608c8b91bdf6798a0828571cefd4c07394d26d5be7b90c33bb2"
+    },
+    {
+      "group": "wardrobe",
+      "title": "Popstar",
+      "caption": "Silver stage dress and performance identity.",
+      "path": "site-assets/studio/03-popstar-dress-v2.png",
+      "source": "outputs/character-sheets/03-popstar-dress-v2.png",
+      "sha256": "d68d58d2b1f791e9244b3ff552b5a69bd2c196a9a5a55132dfd4be747a82490e"
+    },
+    {
+      "group": "wardrobe",
+      "title": "Arcade outfit",
+      "caption": "Plum patterned top and teal pleated skirt.",
+      "path": "site-assets/studio/05-elevator-teal-skirt-turnaround-v1.png",
+      "source": "outputs/character-sheets/05-elevator-teal-skirt-turnaround-v1.png",
+      "sha256": "a5067f2a3cd6db70c1b530bf1c120a1039bec9487362e75730a5760e0dc0e129"
+    },
+    {
+      "group": "wardrobe",
+      "title": "Home outfit",
+      "caption": "Sage utility playsuit over peach tank.",
+      "path": "site-assets/studio/06-home-sage-playsuit-turnaround-v2.png",
+      "source": "outputs/character-sheets/06-home-sage-playsuit-turnaround-v2.png",
+      "sha256": "cac5481a092ae7fe9874daea17d3971012f3f88e89372bae144c8efc80780253"
+    },
+    {
+      "group": "wardrobe",
+      "title": "Market & elevator",
+      "caption": "Teal wrap dress over black mesh.",
+      "path": "site-assets/studio/07-hacker-market-teal-dress-approved.png",
+      "source": "outputs/character-sheets/07-hacker-market-teal-dress-approved.png",
+      "sha256": "002f80e4fdf1d0edec8dbb6619401f306f2d9d271bd84ba3b517cf56e5402607"
+    },
+    {
+      "group": "characters",
+      "title": "Ex · opening reference",
+      "caption": "Charcoal jacket, dark hair and original identity.",
+      "path": "site-assets/studio/ex-bf-01-opening-v1.png",
+      "source": "outputs/character-sheets/ex-bf-01-opening-v1.png",
+      "sha256": "ed02c2ab7053c2f8d96bd96f20905f6f0a16de21c963d3bfac94d43145377507"
+    },
+    {
+      "group": "characters",
+      "title": "Ex · elevator reference",
+      "caption": "Locked reunion appearance.",
+      "path": "site-assets/studio/ex-bf-02-elevator-v3.png",
+      "source": "outputs/character-sheets/ex-bf-02-elevator-v3.png",
+      "sha256": "eabace1d61688f957e8f6ffa9b7a81d4b9491f3a0ad8a89392f7cb7b70edb5e8"
+    },
+    {
+      "group": "characters",
+      "title": "Her old market friend",
+      "caption": "Beanie, glasses and beard; approved scene reference.",
+      "path": "outputs/storyboard-ai-edit/assets/s023a-source-match-r57.png",
+      "source": "outputs/storyboard-ai-edit/assets/s023a-source-match-r57.png",
+      "sha256": "0342df3af47591ef6e759fb106309f08c320b8889f71faf5ef30925cc257ddbc"
+    },
+    {
+      "group": "characters",
+      "title": "Her arcade friend",
+      "caption": "Short dark hair and palm-print tank; approved scene reference.",
+      "path": "outputs/storyboard-ai-edit/assets/s050-source-match-r57.png",
+      "source": "outputs/storyboard-ai-edit/assets/s050-source-match-r57.png",
+      "sha256": "8f77fd42c59fd05b6ec81105412c30e2729c3394a46431bca23c652ad672b1e2"
+    },
+    {
+      "group": "identity",
+      "title": "Her original face",
+      "caption": "Locked identity reference; preserve face, hair and proportions.",
+      "path": "site-assets/studio/01-heroine-face.png",
+      "source": "outputs/storyboard-ai-edit/references/locked-characters/01-heroine-face.png",
+      "sha256": "4b85be42225acc4f4357f1656a2752e192034aa9eae6d48d56039c3686b398d3"
+    },
+    {
+      "group": "identity",
+      "title": "Hair length & profile",
+      "caption": "Locked identity reference; preserve face, hair and proportions.",
+      "path": "site-assets/studio/02-heroine-profile-hair.png",
+      "source": "outputs/storyboard-ai-edit/references/locked-characters/02-heroine-profile-hair.png",
+      "sha256": "bf4b7cea4ea6e1c1d24ef20e41537f863bae9894bfa0fe7cf09cd4152ac313f7"
+    },
+    {
+      "group": "identity",
+      "title": "Face & couple scale",
+      "caption": "Locked identity reference; preserve face, hair and proportions.",
+      "path": "site-assets/studio/03-couple-and-face.png",
+      "source": "outputs/storyboard-ai-edit/references/locked-characters/03-couple-and-face.png",
+      "sha256": "32d963dc03f414fa7f60ae9fdea9888354de2590e1e0a40b362e19e5dfbf1ec4"
+    },
+    {
+      "group": "identity",
+      "title": "Rear hair & boyfriend",
+      "caption": "Locked identity reference; preserve face, hair and proportions.",
+      "path": "site-assets/studio/04-couple-rear-and-boyfriend.png",
+      "source": "outputs/storyboard-ai-edit/references/locked-characters/04-couple-rear-and-boyfriend.png",
+      "sha256": "0abc5f7e0f3dbeadcd36dd4c4c174e0d2f8e6845225c1faf968cca24a8e67282"
+    }
+  ],
+  "waveform": "900 RMS bins from unchanged master, mono 4 kHz analysis only; source audio preserved.",
+  "metrics": "Brightness is mean sRGB Rec.709-weighted code value, not linear-light exposure. Saturation is mean HSV S. Whole-image estimates are descriptive, not automatic skin-tone or quality judgements."
+}

@@ -1,0 +1,25 @@
+S005 — Nearer neighborhood height, the approved cool apartment facade and warm windows locate her home beneath the immense city; no couple or argument is legible.
+
+REFERENCES
+outputs/storyboard-ai-edit/assets/s005-source-match-r57.png — Representative composition and scene rendering; not automatically a production first frame.
+
+ARTWORK PROMPT
+Use case: identity-preserve / precise-object-edit.
+Asset: native 1672×941 full-frame storyboard image S005.
+Input 1 is the exact EDIT TARGET and the ONLY reference. Replicate it extremely conservatively at 1672×941, without crop, zoom, letterbox, camera shift or resampling a smaller generated image.
+The ONLY intended visual change is removal of any shot-number slate and its black rectangle in the top-left; reconstruct that small concealed region naturally. If there is no number, change nothing else. No number, overlay or watermark on the output. Preserve all genuine in-world signs, screens, diagrams, book titles and dates.
+EXACT original colour/exposure matching: do not lighten OR darken the original, warm it, saturate it, change hue or introduce a new grade. Its original subdued brown/tanned skin and painted cel shadows are already the correct shared film identity. Copy the original RGB relationships between skin, hair, costume, room darkness and bright local light. Brown/tanned means match the original, not add orange, red, pink, pale peach, extra tan or darker fill. Preserve the original level of indigo shadow/atmospheric darkness, matte cel-painted anime finish, contrast and soft focus. Keep legitimate neon/magic/spotlights as bright as the original; do not drain fantasy sparkle or apply one global darkening filter.
+No detail enhancement/beautification or HDR. No extra skin gloss, copper hair highlights, rim lights, amber fill, circuitry, grain, sharpened background or microtexture. Resolve the SAME existing lines and painted shapes faithfully at native output size.
+Preserve exact normalized subject scale, positions, pose, expression, mouth/eyes/gaze, face identity, body proportions/slim legs, hair silhouette/length/grouped curls, hands, clothes/jewellery, held props and hand, architecture/furniture/window geometry and opening state, light positions, material textures, perspective, background landmarks, depth of field and effects. Do not restage, redesign, mirror or change any story beat. Where no person appears, do not add one.
+Existing scene context (retain exactly, no new action): Nearer neighborhood height, the approved cool apartment facade and warm windows locate her home beneath the immense city; no couple or argument is legible.
+Literal copying of the source matters more than artistic interpretation. Original image alone is the exposure and skin colour authority, never the previous brighter remake.
+
+
+FIRST FRAME
+Clean 16:9 first frame for S005. Preserve approved inhabited facade and cool night palette. Near the residential facade, one warm apartment bay is visible. No visible argument or readable couple. Camera: Lower neighbourhood-height approach, 50mm perspective; use physical forward movement, not a digital zoom through glass. No text.
+
+ANIMATION BRIEF
+One continuous illustrated 3.700-second facade approach. Approach that bay while keeping distant architecture readable; no two figures or argument are introduced. Camera: Lower neighbourhood-height approach, 50mm perspective; use physical forward movement, not a digital zoom through glass. End: The warm window is selected for the closer solitary view. No cuts or extra character events.
+
+STATUS
+Brief complete; production keyframes and video not generated in this editorial pass.

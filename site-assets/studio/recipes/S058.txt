@@ -1,0 +1,30 @@
+S058 — An oblique detail shows her bare hands attaching distinct power and shielded data connectors to the CORTEX ARRAY. External blue contact pads lie at the cable ends on the bench.
+
+REFERENCES
+outputs/storyboard-ai-edit/assets/s058-source-match-r57.png — Representative composition and scene rendering; not automatically a production first frame.
+outputs/storyboard-ai-edit/references/locked-characters/01-heroine-face.png — Mandatory original heroine identity.
+outputs/storyboard-ai-edit/references/locked-characters/02-heroine-profile-hair.png — Original hair length and silhouette; ends mid-back, not waist.
+outputs/storyboard-ai-edit/revisions/home-build-r20/outfit-reference.png — Wardrobe only; retain original body proportions and slim legs.
+outputs/storyboard-ai-edit/assets/s024-source-match-r57.png — CORTEX ARRAY module design: compact stacked boards, three chips, cooler.
+outputs/storyboard-ai-edit/assets/s015c-window-bench.jpg — Apartment architectural anchor; main bench parallel to city window, secondary desk inside.
+
+ARTWORK PROMPT
+Use case: identity-preserve / precise-object-edit.
+Asset: native 1672×941 full-frame storyboard image S058.
+Input 1 is the exact EDIT TARGET and the ONLY reference. Replicate it extremely conservatively at 1672×941, without crop, zoom, letterbox, camera shift or resampling a smaller generated image.
+The ONLY intended visual change is removal of any shot-number slate and its black rectangle in the top-left; reconstruct that small concealed region naturally. If there is no number, change nothing else. No number, overlay or watermark on the output. Preserve all genuine in-world signs, screens, diagrams, book titles and dates.
+EXACT original colour/exposure matching: do not lighten OR darken the original, warm it, saturate it, change hue or introduce a new grade. Its original subdued brown/tanned skin and painted cel shadows are already the correct shared film identity. Copy the original RGB relationships between skin, hair, costume, room darkness and bright local light. Brown/tanned means match the original, not add orange, red, pink, pale peach, extra tan or darker fill. Preserve the original level of indigo shadow/atmospheric darkness, matte cel-painted anime finish, contrast and soft focus. Keep legitimate neon/magic/spotlights as bright as the original; do not drain fantasy sparkle or apply one global darkening filter.
+No detail enhancement/beautification or HDR. No extra skin gloss, copper hair highlights, rim lights, amber fill, circuitry, grain, sharpened background or microtexture. Resolve the SAME existing lines and painted shapes faithfully at native output size.
+Preserve exact normalized subject scale, positions, pose, expression, mouth/eyes/gaze, face identity, body proportions/slim legs, hair silhouette/length/grouped curls, hands, clothes/jewellery, held props and hand, architecture/furniture/window geometry and opening state, light positions, material textures, perspective, background landmarks, depth of field and effects. Do not restage, redesign, mirror or change any story beat. Where no person appears, do not add one.
+Existing scene context (retain exactly, no new action): An oblique detail shows her bare hands attaching distinct power and shielded data connectors to the CORTEX ARRAY. External blue contact pads lie at the cable ends on the bench.
+Literal copying of the source matters more than artistic interpretation. Original image alone is the exposure and skin colour authority, never the previous brighter remake.
+
+
+FIRST FRAME
+Create one clean 16:9 first frame for S058. Use the representative still for composition, camera height, environment and rendering; use the supplied identity/outfit references for those roles only. Exact first instant: One cable is already seated; the second keyed connector is aligned with its socket and blue pads lie beyond. Performance at that instant must permit: Slender fingers apply pressure along connector axis, never through the board; no sparks or loose new leads. Sage short utility playsuit, peach tank, barefoot, gold hoops. Original adult heroine: brown almond eyes, original face/brow/jaw from locked crops, chestnut swept fringe and grouped loose curls ending mid-back above the waistband; no extra-long cascading hair or tiny red ringlets. Gold hoops. Slim naturally tapered legs with curvier hips/bum; preserve adult anatomy and slender hands. Outfit references govern clothes, not body redesign. Original drawn style, deep indigo/charcoal shadows, restrained amber and selective coloured rims. Amber task light over deep indigo interior, restrained cool window/screen illumination. Inward camera views show shelves and room, not the same exterior window behind her. Do not depict later events from the clip yet. Remove baked shot labels and lyric overlays. Keep physical geography and props consistent: Main bench faces the city window; secondary diagnostic shelves lie inside. Sage playsuit, peach tank, bare feet. Module and cooler match the market; cables connect to external pads, not a glove.
+
+ANIMATION BRIEF
+One continuous illustrated shot, 2.000 seconds of selected action, 16:9. Start: One cable is already seated; the second keyed connector is aligned with its socket and blue pads lie beyond. Action: She seats the remaining connector with a small firm push, then removes her hand. End: Both leads are visibly attached; pads and cable exits are unchanged. Performance: Final preparation before test. Slender fingers apply pressure along connector axis, never through the board; no sparks or loose new leads. Camera: Oblique cable macro, 100mm; locked with a brief focus transfer from seated plug to connected pads. Sage short utility playsuit, peach tank, barefoot, gold hoops. Keep identity, hands, costume, prop geometry and background stable; no extra cuts or new story events. No added speech, lip-sync or soundtrack; edit against the unchanged master.
+
+STATUS
+Brief complete; production keyframes and video not generated in this editorial pass.

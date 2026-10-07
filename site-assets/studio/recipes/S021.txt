@@ -1,0 +1,30 @@
+S021 — Her eyes brighten in genuine surprise as she recognises an old friend offscreen; lingering sadness briefly gives way to recognition.
+
+REFERENCES
+outputs/storyboard-ai-edit/assets/s021-source-match-r57.png — Representative composition and scene rendering; not automatically a production first frame.
+outputs/storyboard-ai-edit/references/locked-characters/01-heroine-face.png — Mandatory original heroine identity.
+outputs/storyboard-ai-edit/references/locked-characters/02-heroine-profile-hair.png — Original hair length and silhouette; ends mid-back, not waist.
+outputs/storyboard-ai-edit/revisions/market-wardrobe-r19/outfit-reference.png — Wardrobe only; retain original body proportions and slim legs.
+outputs/storyboard-ai-edit/assets/s024-source-match-r57.png — CORTEX ARRAY module design: compact stacked boards, three chips, cooler.
+outputs/storyboard-ai-edit/assets/s022-source-match-r57.png — Old beanie friend identity, only if visible in this shot.
+
+ARTWORK PROMPT
+Use case: identity-preserve / precise-object-edit.
+Asset: native 1672×941 full-frame storyboard image S021.
+Input 1 is the exact EDIT TARGET and the ONLY reference. Replicate it extremely conservatively at 1672×941, without crop, zoom, letterbox, camera shift or resampling a smaller generated image.
+The ONLY intended visual change is removal of any shot-number slate and its black rectangle in the top-left; reconstruct that small concealed region naturally. If there is no number, change nothing else. No number, overlay or watermark on the output. Preserve all genuine in-world signs, screens, diagrams, book titles and dates.
+EXACT original colour/exposure matching: do not lighten OR darken the original, warm it, saturate it, change hue or introduce a new grade. Its original subdued brown/tanned skin and painted cel shadows are already the correct shared film identity. Copy the original RGB relationships between skin, hair, costume, room darkness and bright local light. Brown/tanned means match the original, not add orange, red, pink, pale peach, extra tan or darker fill. Preserve the original level of indigo shadow/atmospheric darkness, matte cel-painted anime finish, contrast and soft focus. Keep legitimate neon/magic/spotlights as bright as the original; do not drain fantasy sparkle or apply one global darkening filter.
+No detail enhancement/beautification or HDR. No extra skin gloss, copper hair highlights, rim lights, amber fill, circuitry, grain, sharpened background or microtexture. Resolve the SAME existing lines and painted shapes faithfully at native output size.
+Preserve exact normalized subject scale, positions, pose, expression, mouth/eyes/gaze, face identity, body proportions/slim legs, hair silhouette/length/grouped curls, hands, clothes/jewellery, held props and hand, architecture/furniture/window geometry and opening state, light positions, material textures, perspective, background landmarks, depth of field and effects. Do not restage, redesign, mirror or change any story beat. Where no person appears, do not add one.
+Existing scene context (retain exactly, no new action): Her eyes brighten in genuine surprise as she recognises an old friend offscreen; lingering sadness briefly gives way to recognition.
+Literal copying of the source matters more than artistic interpretation. Original image alone is the exposure and skin colour authority, never the previous brighter remake.
+
+
+FIRST FRAME
+Create one clean 16:9 first frame for S021. Use the representative still for composition, camera height, environment and rendering; use the supplied identity/outfit references for those roles only. Exact first instant: Her gaze is on hardware near the stall, expression interested. Performance at that instant must permit: Brows lift once, mouth parts slightly and head tilts forward; no romantic gaze. Teal asymmetric wrap dress, black mesh long sleeves, silver side buckle, black block-heel ankle boots. Case anatomical RIGHT after S029. Original adult heroine: brown almond eyes, original face/brow/jaw from locked crops, chestnut swept fringe and grouped loose curls ending mid-back above the waistband; no extra-long cascading hair or tiny red ringlets. Gold hoops. Slim naturally tapered legs with curvier hips/bum; preserve adult anatomy and slender hands. Outfit references govern clothes, not body redesign. Original drawn style, deep indigo/charcoal shadows, restrained amber and selective coloured rims. Dense hacker paradise, worn components, task lamps and cool screens. Preserve dark original palette. Preview is abstract swirls, not the full later landscape. Do not depict later events from the clip yet. Remove baked shot labels and lyric overlays. Keep physical geography and props consistent: Beanie friend is older, bearded and bespectacled, never the ex. Teal wrap dress/black mesh/ankle boots. Module has stacked boards, three chips and cooler; right-hand rigid case after handover.
+
+ANIMATION BRIEF
+One continuous illustrated shot, 1.900 seconds of selected action, 16:9. Start: Her gaze is on hardware near the stall, expression interested. Action: She notices the man, eyes refocus on his face, and a small surprised smile begins. End: She holds his eyeline, clearly recognising someone familiar. Performance: Curiosity changes to pleased surprise. Brows lift once, mouth parts slightly and head tilts forward; no romantic gaze. Camera: Close-up, 85mm; stable camera, near eye sharp, stall lights secondary. Teal asymmetric wrap dress, black mesh long sleeves, silver side buckle, black block-heel ankle boots. Case anatomical RIGHT after S029. Keep identity, hands, costume, prop geometry and background stable; no extra cuts or new story events. No added speech, lip-sync or soundtrack; edit against the unchanged master.
+
+STATUS
+Brief complete; production keyframes and video not generated in this editorial pass.

@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-07",
+  "storyboardVersion": "s015b-apartment-match-r58",
+  "browserChecks": [
+    "138 shot options and seek",
+    "vocal/instrumental switches preserve time",
+    "audio playback and active word highlighting",
+    "director overlay toggles",
+    "14 references, four identity crops filtered",
+    "reference lightbox opens/closes",
+    "scene timeline zoom",
+    "chip case continuity shows four frames",
+    "world palette and colour chart",
+    "three S015B history milestones",
+    "saved prompt disclosure",
+    "arcade camera angle slider"
+  ],
+  "phoneViewport": {
+    "clientWidth": 375,
+    "contentWidth": 375,
+    "musicCardWidth": 339,
+    "referenceWidth": 297
+  },
+  "videoApartmentFrame": {
+    "time": 34.8,
+    "source": "assets/s015b-apartment-match-r58.png",
+    "meanCompressionPixelError": 2.894
+  },
+  "downloadMethod": "Static UTF-8 recipe files per shot, normal download links; Blob export removed for browser compatibility."
+}

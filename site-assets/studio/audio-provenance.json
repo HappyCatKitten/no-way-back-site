@@ -1,0 +1,33 @@
+{
+  "source": "outputs/storyboard-ai-edit/song.mp3",
+  "sourceSHA256": "6e08e4ab17800094a87870c2b5b023f8a5b81c386ae141b8f389105d91590484",
+  "purpose": "AI-separated browser listening demonstration, not a replacement master",
+  "model": "htdemucs",
+  "shifts": 1,
+  "overlap": 0.25,
+  "segment": 7,
+  "normalization": "Shared source mean/std; no per-stem loudness normalization",
+  "codec": "160 kbps stereo MP3, same sample count before encoding",
+  "elapsedSeconds": 128.15,
+  "files": [
+    {
+      "path": "vocals.mp3",
+      "sha256": "f5ba7e4e8af69089e7105336c0a42f61482f96422cfbc68d0e2d161b820ca543",
+      "samples": 12051869,
+      "sampleRate": 44100
+    },
+    {
+      "path": "instrumental.mp3",
+      "sha256": "488b4e33468a5ede492fc2c2c08ff3586b96aa8563b75bb0549f744891f55733",
+      "samples": 12051869,
+      "sampleRate": 44100
+    }
+  ],
+  "libraries": {
+    "torch": "2.14.1+cpu",
+    "torchaudio": "2.11.0+cpu",
+    "demucs": "4.1.0",
+    "soundfile": "0.14.0",
+    "numpy": "2.5.3"
+  }
+}

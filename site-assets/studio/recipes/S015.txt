@@ -1,0 +1,25 @@
+S015 — Right index finger presses the under-cabinet switch; pale cloth rests beside the sink and the tap is off.
+
+REFERENCES
+outputs/storyboard-ai-edit/assets/s015-source-match-r57.png — Exact approved representative panel and composition; it may depict a later instant than the first frame.
+
+ARTWORK PROMPT
+Use case: identity-preserve / precise-object-edit.
+Asset: native 1672×941 full-frame storyboard image S015.
+Input 1 is the exact EDIT TARGET and the ONLY reference. Replicate it extremely conservatively at 1672×941, without crop, zoom, letterbox, camera shift or resampling a smaller generated image.
+The ONLY intended visual change is removal of any shot-number slate and its black rectangle in the top-left; reconstruct that small concealed region naturally. If there is no number, change nothing else. No number, overlay or watermark on the output. Preserve all genuine in-world signs, screens, diagrams, book titles and dates.
+EXACT original colour/exposure matching: do not lighten OR darken the original, warm it, saturate it, change hue or introduce a new grade. Its original subdued brown/tanned skin and painted cel shadows are already the correct shared film identity. Copy the original RGB relationships between skin, hair, costume, room darkness and bright local light. Brown/tanned means match the original, not add orange, red, pink, pale peach, extra tan or darker fill. Preserve the original level of indigo shadow/atmospheric darkness, matte cel-painted anime finish, contrast and soft focus. Keep legitimate neon/magic/spotlights as bright as the original; do not drain fantasy sparkle or apply one global darkening filter.
+No detail enhancement/beautification or HDR. No extra skin gloss, copper hair highlights, rim lights, amber fill, circuitry, grain, sharpened background or microtexture. Resolve the SAME existing lines and painted shapes faithfully at native output size.
+Preserve exact normalized subject scale, positions, pose, expression, mouth/eyes/gaze, face identity, body proportions/slim legs, hair silhouette/length/grouped curls, hands, clothes/jewellery, held props and hand, architecture/furniture/window geometry and opening state, light positions, material textures, perspective, background landmarks, depth of field and effects. Do not restage, redesign, mirror or change any story beat. Where no person appears, do not add one.
+Existing scene context (retain exactly, no new action): Right index finger presses the under-cabinet switch; pale cloth rests beside the sink and the tap is off.
+Literal copying of the source matters more than artistic interpretation. Original image alone is the exposure and skin colour authority, never the previous brighter remake.
+
+
+FIRST FRAME
+One clean960×54016:9 first frame for S015. Retain referenced composition, original adult identity, mid-back hair, slim legs, wardrobe and dark grade. First instant: Right fingertip poised over the kitchen task-light rocker; tap off and cloth resting by sink. May 2074: cropped white scoop-neck tank, high-waisted light-wash jeans, slim dark belt, gold hoops, bare feet. No leather jacket. Original adult face and mid-back chestnut hair, slim legs and slender hands. One fixed apartment: charcoal sofa under palm/city print, orange cushion at her left seat and pale cushions at the empty end, coffee table before it, bookcase/lamp/plant fixed, rear-right kitchen route. City glazing remains weathered rectangular horizontal sliding sashes. Never move furniture or mirror the room to accommodate a camera. No captions/slates; physical book/date/sign stays.
+
+ANIMATION BRIEF
+One continuous illustrated source clip for S015; 1.100s selected action,16:9, plus handles. Start: Right fingertip poised over the kitchen task-light rocker; tap off and cloth resting by sink. Action: Quick switch press in first.20s; editorial image fades local.20–.80s and holds full black until34.000. Master audio continues unchanged. End: Full black, ending this evening before the empty May comparison. Acting: Quietly finished with the evening; less collapsed shoulders. Cloth down, tap off before she reaches. Camera: High over-shoulder to the right hand and practical light. Small tilt follows the reach, then stop; exposure falls after the switch. May 2074: cropped white scoop-neck tank, high-waisted light-wash jeans, slim dark belt, gold hoops, bare feet. No leather jacket. Original adult face and mid-back chestnut hair, slim legs and slender hands. One fixed apartment: charcoal sofa under palm/city print, orange cushion at her left seat and pale cushions at the empty end, coffee table before it, bookcase/lamp/plant fixed, rear-right kitchen route. City glazing remains weathered rectangular horizontal sliding sashes. Never move furniture or mirror the room to accommodate a camera. Fast connecting travel, attentive inspection can pause. Keep prop states, scale and identity stable. No internal extra cuts, speech, lip-sync or replacement soundtrack.
+
+STATUS
+Individual960×540 representative artwork reviewed; animation-stage first/end frames and video not generated.

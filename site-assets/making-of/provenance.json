@@ -4,8 +4,8 @@
   "screenshots": [
     {
       "file": "storyboard-player.png",
-      "source": "outputs/storyboard-ai-edit/index.html (S025)",
-      "sha256": "eef1079d33af12a73ab6fa0cc622da187a84cf26d3cb55ca5d4776dd56604a6e"
+      "source": "outputs/storyboard-ai-edit/index.html (S055)",
+      "sha256": "daefa0b4d7b88edc62b80e59dcf6525bdd736d05e1d29c892bc8a72b075ff4a7"
     },
     {
       "file": "beat-analysis.png",
@@ -24,8 +24,8 @@
     },
     {
       "file": "image-comparison.png",
-      "source": "outputs/image-quality-tests/full-storyboard-source-match-v2/index.html (S025)",
-      "sha256": "545c0e11b4ffbffb82e2ba448aee8f0621bde7f6b3cb1dcaa9e9182ce37cd8f9"
+      "source": "outputs/image-quality-tests/full-storyboard-source-match-v2/index.html (S053)",
+      "sha256": "1f39247f649d4e0e69a4486103c156188691976352fe5c0ac32f5bf2ad93ea33"
     },
     {
       "file": "market-outfit.png",

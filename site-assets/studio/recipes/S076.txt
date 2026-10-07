@@ -1,0 +1,30 @@
+S076 — Silver-dress profile at the stand microphone; necklace and hair catch backlight through a defined spotlight beam.
+
+REFERENCES
+outputs/storyboard-ai-edit/assets/s076-source-match-r57.png — Representative composition and scene rendering; not automatically a production first frame.
+outputs/storyboard-ai-edit/references/locked-characters/01-heroine-face.png — Mandatory original heroine identity.
+outputs/storyboard-ai-edit/references/locked-characters/02-heroine-profile-hair.png — Original hair length and silhouette; ends mid-back, not waist.
+outputs/storyboard-ai-edit/assets/s067-world-barefoot.jpg — Entrance architecture and navy exploration dress; barefoot/left anklet override.
+outputs/storyboard-ai-edit/assets/s090-world-angles.jpg — Great arch to oval-pool destination and night palette.
+outputs/storyboard-ai-edit/assets/s073-source-match-r57.png — Same empty fantasy theatre, silver outfit and stand microphone.
+
+ARTWORK PROMPT
+Use case: identity-preserve / lighting-weather.
+Asset type: faithful reconstruction of an approved illustrated film still.
+Input 1 is the ONLY reference and exact authority for the entire image, including colour, dark exposure, shadow placement and drawing. Produce one native 1672×941 landscape image. Replicate this image, do not redesign or relight it.
+Changes permitted: remove the top-left shot-number label and its entire black badge by reconstructing the underlying local scene; resolve existing drawn lines at native output size. Nothing else.
+Copy the original pigment colours and tonal distribution closely: muted warm earthy brown/tanned skin, dense chestnut hair, deep ink-indigo and charcoal shadow masses, modest violet/blue reflected edges, small amber practicals. Preserve the original darkness across facial planes, skin, clothes and background. Skin must be at least as brown/tanned as the source, never lighter, peachier, pinker or broadly orange. Match cheeks, hands, arms and legs as one person's skin under the original light. Supporting characters retain their own original complexion.
+Keep the original late-1980s cel-painted anime/manga film finish: controlled ink contours, broad hand-painted shadow shapes, low-key rich coloured darks, restrained skin highlights, layered atmospheric depth. Do not add microtextures, additional fine lines, extra reflections, copper hair highlights or shining skin. No modern glossy anime render, 3D, HDR, cinematic beautification, additional sharpness/detail, brighter ambient fill, richer saturation or exposure lift. The source is already finished artwork. Keep the original focus softness and background blur.
+Preserve exact normalized framing, subject scale/position, face proportions, hairstyle/curl silhouette/hairline, brown eyes, expression, gaze, mouth/eye state, pose, body proportions/slim legs, hands, costume, jewellery, prop hands, cabinet/furniture geometry, open windows, readable in-world signs, screen details, all existing light/energy trails and all original light-source positions. No camera move, zoom, reframing, new props or copied colour reference composition. Keep neon/magic luminous exactly where it exists; leave shadow areas dark.
+Priority: original colour/exposure and geometry fidelity above detail enhancement. No shot ID, overlay or watermark anywhere.
+Specific correction: Match original dark brown-tanned face/neck/shoulder, with original simple cel-shadow bands and narrow cool rim. No peach brightening, polished skin gradients or new shoulder highlights. Preserve original blue stage haze depth and locally luminous sequins.
+
+
+FIRST FRAME
+Create one clean 16:9 first frame for S076. Use the representative still for composition, camera height, environment and rendering; use the supplied identity/outfit references for those roles only. Exact first instant: Silver-dress profile at the stand mic under one defined beam. Performance at that instant must permit: Necklace and bracelet catch restrained points of light; microphone remains fixed on stand. Explorer: short navy slip dress, bare feet, crystal anklet on anatomical LEFT, necklace and bracelets. Stage S073/S076/S079/S091: silver sequin dress, heels, stand mic, subtly glowing necklace/bracelets. Original adult heroine: brown almond eyes, original face/brow/jaw from locked crops, chestnut swept fringe and grouped loose curls ending mid-back above the waistband; no extra-long cascading hair or tiny red ringlets. Gold hoops. Slim naturally tapered legs with curvier hips/bum; preserve adult anatomy and slender hands. Outfit references govern clothes, not body redesign. Original drawn style, deep indigo/charcoal shadows, restrained amber and selective coloured rims. Deep indigo moonlit environment, selective blue foliage and amber architecture. Brighter luminous details are allowed, but keep skin and stone grounded. Stage is an empty magnificent theatre with real overhead beams and low haze. Do not depict later events from the clip yet. Remove baked shot labels and lyric overlays. Keep physical geography and props consistent: Entrance arch → leaf → circular pool → illuminated carving → rightward path → great arch → oval pool. Navy short dress, bare feet, left anklet and subtle jewellery. No rails, protective barriers or standing on water.
+
+ANIMATION BRIEF
+One continuous original stage-profile clip, selected1.353s from193.200 to194.553. Keep original silver outfit and stand microphone. Hold sung conviction, no new gesture or camera arc beyond the current brief. Cut to left-fingertip contact on194.553 beat.
+
+STATUS
+Brief complete; production keyframes and video not generated in this editorial pass.
