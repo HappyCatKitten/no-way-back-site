@@ -1,5 +1,5 @@
 {
-  "storyboardVersion": "full-source-match-r57",
+  "storyboardVersion": "s015b-apartment-match-r58",
   "shots": 138,
   "files": [
     {
@@ -24,8 +24,8 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/CURRENT-DIRECTION.txt",
-      "sha256": "4bbd8f6e1cb2861d9c1c283c41c9c7558df5d1af53febbcf7b7426e245f79f68",
-      "bytes": 32749
+      "sha256": "86bde8bf39cecdf8880cab91d12869136829039aa31ceef51fde149bde59cd54",
+      "bytes": 33878
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s001-character-r14.jpg",
@@ -163,9 +163,9 @@
       "bytes": 1763412
     },
     {
-      "path": "outputs/storyboard-ai-edit/assets/s015b-individual-540-r43.png",
-      "sha256": "166600ec0b080ef38cd2f617ec4bd39f521be35ed72e7b9a45b99f673940f22d",
-      "bytes": 1183055
+      "path": "outputs/storyboard-ai-edit/assets/s015b-apartment-match-r58.png",
+      "sha256": "478fc9ecfe81f0d24db6614962ebe6a469937a598530139cc196890c9bd59132",
+      "bytes": 2012474
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s015b-source-match-r57.png",
@@ -176,11 +176,6 @@
       "path": "outputs/storyboard-ai-edit/assets/s015c-current-movie-style-deskbook-r52.png",
       "sha256": "ce4df3545e2337145e529381fafd1de3b55f1d1885a06f010b460935af792c0d",
       "bytes": 2058906
-    },
-    {
-      "path": "outputs/storyboard-ai-edit/assets/s015c-individual-540-r43.png",
-      "sha256": "a9149592a4b97d9323fe76d201611280945872705d418987654085229d663a41",
-      "bytes": 1155515
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s015c-source-match-r57.png",
@@ -1459,18 +1454,18 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/data.js",
-      "sha256": "68bad99a8ab934eab58f94c3215c2ca0b3d6016ecd68490f65474ffff4b2563b",
-      "bytes": 4121526
+      "sha256": "89ca6f87f1673ed064e0d27a9cb68e9a6366b5e609e299e164556259362c429a",
+      "bytes": 4123634
     },
     {
       "path": "outputs/storyboard-ai-edit/edit-highlights.js",
-      "sha256": "0c22718e481454dd6515cf5f67dd43fc839e6dc7c7b69039aa820a122d5f3639",
-      "bytes": 103976
+      "sha256": "c023a3d52b0c1609c501eb1114b9bfd1f2b519df93c2fba26f07d53766ca3814",
+      "bytes": 104225
     },
     {
       "path": "outputs/storyboard-ai-edit/index.html",
-      "sha256": "397c10908faa4dd75a47c798e92f88d3377ad0fe269a88d9db57bd7dbb50481f",
-      "bytes": 12593
+      "sha256": "1fedac9f9048334e5d434c1a28e69721474a2074ab58025ad98464beb11ae1df",
+      "bytes": 12605
     },
     {
       "path": "outputs/storyboard-ai-edit/player.js",
@@ -1479,8 +1474,8 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/production-handoff.txt",
-      "sha256": "d82d110fb0eb29d5aecf796032cc4ba12c7573d2caf28e067725189f370e59cc",
-      "bytes": 1781794
+      "sha256": "ef7513a34912f5af36db54f527f58fbaa977fd9fa7c2087fde6306b9853a0761",
+      "bytes": 1782361
     },
     {
       "path": "outputs/storyboard-ai-edit/references/locked-characters/01-heroine-face.png",
@@ -1534,18 +1529,18 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/scene-review.txt",
-      "sha256": "f38be16b58834c571a835d4989d352a8a306dec1844524c78c1d56f49bedcb4d",
-      "bytes": 39579
+      "sha256": "e611c1b1b634209079d36c1a7cc2074034112b4f49f55fa9ca68ccdb39ea6107",
+      "bytes": 40708
     },
     {
       "path": "outputs/storyboard-ai-edit/shot-list.csv",
-      "sha256": "cbf867ac5977b1b3c9af66325764b4829c4a1f2222cdf26345df1d1b8666296b",
-      "bytes": 154963
+      "sha256": "ad58ba1f3bd83b8fb04bdf3694a9471d82cf8d957da0c83de9788c622068e280",
+      "bytes": 155350
     },
     {
       "path": "outputs/storyboard-ai-edit/shots.json",
-      "sha256": "f5bf8bdd8f1fd6fbc834eef231d37c3135f0a7f47cd008d12ad59d86c190cc03",
-      "bytes": 4121507
+      "sha256": "92d44c935cb22be484c80051a935e0b4de247b078afe009caf53fc929dbcae10",
+      "bytes": 4123615
     },
     {
       "path": "outputs/storyboard-ai-edit/song.mp3",
