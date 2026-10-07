@@ -5,7 +5,7 @@
  const $=id=>document.getElementById(id), esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const byId=new Map(d.shots.map(s=>[s.id,s]));const clock=t=>`${Math.floor(t/60)}:${String(Math.floor(t%60)).padStart(2,'0')}`;
  const shotAt=t=>d.shots.find(s=>t>=s.start&&t<s.end)||d.shots[d.shots.length-1];
- const sections=[...new Set(d.shots.map(s=>s.section))];const a=$('studioAudio');let currentTime=byId.get('S078A').start,lastShot='',lastLine='',scope=[0,d.duration],switchToken=0;
+ const sections=[...new Set(d.shots.map(s=>s.section))];const a=$('studioAudio');let currentTime=byId.get('S078A').start,lastShot='',lastLine='',scope=[0,d.duration],switchToken=0,loading=false;
  function populate(id,items,selected){$(id).innerHTML=items.map(s=>`<option value="${esc(s.id)}">${esc(s.id)} · ${clock(s.start)} · ${esc(s.section.split(' · ')[1])}</option>`).join('');$(id).value=selected;}
  ['studioShot','evolutionShot','recipeShot','colourShot'].forEach(id=>populate(id,d.shots,{studioShot:'S078A',evolutionShot:'S015B',recipeShot:'S090',colourShot:'S053'}[id]));
  $('studioVersion').textContent=d.version;
@@ -21,7 +21,7 @@
   if(l)$('liveLyrics').querySelectorAll('span').forEach((el,i)=>{const w=l.words[i];el.classList.toggle('active',currentTime>=w.start&&currentTime<w.end);el.classList.toggle('sung',currentTime>=w.end);});
   const playhead=$('timelinePlayhead');if(playhead)playhead.setAttribute('x1',Math.max(0,Math.min(900,(currentTime-scope[0])/(scope[1]-scope[0])*900))),playhead.setAttribute('x2',playhead.getAttribute('x1'));
  }
- function seek(t){a.currentTime=t;update(t);}
+ function seek(t){if(a.readyState>0&&!loading)a.currentTime=t;update(t);}
  function drawTimeline(){
   const x=t=>(t-scope[0])/(scope[1]-scope[0])*900;const max=Math.max(...d.waveform);let wave='';
   d.waveform.forEach((v,i)=>{const t=i/900*d.duration;if(t<scope[0]||t>scope[1])return;const height=v/max*36;wave+=`<line x1="${x(t).toFixed(1)}" x2="${x(t).toFixed(1)}" y1="${45-height}" y2="${45+height}" stroke="#96b2ef" stroke-width="1.5"/>`;});
@@ -35,13 +35,13 @@
  $('directorOverlay').hidden=!$('directorMode').checked;
  $('directorMode').addEventListener('change',e=>$('directorOverlay').hidden=!e.target.checked);
  $('lyricList').addEventListener('click',e=>{const b=e.target.closest('button');if(b){seek(d.lyrics.find(l=>l.id===Number(b.dataset.line)).start);a.play().catch(()=>{});}});
- a.addEventListener('timeupdate',()=>update(a.currentTime));a.addEventListener('seeked',()=>update(a.currentTime));a.addEventListener('ended',()=>update(d.duration));
+ a.addEventListener('timeupdate',()=>{if(!loading)update(a.currentTime);});a.addEventListener('seeked',()=>{if(!loading)update(a.currentTime);});a.addEventListener('ended',()=>update(d.duration));
  // Update the visual words smoothly while playing; timeupdate alone can miss short words.
- function tick(){if(!a.paused)update(a.currentTime);requestAnimationFrame(tick);}requestAnimationFrame(tick);
+ function tick(){if(!a.paused&&!loading)update(a.currentTime);requestAnimationFrame(tick);}requestAnimationFrame(tick);
  a.addEventListener('loadedmetadata',()=>{if(switchToken===0)a.currentTime=currentTime;},{once:true});
  document.querySelectorAll('[data-stem]').forEach(b=>b.addEventListener('click',()=>{
-  const t=currentTime,playing=!a.paused,token=++switchToken;const url=b.dataset.stem==='mix'?'outputs/storyboard-ai-edit/song.mp3':`site-assets/studio/${b.dataset.stem}.mp3`;
-  const ready=()=>{if(token!==switchToken)return;a.currentTime=Math.min(t,a.duration);update(t);if(playing)a.play().catch(()=>{});};a.addEventListener('loadedmetadata',ready,{once:true});a.src=url;a.load();
+  const playing=!a.paused,token=++switchToken;loading=true;const url=b.dataset.stem==='mix'?'outputs/storyboard-ai-edit/song.mp3':`site-assets/studio/${b.dataset.stem}.mp3`;
+  const ready=()=>{if(token!==switchToken)return;loading=false;a.currentTime=Math.min(currentTime,a.duration);update(currentTime);if(playing)a.play().catch(()=>{});};a.addEventListener('loadedmetadata',ready,{once:true});a.src=url;a.load();
   document.querySelectorAll('[data-stem]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));
  }));
  $('studioPlay').addEventListener('click',()=>{if(a.paused)a.play().catch(()=>{$('lyricHint').textContent='Press the audio player’s play control to start playback.';});else a.pause();});

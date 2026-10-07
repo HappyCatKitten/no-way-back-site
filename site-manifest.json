@@ -1694,8 +1694,8 @@
     },
     {
       "path": "site-assets/studio/qa.json",
-      "sha256": "522ccd6e6af18772f818eaa0dd50ef6a9503d0c1155b646983906d382c44fc6f",
-      "bytes": 973
+      "sha256": "51df1ac918d69ed3d1d3dde938151fa83651573a5eaac1d8732864fbf11c7853",
+      "bytes": 1022
     },
     {
       "path": "site-assets/studio/recipes/S001.txt",
@@ -2394,8 +2394,8 @@
     },
     {
       "path": "site-assets/studio/studio.js",
-      "sha256": "5ba1da142d7a9aaf4c0adfcb0226f4a58ea9fda22938da1db1b32cd2741ac60b",
-      "bytes": 13934
+      "sha256": "b16104ec701226e14cdf5cf39e73a5dd3cf1a1e2c1b2e73dfb4a3b3611007582",
+      "bytes": 14049
     },
     {
       "path": "site-assets/studio/vocals.mp3",

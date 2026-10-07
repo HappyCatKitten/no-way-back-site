@@ -26,5 +26,6 @@
     "source": "assets/s015b-apartment-match-r58.png",
     "meanCompressionPixelError": 2.894
   },
-  "downloadMethod": "Static UTF-8 recipe files per shot, normal download links; Blob export removed for browser compatibility."
+  "downloadMethod": "Static UTF-8 recipe files per shot, normal download links; Blob export removed for browser compatibility.",
+  "rapidAudioLayerAndShotSwitchKeepsTime": 34.0
 }
