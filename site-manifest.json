@@ -1,5 +1,5 @@
 {
-  "storyboardVersion": "s015b-apartment-match-r58",
+  "storyboardVersion": "ex-elevator-warmth-r64",
   "shots": 138,
   "files": [
     {
@@ -28,14 +28,24 @@
       "bytes": 48141
     },
     {
+      "path": "outputs/character-sheets/07-hacker-market-teal-dress-approved.png",
+      "sha256": "002f80e4fdf1d0edec8dbb6619401f306f2d9d271bd84ba3b517cf56e5402607",
+      "bytes": 1909670
+    },
+    {
       "path": "outputs/storyboard-ai-edit/CURRENT-DIRECTION.txt",
-      "sha256": "86bde8bf39cecdf8880cab91d12869136829039aa31ceef51fde149bde59cd54",
-      "bytes": 33878
+      "sha256": "94f455abdb9f56423c4a28244e660bd8ad5769854fccda68d1bcc8ddb2fcf5f2",
+      "bytes": 41831
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s001-character-r14.jpg",
       "sha256": "7551dbd3b7b30c41261c59e520fa73338b782269cf2ad5378fd8d911dc2018a1",
       "bytes": 394570
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s001-city-detail-r59.png",
+      "sha256": "5179ec83e0ab96894fd3c0435530863e7e0b97ced82ba2d147f846b060fbe786",
+      "bytes": 3193891
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s001-source-match-r57.png",
@@ -48,14 +58,29 @@
       "bytes": 367162
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s002-city-detail-r59.png",
+      "sha256": "66925cee9206c0d22ab55dac60c1aeed87ca7c565cc1db5a0274cbb4dcbc986d",
+      "bytes": 3794572
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s002-source-match-r57.png",
       "sha256": "9f22bc77391aa710d6226865952c05362e54b5e48c99492f17d5d64adb1addb6",
       "bytes": 2790756
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s002b-city-aerial-r59.png",
+      "sha256": "d97830a7d3928c9db1656aaf1d044d8274fc04647bc21e0ed571b7e2338e5ff6",
+      "bytes": 3996555
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s004-character-r14.jpg",
       "sha256": "bec1dd80f600d4b15f725fbcd6242067ab26b15b6fb803ebb68b7bcc0394c73b",
       "bytes": 322744
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s004-city-detail-r59.png",
+      "sha256": "f608e1bd2ea9b757f302f3d21b484cb58dad2b5c8014615b195ac2901410e738",
+      "bytes": 2785734
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s004-source-match-r57.png",
@@ -188,6 +213,11 @@
       "bytes": 2058906
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s015c-individual-540-r43.png",
+      "sha256": "a9149592a4b97d9323fe76d201611280945872705d418987654085229d663a41",
+      "bytes": 1155515
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s015c-source-match-r57.png",
       "sha256": "873b42adabe7946bad434c31e3418374beceec69b9b199296a2d91c8f200d658",
       "bytes": 2044519
@@ -203,6 +233,11 @@
       "bytes": 2019956
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s015d-maker-stash-r61.png",
+      "sha256": "9e00f08739e7bd731e72e1d07298c82a9d98545360bfa7257003ed9dfc63db09",
+      "bytes": 2021884
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s015d-source-match-r57.png",
       "sha256": "94bf8b6acc2ab86ea21deeb5d08bdfdaca6a12005f8253aeb100f0d3d82d2e31",
       "bytes": 2035797
@@ -211,6 +246,11 @@
       "path": "outputs/storyboard-ai-edit/assets/s015f-current-movie-style-deskbook-r52.png",
       "sha256": "fcefab1d584a57eedb2174c4cb40f1dd8f968903a9b5d549baa4cd9dc3ca157b",
       "bytes": 1897479
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s015f-maker-stash-r61.png",
+      "sha256": "cd2c75701eaaf02b847793b20796f6cd204caaf738daa748fd4f9fca9439da8a",
+      "bytes": 1940448
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s015f-source-match-r57.png",
@@ -223,6 +263,11 @@
       "bytes": 2018225
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s015g-maker-stash-r61.png",
+      "sha256": "7b75b2c55310d0beea1aa4d72746f2b8e1ecea10b9682b9e29c5d1d0f580c40b",
+      "bytes": 2069435
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s015g-source-match-r57.png",
       "sha256": "a8503f59f2fa499929e49eed81132ed72ec3af6ce5edd77485388da75d09e30d",
       "bytes": 2061386
@@ -231,6 +276,16 @@
       "path": "outputs/storyboard-ai-edit/assets/s015i-current-movie-style-deskbook-r52.png",
       "sha256": "f8c6cc7ed663536d71d01be407f54052e2ee0efbbb1f976a8d8698fb31b3c6e1",
       "bytes": 2317112
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s015i-foam-fit-r60.png",
+      "sha256": "95477a55d5c593a35c04435724ac7aec52d68587002eb85e2686cf2ec232ac13",
+      "bytes": 2208533
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s015i-maker-stash-r61.png",
+      "sha256": "eb34b54e058cf01abe692e78edd38c90747e3679b32f5629057784ce0e20f79f",
+      "bytes": 2449235
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s015i-source-match-r57.png",
@@ -243,6 +298,16 @@
       "bytes": 1932985
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s015k-maker-stash-label-r61b.png",
+      "sha256": "ca0c962dc716899a39f10a10c1bc68c8baa5c5b2d41276df50b89a1b6e108e0d",
+      "bytes": 1824145
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s015k-maker-stash-r61.png",
+      "sha256": "91e91d9ad8bd647481b018e967af9e3134d440b20661c1b0b4f46a5209bb0f80",
+      "bytes": 1866952
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s015k-source-match-r57.png",
       "sha256": "121647be3f752659c18da15940a4114384f90b8bb9e87068c52bd4dd5b0be340",
       "bytes": 1901357
@@ -253,6 +318,16 @@
       "bytes": 2192733
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s015l-foam-fit-r60.png",
+      "sha256": "0919f31b498dcf93e36b83f33fdcdeffbea46d5f4f783a254929578157b9e240",
+      "bytes": 2157589
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s015l-maker-stash-r61.png",
+      "sha256": "b33a781e0d2311e7b110a3b91059fef1544463b862f34bd333a1872a808f9118",
+      "bytes": 2222887
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s015l-source-match-r57.png",
       "sha256": "bc4c64f9523091b4e05f24e1487926000394c58572903c6417fedd81290812c1",
       "bytes": 2157465
@@ -261,6 +336,11 @@
       "path": "outputs/storyboard-ai-edit/assets/s015m-current-movie-style-deskbook-r52.png",
       "sha256": "ada6a967327ac2d78da3fdb9ade51fe985d4f4dfed36065b1e44b667aecb4cd1",
       "bytes": 2257257
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s015m-maker-stash-r61.png",
+      "sha256": "c45c7352d9b8f5f12bf1790ad2a9c4dcf6272340fc855c13559ec25efda26db2",
+      "bytes": 2283869
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s015m-source-match-r57.png",
@@ -281,6 +361,11 @@
       "path": "outputs/storyboard-ai-edit/assets/s019-current-movie-style-r52.png",
       "sha256": "7fe9598fa1b2af28922eca5b8aa6637bf6cc20048063a6f58be957b57a09ccc0",
       "bytes": 2424862
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s019-dress-back-r62.png",
+      "sha256": "7b4204be51fadad0b62e197ddd92e2df941379b84416592ac7588192266c1aad",
+      "bytes": 2282025
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s019-source-match-r57.png",
@@ -413,6 +498,11 @@
       "bytes": 1805383
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s031-ex-expression-r63.png",
+      "sha256": "7125a9fc65c34f546d927ad45015aca13011d79fb18e9a10ef58c705c8a6edde",
+      "bytes": 1791693
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s031-source-match-r57.png",
       "sha256": "24b9ab8f9e7ee4118fd7a1e65bc4acad3912f09b63bc5f1bdd977e2e297ccfd9",
       "bytes": 1818155
@@ -443,6 +533,11 @@
       "bytes": 1676922
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s034-ex-expression-r63.png",
+      "sha256": "65a5a4c5ccc98641d6e0e2915b6fb82ef66b22280edc26440d07ba43efe96a72",
+      "bytes": 1750067
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s034-source-match-r57.png",
       "sha256": "40d2ecd5e89346d23be60d60e6f8bafddce1e654b6e21e1730f3bec2c738c59b",
       "bytes": 1755978
@@ -463,6 +558,11 @@
       "bytes": 157630
     },
     {
+      "path": "outputs/storyboard-ai-edit/assets/s036-ex-warmth-r64.png",
+      "sha256": "9f2de8453be48f67645602bf6b7dc57c1db090b8e9e4747bc9313a2bcbc49ca3",
+      "bytes": 1763503
+    },
+    {
       "path": "outputs/storyboard-ai-edit/assets/s036-source-match-r57.png",
       "sha256": "0f61ebb5429bc3613ca3ca694ae6b5ae5e9f94bcb5ce8d8c9279166daaca3171",
       "bytes": 1862822
@@ -471,6 +571,11 @@
       "path": "outputs/storyboard-ai-edit/assets/s037-elevator-r18.jpg",
       "sha256": "dacee8b09d052a7e93effe80eafe8167eddd8605fa38a66834c418b93102f9f0",
       "bytes": 146275
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s037-ex-warmth-r64.png",
+      "sha256": "a061a62919786ad798571437b1148b7eebf5e92615be1250b54f0b1e881e7859",
+      "bytes": 1640298
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s037-source-match-r57.png",
@@ -1464,18 +1569,18 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/data.js",
-      "sha256": "89ca6f87f1673ed064e0d27a9cb68e9a6366b5e609e299e164556259362c429a",
-      "bytes": 4123634
+      "sha256": "cebdbf5af6be5b531aa83ef16619de6d5de6c41189b9c52403c05ef9a6d422f5",
+      "bytes": 4229363
     },
     {
       "path": "outputs/storyboard-ai-edit/edit-highlights.js",
-      "sha256": "c023a3d52b0c1609c501eb1114b9bfd1f2b519df93c2fba26f07d53766ca3814",
-      "bytes": 104225
+      "sha256": "f4320b8fa4f3fd9ad628172747629604d584fcfe0f8cbcf31ea95233ea367095",
+      "bytes": 110116
     },
     {
       "path": "outputs/storyboard-ai-edit/index.html",
-      "sha256": "1fedac9f9048334e5d434c1a28e69721474a2074ab58025ad98464beb11ae1df",
-      "bytes": 12605
+      "sha256": "13e10bda993598eb17898d01abe64293ad340687ccdd3a30186ed89ecbf5109f",
+      "bytes": 12596
     },
     {
       "path": "outputs/storyboard-ai-edit/player.js",
@@ -1484,8 +1589,8 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/production-handoff.txt",
-      "sha256": "ef7513a34912f5af36db54f527f58fbaa977fd9fa7c2087fde6306b9853a0761",
-      "bytes": 1782361
+      "sha256": "bd0ac4df00885bc0623ee2a91a78d03ad8c0f0b499205cbe999e921009783f80",
+      "bytes": 1829500
     },
     {
       "path": "outputs/storyboard-ai-edit/references/locked-characters/01-heroine-face.png",
@@ -1539,33 +1644,23 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/scene-review.txt",
-      "sha256": "e611c1b1b634209079d36c1a7cc2074034112b4f49f55fa9ca68ccdb39ea6107",
-      "bytes": 40708
+      "sha256": "03eda4fbd89c88b399c02d0fb3f5c6377468f0944ee21827588886f7971a2364",
+      "bytes": 49799
     },
     {
       "path": "outputs/storyboard-ai-edit/shot-list.csv",
-      "sha256": "ad58ba1f3bd83b8fb04bdf3694a9471d82cf8d957da0c83de9788c622068e280",
-      "bytes": 155350
+      "sha256": "1808dac6c5c2ea3963ec2ecb37b477dc4b2fea313d67c6fc6c96882cb86dd3d3",
+      "bytes": 160850
     },
     {
       "path": "outputs/storyboard-ai-edit/shots.json",
-      "sha256": "92d44c935cb22be484c80051a935e0b4de247b078afe009caf53fc929dbcae10",
-      "bytes": 4123615
+      "sha256": "ec582bf69c61e10d032df0294baa00ddd8fb3ee615b47ae02f156e92cd5b0b3f",
+      "bytes": 4229344
     },
     {
       "path": "outputs/storyboard-ai-edit/song.mp3",
       "sha256": "6e08e4ab17800094a87870c2b5b023f8a5b81c386ae141b8f389105d91590484",
       "bytes": 10933484
-    },
-    {
-      "path": "site-assets/making-of.css",
-      "sha256": "2ddd8da900d61576ce430d5dac13b66f1ba0490ba5a9621e6ff5ed418dfb5280",
-      "bytes": 7902
-    },
-    {
-      "path": "site-assets/making-of.js",
-      "sha256": "124ae59487b133cd9fbad240404971df13d4988c731c5f47b653b9080ba2b4f2",
-      "bytes": 3023
     },
     {
       "path": "site-assets/making-of/beat-analysis.png",
@@ -1611,6 +1706,16 @@
       "path": "site-assets/making-of/storyboard-player.png",
       "sha256": "daefa0b4d7b88edc62b80e59dcf6525bdd736d05e1d29c892bc8a72b075ff4a7",
       "bytes": 128812
+    },
+    {
+      "path": "site-assets/making-of.css",
+      "sha256": "2ddd8da900d61576ce430d5dac13b66f1ba0490ba5a9621e6ff5ed418dfb5280",
+      "bytes": 7902
+    },
+    {
+      "path": "site-assets/making-of.js",
+      "sha256": "124ae59487b133cd9fbad240404971df13d4988c731c5f47b653b9080ba2b4f2",
+      "bytes": 3023
     },
     {
       "path": "site-assets/no-way-back-title.png",
