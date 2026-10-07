@@ -14,8 +14,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "cd020f119d6832924cce0d0dc41b2fdb2678af0175245ca666a947e1e3a1faa4",
-      "bytes": 32548
+      "sha256": "e7f000ff62f37a33dd764ed869b6999aa8ec4bc499986f1bc1e576855439375b",
+      "bytes": 31904
     },
     {
       "path": "media/no-way-back.mp4",
@@ -1558,16 +1558,6 @@
       "bytes": 10933484
     },
     {
-      "path": "site-assets/making-of.css",
-      "sha256": "2ddd8da900d61576ce430d5dac13b66f1ba0490ba5a9621e6ff5ed418dfb5280",
-      "bytes": 7902
-    },
-    {
-      "path": "site-assets/making-of.js",
-      "sha256": "124ae59487b133cd9fbad240404971df13d4988c731c5f47b653b9080ba2b4f2",
-      "bytes": 3023
-    },
-    {
       "path": "site-assets/making-of/beat-analysis.png",
       "sha256": "fe83c224c3fed18d2d1872e7ba0dbd6ef5fd97568b8f916bf265259a675df784",
       "bytes": 62647
@@ -1613,9 +1603,14 @@
       "bytes": 128812
     },
     {
-      "path": "site-assets/retro.css",
-      "sha256": "6f9c7e7a610c21cb6a1ed78f1fe3780ed48d90e8178342e2d5db2d0ca57c8388",
-      "bytes": 14085
+      "path": "site-assets/making-of.css",
+      "sha256": "2ddd8da900d61576ce430d5dac13b66f1ba0490ba5a9621e6ff5ed418dfb5280",
+      "bytes": 7902
+    },
+    {
+      "path": "site-assets/making-of.js",
+      "sha256": "124ae59487b133cd9fbad240404971df13d4988c731c5f47b653b9080ba2b4f2",
+      "bytes": 3023
     },
     {
       "path": "site-assets/studio/01-heroine-face.png",
