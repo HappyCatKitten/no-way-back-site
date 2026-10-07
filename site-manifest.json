@@ -14,8 +14,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "b5eb89dd19519ab99232264a3f87052c241bbb2a0e5318decfe52d5dd69420a6",
-      "bytes": 32749
+      "sha256": "e7f000ff62f37a33dd764ed869b6999aa8ec4bc499986f1bc1e576855439375b",
+      "bytes": 31904
     },
     {
       "path": "media/no-way-back.mp4",
@@ -1663,14 +1663,19 @@
       "bytes": 1909670
     },
     {
+      "path": "site-assets/studio/arcade-friend-character-sheet-v2.png",
+      "sha256": "7dfa71e6855a8d11352f498a8a52f92ec38b3e0ae020df1880a0ea17781abe22",
+      "bytes": 2017039
+    },
+    {
       "path": "site-assets/studio/audio-provenance.json",
       "sha256": "1224ec12dc8145a061b9abd49d916b24385a764890cbd9d77ace9e4e549462e3",
       "bytes": 1009
     },
     {
       "path": "site-assets/studio/data.js",
-      "sha256": "7712892b0c9c3855db3d948e18b7040e1bea7733b6961e70fbc11a4ce70381b6",
-      "bytes": 1289567
+      "sha256": "99a91fbfd9a489f1eececf9ec5a10778bc0a6e42fa3eba53df576382375b04a3",
+      "bytes": 1290375
     },
     {
       "path": "site-assets/studio/ex-bf-01-opening-v1.png",
@@ -1688,9 +1693,14 @@
       "bytes": 5466950
     },
     {
+      "path": "site-assets/studio/market-friend-beanie-character-sheet-v1.png",
+      "sha256": "8880528aaa3c6d9feb92e0124b073c24485de58453db10088a9d4f538af97b06",
+      "bytes": 2064230
+    },
+    {
       "path": "site-assets/studio/provenance.json",
-      "sha256": "e05d1b6a7356ff7b848ec826fa561b490c91a8f9262acbf0a7c2a2517c4f34db",
-      "bytes": 6075
+      "sha256": "bdc0d901ee890757b667f26758297fd5722a02ac5d5af8eaa43fae37572f53de",
+      "bytes": 6999
     },
     {
       "path": "site-assets/studio/qa.json",

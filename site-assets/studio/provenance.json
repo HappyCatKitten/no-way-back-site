@@ -59,6 +59,22 @@
     },
     {
       "group": "characters",
+      "title": "Market friend · character sheet",
+      "caption": "Black beanie, glasses, salt-and-pepper beard and hooded jacket. Waist-up views match the visible market costume.",
+      "path": "site-assets/studio/market-friend-beanie-character-sheet-v1.png",
+      "source": "outputs/character-sheets/market-friend-beanie-character-sheet-v1.png",
+      "sha256": "8880528aaa3c6d9feb92e0124b073c24485de58453db10088a9d4f538af97b06"
+    },
+    {
+      "group": "characters",
+      "title": "Arcade friend · character sheet",
+      "caption": "Near-black pixie cut, gold hoops, sunset-and-palms tank, frayed indigo shorts and pale trainers.",
+      "path": "site-assets/studio/arcade-friend-character-sheet-v2.png",
+      "source": "outputs/character-sheets/arcade-friend-character-sheet-v2.png",
+      "sha256": "7dfa71e6855a8d11352f498a8a52f92ec38b3e0ae020df1880a0ea17781abe22"
+    },
+    {
+      "group": "characters",
       "title": "Ex · opening reference",
       "caption": "Charcoal jacket, dark hair and original identity.",
       "path": "site-assets/studio/ex-bf-01-opening-v1.png",
