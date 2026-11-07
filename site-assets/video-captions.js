@@ -3,7 +3,7 @@
   const video = document.getElementById('musicVideo');
   const button = document.getElementById('captionToggle');
   const element = video?.querySelector('track[kind="captions"]');
-  if (!video || !button || !element) return;
+  if (!video || !element) return;
   const track = element.track;
   const fontChoice = document.getElementById('captionFont');
   const sample = document.getElementById('captionSample');
@@ -33,13 +33,14 @@
   // Preload cues without displaying them; captions start off on every visit.
   track.mode = 'hidden';
   const sync = () => {
+    if (!button) return; // The published player uses its native captions menu.
     const showing = track.mode === 'showing';
     button.setAttribute('aria-pressed', String(showing));
     button.textContent = button.dataset.compact === 'true' ? 'CC' : showing ? 'CC · On' : 'CC · Off';
     button.title = showing ? 'Turn captions off' : 'Turn captions on';
     button.setAttribute('aria-label', showing ? 'Turn captions off' : 'Turn captions on');
   };
-  button.addEventListener('click', () => {
+  button?.addEventListener('click', () => {
     track.mode = track.mode === 'showing' ? 'hidden' : 'showing';
     sync();
   });
@@ -56,6 +57,7 @@
   }
   video.textTracks.addEventListener('change', sync);
   element.addEventListener('error', () => {
+    if (!button) return;
     button.disabled = true;
     button.textContent = 'Captions unavailable';
     button.setAttribute('aria-label', 'Captions could not be loaded');

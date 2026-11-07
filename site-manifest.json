@@ -14,8 +14,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "e1da9d4411e8473e6366e0368146b4b9a93369118923cbb6121605f935d4d6f2",
-      "bytes": 33365
+      "sha256": "1aa0ab5f44a9b0c3ad14912b0cd3e1941f47ec78428205b8d3b7237e8e55c375",
+      "bytes": 33182
     },
     {
       "path": "media/captions-verification.json",
@@ -2604,8 +2604,8 @@
     },
     {
       "path": "site-assets/video-captions.js",
-      "sha256": "975f1f2fe677b22bd86f4a49c8fdfd7b3282088b5a0fba33d51697cb15d3120e",
-      "bytes": 2634
+      "sha256": "935aa30840b0ae1ef7a34e547023f579cb345c06a78e24f90f349469fcadec0c",
+      "bytes": 2729
     }
   ]
 }
