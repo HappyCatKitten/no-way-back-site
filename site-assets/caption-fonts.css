@@ -1,0 +1,26 @@
+@font-face{font-family:"NWB Manrope";src:url("fonts/captions/Manrope.ttf") format("truetype");font-weight:200 800;font-style:normal;font-display:swap}
+@font-face{font-family:"NWB Outfit";src:url("fonts/captions/Outfit.ttf") format("truetype");font-weight:100 900;font-style:normal;font-display:swap}
+@font-face{font-family:"NWB Barlow";src:url("fonts/captions/BarlowCondensed-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal;font-display:swap}
+@font-face{font-family:"NWB Lora";src:url("fonts/captions/Lora.ttf") format("truetype");font-weight:400 700;font-style:normal;font-display:swap}
+#musicVideo[data-caption-font="manrope"]::cue{font-family:"NWB Manrope",sans-serif;font-weight:600}
+#musicVideo[data-caption-font="outfit"]::cue{font-family:"NWB Outfit",sans-serif;font-weight:500}
+#musicVideo[data-caption-font="barlow"]::cue{font-family:"NWB Barlow",sans-serif;font-weight:600}
+#musicVideo[data-caption-font="lora"]::cue{font-family:"NWB Lora",serif;font-weight:500}
+.caption-sample[data-caption-font="manrope"]{font-family:"NWB Manrope",sans-serif;font-weight:600}
+.caption-sample[data-caption-font="outfit"]{font-family:"NWB Outfit",sans-serif;font-weight:500}
+.caption-sample[data-caption-font="barlow"]{font-family:"NWB Barlow",sans-serif;font-weight:600}
+.caption-sample[data-caption-font="lora"]{font-family:"NWB Lora",serif;font-weight:500}
+.caption-sample[data-caption-font="original"]{font-family:Arial,sans-serif;font-weight:400}
+.caption-font-controls{display:flex;align-items:center;flex-wrap:wrap;gap:12px}
+.caption-font-controls label{display:flex;gap:9px;align-items:center;font-size:12px;color:#c7c3d3}
+.caption-font-controls select{font:inherit;background:#141521;color:#fff5ea;border:1px solid #ffffff40;border-radius:8px;padding:8px 11px;max-width:100%}
+.caption-preview-button{font:inherit;color:#e0ffd0;background:none;border:1px solid #ffffff40;border-radius:8px;padding:8px 12px;cursor:pointer}
+.caption-sample{font-size:clamp(22px,2.5vw,30px);line-height:1.35;margin:14px 0 0;color:#f7f6fa;text-align:center}
+@media(max-width:650px){.video-options{flex-wrap:wrap}.caption-font-controls{gap:8px}}
+
+.video-player{position:relative;isolation:isolate}
+.video-player .caption-overlay{position:absolute;z-index:2;top:14px;right:14px;min-width:44px;min-height:44px;padding:7px 10px;font:700 14px/1 "NWB Manrope",sans-serif;letter-spacing:.02em;background:#10131be6;color:#fff;border:1px solid #ffffff80;border-radius:8px;box-shadow:0 2px 12px #0005}
+.video-player .caption-overlay[aria-pressed="true"]{background:#dfff9a;color:#152019;border-color:#dfff9a}
+.video-player .caption-overlay:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.video-player .caption-overlay:disabled{opacity:.65;cursor:default}
+@media(max-width:650px){.video-player .caption-overlay{top:8px;right:8px}}

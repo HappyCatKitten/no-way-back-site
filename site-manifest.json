@@ -14,8 +14,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "8c5f9e77ce88a25f536c2a43fcaaa842e9b7b86ea6cb9922e1400262ecdb6f13",
-      "bytes": 33222
+      "sha256": "be55add21fa1ad2f10ece8d7cf3cccc82677b7b285c104e763ff4ab89524b493",
+      "bytes": 33431
     },
     {
       "path": "media/captions-verification.json",
@@ -1688,6 +1688,56 @@
       "bytes": 10933484
     },
     {
+      "path": "site-assets/caption-fonts.css",
+      "sha256": "619dbbbfa7d930b32911e264db0e95a2ce8835fa28ec671053331f5edd3a7e5e",
+      "bytes": 2831
+    },
+    {
+      "path": "site-assets/fonts/captions/BarlowCondensed-SemiBold.ttf",
+      "sha256": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9",
+      "bytes": 109428
+    },
+    {
+      "path": "site-assets/fonts/captions/Lora.ttf",
+      "sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7",
+      "bytes": 212196
+    },
+    {
+      "path": "site-assets/fonts/captions/Manrope.ttf",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "bytes": 164700
+    },
+    {
+      "path": "site-assets/fonts/captions/Outfit.ttf",
+      "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade",
+      "bytes": 110884
+    },
+    {
+      "path": "site-assets/fonts/captions/barlowcondensed-OFL.txt",
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+      "bytes": 4377
+    },
+    {
+      "path": "site-assets/fonts/captions/lora-OFL.txt",
+      "sha256": "1d9a970809ac804b582a6ce7f0ebc4e7fefcbfd7ff6299cad35ee656a21be716",
+      "bytes": 4423
+    },
+    {
+      "path": "site-assets/fonts/captions/manrope-OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "bytes": 4387
+    },
+    {
+      "path": "site-assets/fonts/captions/outfit-OFL.txt",
+      "sha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416",
+      "bytes": 4389
+    },
+    {
+      "path": "site-assets/fonts/captions/sources.json",
+      "sha256": "0953a2e4a5772ae1b8182f7117f2bb8bb7428423ee73dc4b431d058dcd795cf8",
+      "bytes": 2565
+    },
+    {
       "path": "site-assets/making-of/beat-analysis.png",
       "sha256": "fe83c224c3fed18d2d1872e7ba0dbd6ef5fd97568b8f916bf265259a675df784",
       "bytes": 62647
@@ -2554,8 +2604,8 @@
     },
     {
       "path": "site-assets/video-captions.js",
-      "sha256": "5a41d951bb1b5b3f797471908eec184951ade3fbccf74dae79c9f18871c1e692",
-      "bytes": 1112
+      "sha256": "975f1f2fe677b22bd86f4a49c8fdfd7b3282088b5a0fba33d51697cb15d3120e",
+      "bytes": 2634
     }
   ]
 }

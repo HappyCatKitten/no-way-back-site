@@ -1,0 +1,73 @@
+{
+  "purpose": "Local caption font audition; no font selection approved/published yet.",
+  "sources": [
+    {
+      "family": "manrope",
+      "files": [
+        {
+          "file": "Manrope.ttf",
+          "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+          "bytes": 164700,
+          "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+        },
+        {
+          "file": "manrope-OFL.txt",
+          "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+          "bytes": 4387,
+          "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+        }
+      ]
+    },
+    {
+      "family": "outfit",
+      "files": [
+        {
+          "file": "Outfit.ttf",
+          "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/outfit/Outfit%5Bwght%5D.ttf",
+          "bytes": 110884,
+          "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade"
+        },
+        {
+          "file": "outfit-OFL.txt",
+          "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/outfit/OFL.txt",
+          "bytes": 4389,
+          "sha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416"
+        }
+      ]
+    },
+    {
+      "family": "barlowcondensed",
+      "files": [
+        {
+          "file": "BarlowCondensed-SemiBold.ttf",
+          "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-SemiBold.ttf",
+          "bytes": 109428,
+          "sha256": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9"
+        },
+        {
+          "file": "barlowcondensed-OFL.txt",
+          "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/OFL.txt",
+          "bytes": 4377,
+          "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+        }
+      ]
+    },
+    {
+      "family": "lora",
+      "files": [
+        {
+          "file": "Lora.ttf",
+          "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lora/Lora%5Bwght%5D.ttf",
+          "bytes": 212196,
+          "sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7"
+        },
+        {
+          "file": "lora-OFL.txt",
+          "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lora/OFL.txt",
+          "bytes": 4423,
+          "sha256": "1d9a970809ac804b582a6ce7f0ebc4e7fefcbfd7ff6299cad35ee656a21be716"
+        }
+      ]
+    }
+  ]
+}
