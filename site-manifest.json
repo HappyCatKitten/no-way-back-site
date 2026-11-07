@@ -14,8 +14,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "be55add21fa1ad2f10ece8d7cf3cccc82677b7b285c104e763ff4ab89524b493",
-      "bytes": 33431
+      "sha256": "e1da9d4411e8473e6366e0368146b4b9a93369118923cbb6121605f935d4d6f2",
+      "bytes": 33365
     },
     {
       "path": "media/captions-verification.json",
@@ -1689,8 +1689,8 @@
     },
     {
       "path": "site-assets/caption-fonts.css",
-      "sha256": "619dbbbfa7d930b32911e264db0e95a2ce8835fa28ec671053331f5edd3a7e5e",
-      "bytes": 2831
+      "sha256": "637ca3a3e4f8baee46e87deb5b0179361bb34793fe2220304006bf9d118e494e",
+      "bytes": 2146
     },
     {
       "path": "site-assets/fonts/captions/BarlowCondensed-SemiBold.ttf",
