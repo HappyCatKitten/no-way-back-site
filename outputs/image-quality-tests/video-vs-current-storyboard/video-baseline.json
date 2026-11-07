@@ -1,0 +1,1674 @@
+{
+  "sourceVersion": "s015b-apartment-match-r58",
+  "shots": 138,
+  "file": "no-way-back-phone.mp4",
+  "bytes": 46469130,
+  "decimalMB": 46.46913,
+  "limitBytes": 50000000,
+  "under50MB": true,
+  "sourceDuration": 273.285,
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "Main",
+        "level": 31,
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.4d401f",
+        "width": 1280,
+        "height": 720,
+        "coded_width": 1280,
+        "coded_height": 720,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4197888,
+        "duration": "273.300000",
+        "bit_rate": "1223397",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "8199",
+        "extradata_size": 40,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc63.16.100 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 13117680,
+        "duration": "273.285000",
+        "bit_rate": "127980",
+        "nb_frames": "12812",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/tmp/no-way-back-preview-r58-studio/no-way-back-phone.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "273.300000",
+      "size": "46469130",
+      "bit_rate": "1360237",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "No Way Back \u2014 storyboard preview",
+        "encoder": "Lavf63.7.100",
+        "comment": "Current approved storyboard stills with original song and player transitions; animation pending."
+      }
+    }
+  },
+  "decodeErrors": 0,
+  "protectedStoryboardFilesUnchanged": true,
+  "sourceImagesUnchanged": true,
+  "inputs": [
+    {
+      "id": "S001",
+      "path": "outputs/storyboard-ai-edit/assets/s001-source-match-r57.png",
+      "sha256": "d766957f8e77db8262b6ad0f1a31d999104f7564a807ef53dfda83aecb8c884a"
+    },
+    {
+      "id": "S002",
+      "path": "outputs/storyboard-ai-edit/assets/s002-source-match-r57.png",
+      "sha256": "9f22bc77391aa710d6226865952c05362e54b5e48c99492f17d5d64adb1addb6"
+    },
+    {
+      "id": "S004",
+      "path": "outputs/storyboard-ai-edit/assets/s004-source-match-r57.png",
+      "sha256": "4750731ff8b0f7ebcbab67e1a8ef77bae7b2372e71e6e086ba4bf9465270eebe"
+    },
+    {
+      "id": "S005",
+      "path": "outputs/storyboard-ai-edit/assets/s005-source-match-r57.png",
+      "sha256": "05592572a42232c806c69dbcda11b4396b75be260b92dd341268120588ce8381"
+    },
+    {
+      "id": "S006",
+      "path": "outputs/storyboard-ai-edit/assets/s006-source-match-r57.png",
+      "sha256": "687f71a5558fb7e9e987dec0097733581283122a3e1e34c0148e8921f38ea060"
+    },
+    {
+      "id": "S007",
+      "path": "outputs/storyboard-ai-edit/assets/s007-source-match-r57.png",
+      "sha256": "52cc6ad05461d8995f40ff3a138a2d0bc065200b01cc7cb989d3789ac4cc3225"
+    },
+    {
+      "id": "S007B",
+      "path": "outputs/storyboard-ai-edit/assets/s007b-source-match-r57.png",
+      "sha256": "5629c195a5149a86aee92c44317de7c725002b64d1c99314b06d4aa39c0e1804"
+    },
+    {
+      "id": "S007C",
+      "path": "outputs/storyboard-ai-edit/assets/s007c-source-match-r57.png",
+      "sha256": "1da62392f30f12b6e3f886fd93266921b1c991c9760a6b52075636a806b17127"
+    },
+    {
+      "id": "S011",
+      "path": "outputs/storyboard-ai-edit/assets/s011-source-match-r57.png",
+      "sha256": "6c84425541516152a500df540f576abe4e492bee6cfd56f2e0c14d09142db36f"
+    },
+    {
+      "id": "S012",
+      "path": "outputs/storyboard-ai-edit/assets/s012-source-match-r57.png",
+      "sha256": "e4c6e7edc1f4fabfaad7ce008cbbf8b43086bf11fa77679ee22852f82043cc8b"
+    },
+    {
+      "id": "S013",
+      "path": "outputs/storyboard-ai-edit/assets/s013-source-match-r57.png",
+      "sha256": "19eea501a617ddc67b55c3f719d0329971cd13b0e97577d1cde2a59403acf69c"
+    },
+    {
+      "id": "S014",
+      "path": "outputs/storyboard-ai-edit/assets/s014-source-match-r57.png",
+      "sha256": "79f62dde887761e95226a825ab95d6c7f0384f76572b8937410f1ff973c60cb9"
+    },
+    {
+      "id": "S015",
+      "path": "outputs/storyboard-ai-edit/assets/s015-source-match-r57.png",
+      "sha256": "16d8b0a49ac86f98e183878837c9b7c95facc1ce1812a2c1b99cdf826e28223f"
+    },
+    {
+      "id": "S015B",
+      "path": "outputs/storyboard-ai-edit/assets/s015b-apartment-match-r58.png",
+      "sha256": "478fc9ecfe81f0d24db6614962ebe6a469937a598530139cc196890c9bd59132"
+    },
+    {
+      "id": "S015C",
+      "path": "outputs/storyboard-ai-edit/assets/s015c-source-match-r57.png",
+      "sha256": "873b42adabe7946bad434c31e3418374beceec69b9b199296a2d91c8f200d658"
+    },
+    {
+      "id": "S015D",
+      "path": "outputs/storyboard-ai-edit/assets/s015d-source-match-r57.png",
+      "sha256": "94bf8b6acc2ab86ea21deeb5d08bdfdaca6a12005f8253aeb100f0d3d82d2e31"
+    },
+    {
+      "id": "S015F",
+      "path": "outputs/storyboard-ai-edit/assets/s015f-source-match-r57.png",
+      "sha256": "b156c20f67c0cd2c9d0513d3f89035c8d1c835c5e39557f5db0f4c771429da82"
+    },
+    {
+      "id": "S015G",
+      "path": "outputs/storyboard-ai-edit/assets/s015g-source-match-r57.png",
+      "sha256": "a8503f59f2fa499929e49eed81132ed72ec3af6ce5edd77485388da75d09e30d"
+    },
+    {
+      "id": "S015I",
+      "path": "outputs/storyboard-ai-edit/assets/s015i-source-match-r57.png",
+      "sha256": "3dd7ecbddfa604045c3f1712c6b0f478a6e731550f1cbe13896c6d9f2bcfad74"
+    },
+    {
+      "id": "S015K",
+      "path": "outputs/storyboard-ai-edit/assets/s015k-source-match-r57.png",
+      "sha256": "121647be3f752659c18da15940a4114384f90b8bb9e87068c52bd4dd5b0be340"
+    },
+    {
+      "id": "S015L",
+      "path": "outputs/storyboard-ai-edit/assets/s015l-source-match-r57.png",
+      "sha256": "bc4c64f9523091b4e05f24e1487926000394c58572903c6417fedd81290812c1"
+    },
+    {
+      "id": "S015M",
+      "path": "outputs/storyboard-ai-edit/assets/s015m-source-match-r57.png",
+      "sha256": "1e322075524a0d4b85d4ccc1f35b98066d6b591c506fc4e44d85408f5f079656"
+    },
+    {
+      "id": "S016",
+      "path": "outputs/storyboard-ai-edit/assets/s016-source-match-r57.png",
+      "sha256": "59092baf86d73fc568c5b703d7b4b282d4947b63f3ff0981c3aefd95fc9e31cf"
+    },
+    {
+      "id": "S019",
+      "path": "outputs/storyboard-ai-edit/assets/s019-source-match-r57.png",
+      "sha256": "e9e6f2071143f8de796f9d4e51d428b5e7e9f35362c94a73cdb998600205ca11"
+    },
+    {
+      "id": "S020",
+      "path": "outputs/storyboard-ai-edit/assets/s020-source-match-r57.png",
+      "sha256": "2c8b35b3eb128d0b4722fc2c7109d7306139ad6936ecb0b5dcc8726c2420f537"
+    },
+    {
+      "id": "S021",
+      "path": "outputs/storyboard-ai-edit/assets/s021-source-match-r57.png",
+      "sha256": "612e1456e9b3e57ea4eeba6d32942065729ecb9f16d8c1d119d83a98e6ee0a09"
+    },
+    {
+      "id": "S022",
+      "path": "outputs/storyboard-ai-edit/assets/s022-source-match-r57.png",
+      "sha256": "e9aaac1c514e143cadadb06b29d2a48d1a03ed0da0200915e16c04eaff7f8a61"
+    },
+    {
+      "id": "S023",
+      "path": "outputs/storyboard-ai-edit/assets/s023-source-match-r57.png",
+      "sha256": "2df200ab4e048a35b74ac4c2f5271b01bf788fd66a3fca058019dc55fd0b3fb7"
+    },
+    {
+      "id": "S023A",
+      "path": "outputs/storyboard-ai-edit/assets/s023a-source-match-r57.png",
+      "sha256": "0342df3af47591ef6e759fb106309f08c320b8889f71faf5ef30925cc257ddbc"
+    },
+    {
+      "id": "S024",
+      "path": "outputs/storyboard-ai-edit/assets/s024-source-match-r57.png",
+      "sha256": "5a5715634f49f02303f145c3399972b63fea3327f3fc62b782321e9e2291c79e"
+    },
+    {
+      "id": "S025",
+      "path": "outputs/storyboard-ai-edit/assets/s025-source-match-r57.png",
+      "sha256": "5a61e0da107595494931d23ba367ec7b5d2464b72dd6f223bc4f7e03aceea19f"
+    },
+    {
+      "id": "S026",
+      "path": "outputs/storyboard-ai-edit/assets/s026-source-match-r57.png",
+      "sha256": "6fc7646d55362699ce96ddb86638a392cc50b9e60268cb3ee10593c12bebdc20"
+    },
+    {
+      "id": "S027",
+      "path": "outputs/storyboard-ai-edit/assets/s027-source-match-r57.png",
+      "sha256": "fdfe1caf1b37a0895811f687693b69ab64a4f53df421215980a65d4bb75ef03f"
+    },
+    {
+      "id": "S028",
+      "path": "outputs/storyboard-ai-edit/assets/s028-source-match-r57.png",
+      "sha256": "30854d8a570d911badc45ba049032dd3a62e87b65e66792b9767ecc52d407a5d"
+    },
+    {
+      "id": "S029",
+      "path": "outputs/storyboard-ai-edit/assets/s029-source-match-r57.png",
+      "sha256": "f8deda2fe6b4b6728cc40bfac87abf46275cb938dc29f3a5d2a01d278c927bff"
+    },
+    {
+      "id": "S030",
+      "path": "outputs/storyboard-ai-edit/assets/s030-source-match-r57.png",
+      "sha256": "0cddde4692c20f402259aaec484d32487d2c4bd8e43e1171fbb1b75ba0fac72e"
+    },
+    {
+      "id": "S031",
+      "path": "outputs/storyboard-ai-edit/assets/s031-source-match-r57.png",
+      "sha256": "24b9ab8f9e7ee4118fd7a1e65bc4acad3912f09b63bc5f1bdd977e2e297ccfd9"
+    },
+    {
+      "id": "S032",
+      "path": "outputs/storyboard-ai-edit/assets/s032-source-match-r57.png",
+      "sha256": "0795354631f7fb823c1b8395a84350b4565e4e1980bf188f55ba32563167e512"
+    },
+    {
+      "id": "S033",
+      "path": "outputs/storyboard-ai-edit/assets/s033-source-match-r57.png",
+      "sha256": "07bef076c74afba7ceaf5c713df1f042b65d81c2682263d036a0468e3bda2103"
+    },
+    {
+      "id": "S034",
+      "path": "outputs/storyboard-ai-edit/assets/s034-source-match-r57.png",
+      "sha256": "40d2ecd5e89346d23be60d60e6f8bafddce1e654b6e21e1730f3bec2c738c59b"
+    },
+    {
+      "id": "S035",
+      "path": "outputs/storyboard-ai-edit/assets/s035-source-match-r57.png",
+      "sha256": "057be059c444371bbb4425ba2ae93b641c2875c1030b8779a0bc0b142e14b4b3"
+    },
+    {
+      "id": "S036",
+      "path": "outputs/storyboard-ai-edit/assets/s036-source-match-r57.png",
+      "sha256": "0f61ebb5429bc3613ca3ca694ae6b5ae5e9f94bcb5ce8d8c9279166daaca3171"
+    },
+    {
+      "id": "S037",
+      "path": "outputs/storyboard-ai-edit/assets/s037-source-match-r57.png",
+      "sha256": "b9441720c33cbeccfd140bb5845e3a7975a6e16747f40a88aa090e9b1b2deae4"
+    },
+    {
+      "id": "S038",
+      "path": "outputs/storyboard-ai-edit/assets/s038-source-match-r57.png",
+      "sha256": "cdc0832231522ed7ed2259b5ded004cfcc3e8a26eb5ecba968833bd361bf47fb"
+    },
+    {
+      "id": "S039",
+      "path": "outputs/storyboard-ai-edit/assets/s039-source-match-r57.png",
+      "sha256": "1b02618cbc8d18b74514a0cd6b9c605f58a79b2103bd07b6a09ea838439d0156"
+    },
+    {
+      "id": "S040",
+      "path": "outputs/storyboard-ai-edit/assets/s040-source-match-r57.png",
+      "sha256": "dcbf917ca22204424a8ed46fbc464379720f26169a2e5b6218b191fc5705dd08"
+    },
+    {
+      "id": "S041",
+      "path": "outputs/storyboard-ai-edit/assets/s041-source-match-r57.png",
+      "sha256": "81f9d268220bcd4895640f9d4b6e8af13c7cc2f048054e2ef98f5a2a09ad5091"
+    },
+    {
+      "id": "S042",
+      "path": "outputs/storyboard-ai-edit/assets/s042-source-match-r57.png",
+      "sha256": "3c75fcf81ceca8ab32d0ce13e11752ae890495de95038384f7da762b558b36a6"
+    },
+    {
+      "id": "S043",
+      "path": "outputs/storyboard-ai-edit/assets/s043-source-match-r57.png",
+      "sha256": "828f21d63ba20ce27c743def7d48ca470118d86498cdc4fcf2876fb4903e0c25"
+    },
+    {
+      "id": "S044",
+      "path": "outputs/storyboard-ai-edit/assets/s044-source-match-r57.png",
+      "sha256": "f756c5936549f6fabd24455185fb0b9c1617d8f5b2b8e33cf447e981f52e17b1"
+    },
+    {
+      "id": "S044A",
+      "path": "outputs/storyboard-ai-edit/assets/s044a-source-match-r57.png",
+      "sha256": "9c9993989c87b7f824b19102bc02d04c7c6a566bca5c9b099e1a300089ca7b05"
+    },
+    {
+      "id": "S044B",
+      "path": "outputs/storyboard-ai-edit/assets/s044b-source-match-r57.png",
+      "sha256": "5d2b18718aea1ea637a2a15686702cb5110c91acaa3a821d55667cddd5750126"
+    },
+    {
+      "id": "S044C",
+      "path": "outputs/storyboard-ai-edit/assets/s044c-source-match-r57.png",
+      "sha256": "0322214d26af0b24e2eaffd43ceda25037055749e5393e9efa3f543a06b8fafa"
+    },
+    {
+      "id": "S045",
+      "path": "outputs/storyboard-ai-edit/assets/s045-source-match-r57.png",
+      "sha256": "a2cc9f839b33e7363ee80c55ae009bd42643f5ca7c1a95720528ae63708d9cf4"
+    },
+    {
+      "id": "S046",
+      "path": "outputs/storyboard-ai-edit/assets/s046-source-match-r57.png",
+      "sha256": "546364de8a4b94df8abefe2f2536131447823f7a097936a4639b56de412b0ec8"
+    },
+    {
+      "id": "S046B",
+      "path": "outputs/storyboard-ai-edit/assets/s046b-source-match-r57.png",
+      "sha256": "b3a5ae3fbef2362858965bcd55e579dfe007b88bb121d951344d7b83aede6cd9"
+    },
+    {
+      "id": "S047",
+      "path": "outputs/storyboard-ai-edit/assets/s047-source-match-r57.png",
+      "sha256": "592cd38c0ab52b8b7e82e2164719b81bbb6fee8d9f06409c9703da79b6d601c9"
+    },
+    {
+      "id": "S047B",
+      "path": "outputs/storyboard-ai-edit/assets/s047b-source-match-r57.png",
+      "sha256": "6bc9e8876aeee8ae66354f1a9fe830bb17d655289ce5fb003bdbab5f8b3a60ee"
+    },
+    {
+      "id": "S048",
+      "path": "outputs/storyboard-ai-edit/assets/s048-source-match-r57.png",
+      "sha256": "f4fc665f4d17f8b34d04e4dd5d1167c4b1b09fd65685b9069208ae5d9ab91ecd"
+    },
+    {
+      "id": "S048B",
+      "path": "outputs/storyboard-ai-edit/assets/s048b-source-match-r57.png",
+      "sha256": "d3da1178d8464cc7437dd3638b60c7c4f6a62852ea3efaedc2578797db5ac762"
+    },
+    {
+      "id": "S049",
+      "path": "outputs/storyboard-ai-edit/assets/s049-source-match-r57.png",
+      "sha256": "a4ec19789a6a56a24e4ab16ab3e4f33c3d5cf164d8deddddcf2181555d65bb44"
+    },
+    {
+      "id": "S050",
+      "path": "outputs/storyboard-ai-edit/assets/s050-source-match-r57.png",
+      "sha256": "8f77fd42c59fd05b6ec81105412c30e2729c3394a46431bca23c652ad672b1e2"
+    },
+    {
+      "id": "S051",
+      "path": "outputs/storyboard-ai-edit/assets/s051-source-match-r57.png",
+      "sha256": "e4f43b7c18e7907e1d7617d68231e46787190c9f6d7b4f6aabdbd824e7dfe624"
+    },
+    {
+      "id": "S051B",
+      "path": "outputs/storyboard-ai-edit/assets/s051b-source-match-r57.png",
+      "sha256": "72c2171e2e3902ae0967618ad09aa1feb0875bfefca33c5b3d3de8fda205ee76"
+    },
+    {
+      "id": "S051C",
+      "path": "outputs/storyboard-ai-edit/assets/s051c-source-match-r57.png",
+      "sha256": "95e74b808166d0b89ad59e77f182b13f264bf4919fe2fb1d683be1cca54114e3"
+    },
+    {
+      "id": "S052",
+      "path": "outputs/storyboard-ai-edit/assets/s052-source-match-r57.png",
+      "sha256": "36e483ea85a108e00a0795bb7a9de02dc403dab8146e050d673feb4611f81fc1"
+    },
+    {
+      "id": "S053",
+      "path": "outputs/storyboard-ai-edit/assets/s053-source-match-r57.png",
+      "sha256": "00fd01637691e02ec2d1ffe340afa6ee11813f2c7e967879a293cd8a482fca96"
+    },
+    {
+      "id": "S054",
+      "path": "outputs/storyboard-ai-edit/assets/s054-source-match-r57.png",
+      "sha256": "1b1478f1b934e8805fbb88aa4fc4bcf3f78bbbc0e2a3eaa18a966e13b745053c"
+    },
+    {
+      "id": "S054B",
+      "path": "outputs/storyboard-ai-edit/assets/s054b-source-match-r57.png",
+      "sha256": "80417b4a87845a317a374172c1f6a6fcea8cc182928dab5c695ff83f2454b5a2"
+    },
+    {
+      "id": "S055",
+      "path": "outputs/storyboard-ai-edit/assets/s055-source-match-r57.png",
+      "sha256": "96a03151d3e38a5aab7bf0855ce66f178328c1c6033c56059d20b68994c32eff"
+    },
+    {
+      "id": "S057",
+      "path": "outputs/storyboard-ai-edit/assets/s057-source-match-r57.png",
+      "sha256": "30f9053b9acb01228f28c3a6647aacb88aa1384f441497489613ad3106d04ca3"
+    },
+    {
+      "id": "S058",
+      "path": "outputs/storyboard-ai-edit/assets/s058-source-match-r57.png",
+      "sha256": "a9685039a95e64cb4cf133ba5d8488b3745b6a6dd835e08ae723d8b3c8c708c5"
+    },
+    {
+      "id": "S059",
+      "path": "outputs/storyboard-ai-edit/assets/s059-source-match-r57.png",
+      "sha256": "929b70789e302bfc17dec267d9fe7308bb5c2b452a43e6209799fac00a0647a8"
+    },
+    {
+      "id": "S060",
+      "path": "outputs/storyboard-ai-edit/assets/s060-source-match-r57.png",
+      "sha256": "87a3e36048ed14e07a0bf2b49f3cf4c20049ba35ab4ea4643e05d79a47ed0e64"
+    },
+    {
+      "id": "S061",
+      "path": "outputs/storyboard-ai-edit/assets/s061-source-match-r57.png",
+      "sha256": "a8a5eae710267e08965c0eccabfdd392b3c500e32f9d1b584a7aebc39daf8438"
+    },
+    {
+      "id": "S061B",
+      "path": "outputs/storyboard-ai-edit/assets/s061b-source-match-r57.png",
+      "sha256": "f54a768c75043d2818740b2fb29b077eab35f7c5706a0f4fdf5189950a1d3aaa"
+    },
+    {
+      "id": "S061C",
+      "path": "outputs/storyboard-ai-edit/assets/s061c-source-match-r57.png",
+      "sha256": "7a91c36e750bdcf7f8b7946fb9f211d955d97ba8089c8b54c991af34fec214ab"
+    },
+    {
+      "id": "S061D",
+      "path": "outputs/storyboard-ai-edit/assets/s061d-source-match-r57.png",
+      "sha256": "c83fed0c132f260985f099b69ae12d3a05725de644c6e0d22bba6a08b3da587a"
+    },
+    {
+      "id": "S062",
+      "path": "outputs/storyboard-ai-edit/assets/s062-source-match-r57.png",
+      "sha256": "34e6f5edd401757780adef4863205cce6395eb34eb562873c2595e46c7eab5ae"
+    },
+    {
+      "id": "S062B",
+      "path": "outputs/storyboard-ai-edit/assets/s062b-source-match-r57.png",
+      "sha256": "3942c8b393364a24718ecfb18a1c6dbbb838b6b65bd3f825daf5e9e8c7b5e45c"
+    },
+    {
+      "id": "S063",
+      "path": "outputs/storyboard-ai-edit/assets/s063-source-match-r57.png",
+      "sha256": "e7c7c2dca9892f3084deec4b3bff6cc43464654af7349ee15a3fe9a08eb352ed"
+    },
+    {
+      "id": "S064",
+      "path": "outputs/storyboard-ai-edit/assets/s064-source-match-r57.png",
+      "sha256": "6ccada25662e2d3376cd8acfd30dd4d040ca522969a4bf9426c677d4678c9000"
+    },
+    {
+      "id": "S065",
+      "path": "outputs/storyboard-ai-edit/assets/s065-source-match-r57.png",
+      "sha256": "c3e1585a468a3bcf4678e8bd06c4cba32cb1df48da3749f9eaffc4c78aeba815"
+    },
+    {
+      "id": "S066",
+      "path": "outputs/storyboard-ai-edit/assets/s066-source-match-r57.png",
+      "sha256": "9f88530215a0fb91f88679fb5be46dcfa0e221470d092310a98e59f89f0bbaec"
+    },
+    {
+      "id": "S066B",
+      "path": "outputs/storyboard-ai-edit/assets/s066b-source-match-r57.png",
+      "sha256": "bf4222ecceac014f6c5f799a43a04ca8fab3bf6b8ba1e6cf61e0095b2936be9c"
+    },
+    {
+      "id": "S066C",
+      "path": "outputs/storyboard-ai-edit/assets/s066c-source-match-r57.png",
+      "sha256": "6377b292c49763f7463fff1bd2ec30effb6509cee7586a3ca9c2a9fda73cc59c"
+    },
+    {
+      "id": "S066D",
+      "path": "outputs/storyboard-ai-edit/assets/s066d-source-match-r57.png",
+      "sha256": "9b00150a6d27d0262ebac1c7b4d08eb3db2082f1693a00c84d190cfcaa72ba03"
+    },
+    {
+      "id": "S066E",
+      "path": "outputs/storyboard-ai-edit/assets/s066e-source-match-r57.png",
+      "sha256": "c55a48aeeaf064418ac05a16802b252a7321c9a522999957e24891b0e71b209b"
+    },
+    {
+      "id": "S066F",
+      "path": "outputs/storyboard-ai-edit/assets/s066f-source-match-r57.png",
+      "sha256": "d73c3b439f4667ac66d2b607bf2e31ea00a51412c700dfdccf7cf4bfb1bf4567"
+    },
+    {
+      "id": "S067",
+      "path": "outputs/storyboard-ai-edit/assets/s067-source-match-r57.png",
+      "sha256": "71db14ddcfd40f2a8bd092010211391d46ecf3ff1d9b97f210060d766932fc39"
+    },
+    {
+      "id": "S068",
+      "path": "outputs/storyboard-ai-edit/assets/s068-source-match-r57.png",
+      "sha256": "dc4481428d9b642f408173b867f5d406358c9dc5a8ddf39947c54894ae8b0c49"
+    },
+    {
+      "id": "S069",
+      "path": "outputs/storyboard-ai-edit/assets/s069-source-match-r57.png",
+      "sha256": "d7e45e2afb9d2909269fa8855569f321b7130fd52eeaecc57071444f40deaf7a"
+    },
+    {
+      "id": "S070",
+      "path": "outputs/storyboard-ai-edit/assets/s070-source-match-r57.png",
+      "sha256": "c2899de0716fc6af4613c1c6728126c40135ffcd6dfa9080dd6dd7716f338880"
+    },
+    {
+      "id": "S071",
+      "path": "outputs/storyboard-ai-edit/assets/s071-source-match-r57.png",
+      "sha256": "bec314b6c0452356de4542adc1203def8ff36b1a72161d8c6e13d80c0a92f961"
+    },
+    {
+      "id": "S072",
+      "path": "outputs/storyboard-ai-edit/assets/s072-source-match-r57.png",
+      "sha256": "14c8eaa7d02de80622ea8327d07b11a32208011525aba1419e8ac94635a4cbfa"
+    },
+    {
+      "id": "S073",
+      "path": "outputs/storyboard-ai-edit/assets/s073-source-match-r57.png",
+      "sha256": "2532a71c1df07f57a93e621d526d8dcf49333c7cfc539fb8ecdc5d20452851a7"
+    },
+    {
+      "id": "S074",
+      "path": "outputs/storyboard-ai-edit/assets/s074-source-match-r57.png",
+      "sha256": "eaca32ea6e4930f50b20813cc6bb8e1c4d0ccbbba377e277f780e6b69a6f876b"
+    },
+    {
+      "id": "S076",
+      "path": "outputs/storyboard-ai-edit/assets/s076-source-match-r57.png",
+      "sha256": "2863c64901b50680a8a9408edc6db6ebfe59b1031c077777c2fec47d7a2ed1a5"
+    },
+    {
+      "id": "S076A",
+      "path": "outputs/storyboard-ai-edit/assets/s076a-source-match-r57.png",
+      "sha256": "b5082c16651a74d84ae800a743f5d64df4a23aa0ce00ddf544e6dba597f97840"
+    },
+    {
+      "id": "S076B",
+      "path": "outputs/storyboard-ai-edit/assets/s076b-source-match-r57.png",
+      "sha256": "39a087cd79c56b044931f902c74f052b7c5f8d51fa15f23f2829665d8f9116d5"
+    },
+    {
+      "id": "S076C",
+      "path": "outputs/storyboard-ai-edit/assets/s076c-source-match-r57.png",
+      "sha256": "fd633ca7af2a0fc2138425c25a6611d37c5844c3fdc8337e9cc7416b2d4471a8"
+    },
+    {
+      "id": "S076D",
+      "path": "outputs/storyboard-ai-edit/assets/s076d-source-match-r57.png",
+      "sha256": "955ab3b160fbaaceb37ec09c640ee7bc4722cce7e26dafa8b39257dfba3d2beb"
+    },
+    {
+      "id": "S076E",
+      "path": "outputs/storyboard-ai-edit/assets/s076e-source-match-r57.png",
+      "sha256": "f1b4f0340e36c1a246e44c781811adcec19c691cad0c40531dc92bf434e11ccb"
+    },
+    {
+      "id": "S076F",
+      "path": "outputs/storyboard-ai-edit/assets/s076f-source-match-r57.png",
+      "sha256": "05744d8aefd91b5edd83b5403ed7341242f6e50c5ca111067afe5638c707b979"
+    },
+    {
+      "id": "S076G",
+      "path": "outputs/storyboard-ai-edit/assets/s076g-source-match-r57.png",
+      "sha256": "5acc5d2d556dbbddf0581ee5f345757454f2d05127121af638da4efdfc0da820"
+    },
+    {
+      "id": "S076H",
+      "path": "outputs/storyboard-ai-edit/assets/s076h-source-match-r57.png",
+      "sha256": "427f786d85e56608c87cefbfcc856118875a6bb583bbf239c30da09b560a600d"
+    },
+    {
+      "id": "S078A",
+      "path": "outputs/storyboard-ai-edit/assets/s078a-source-match-r57.png",
+      "sha256": "ff2de7956bcf802ed6d892e3c61c9f7846d16e89d9212bcdcc3345b6ebca5bdc"
+    },
+    {
+      "id": "S079",
+      "path": "outputs/storyboard-ai-edit/assets/s079-source-match-r57.png",
+      "sha256": "f0a8a54dc149aa4b7ffeea5d237ff947cb0134300679a5964e666109b938006b"
+    },
+    {
+      "id": "S080",
+      "path": "outputs/storyboard-ai-edit/assets/s080-source-match-r57.png",
+      "sha256": "3f31950199c92ececab9e3955d4c31a6d071e7dc23a1334b7eef7b01d544c13c"
+    },
+    {
+      "id": "S081",
+      "path": "outputs/storyboard-ai-edit/assets/s081-source-match-r57.png",
+      "sha256": "d22e11d8de09ea3160a0d5b96ce4058fac4582ad6060c5ccf151ba61a191ed32"
+    },
+    {
+      "id": "S082",
+      "path": "outputs/storyboard-ai-edit/assets/s082-source-match-r57.png",
+      "sha256": "79281e7fb69d03f893fed6ebe11fef7bb04f9ac5ef9051105cbf8487a773ff91"
+    },
+    {
+      "id": "S083",
+      "path": "outputs/storyboard-ai-edit/assets/s083-source-match-r57.png",
+      "sha256": "ceaa09cf9d76132cb101f3005cf558c3b396e27fd4c9a0a5e7cd1faaae737c49"
+    },
+    {
+      "id": "S084",
+      "path": "outputs/storyboard-ai-edit/assets/s084-source-match-r57.png",
+      "sha256": "45e1250c84697e5cb4e45b7c4469d4340e4d6a27f10ebcec6857ba0142477171"
+    },
+    {
+      "id": "S085",
+      "path": "outputs/storyboard-ai-edit/assets/s085-source-match-r57.png",
+      "sha256": "b4be93ebd2bac5d6e1e4d66bcdb3dbdcf2f6fb7311190f45322d27f3e265f428"
+    },
+    {
+      "id": "S086",
+      "path": "outputs/storyboard-ai-edit/assets/s086-source-match-r57.png",
+      "sha256": "0c903fe8ebb79f865e3da64bae6fded7546ecdf95a4008519989cdbc40126305"
+    },
+    {
+      "id": "S087",
+      "path": "outputs/storyboard-ai-edit/assets/s087-source-match-r57.png",
+      "sha256": "9452819e0650aa5e24213ef350aa64287c42a8535c9ce745b3b344e59ff85558"
+    },
+    {
+      "id": "S088",
+      "path": "outputs/storyboard-ai-edit/assets/s088-source-match-r57.png",
+      "sha256": "d8f1c61a6d42b113891ffbc4d2c9b0afd64de4119ac8331d9a3354d9b0d3a70e"
+    },
+    {
+      "id": "S088A",
+      "path": "outputs/storyboard-ai-edit/assets/s088a-source-match-r57.png",
+      "sha256": "68391b03c80f26fa7fc0a06f555de22acd6aa21104efe72257641275a6aad4fd"
+    },
+    {
+      "id": "S090",
+      "path": "outputs/storyboard-ai-edit/assets/s090-source-match-r57.png",
+      "sha256": "445f53585a33c42c6f157cf81d756dfa44be34cff248fb4c62213ba15997bb71"
+    },
+    {
+      "id": "S091",
+      "path": "outputs/storyboard-ai-edit/assets/s091-source-match-r57.png",
+      "sha256": "156741beabd07b8ef3cea49ccd1f7139c77dce1b73b074b09a54528acef971a3"
+    },
+    {
+      "id": "S092",
+      "path": "outputs/storyboard-ai-edit/assets/s092-source-match-r57.png",
+      "sha256": "2f06c5390b73c44b0fb44756619a54b09d002558f7edd509fe311428ddde4219"
+    },
+    {
+      "id": "S093",
+      "path": "outputs/storyboard-ai-edit/assets/s093-source-match-r57.png",
+      "sha256": "35028c80a02b43d040f2f652d36cca60bf4fa30809f26efdca3752c1ce0f3ff1"
+    },
+    {
+      "id": "S094",
+      "path": "outputs/storyboard-ai-edit/assets/s094-source-match-r57.png",
+      "sha256": "7208b273a16e1da8954c39a0b22d6e7cef010fdc3e0e97a618c3d287ea028e24"
+    },
+    {
+      "id": "S095",
+      "path": "outputs/storyboard-ai-edit/assets/s095-source-match-r57.png",
+      "sha256": "3bcb826dde84386e337c35fa91236f35013944685bfb29a962080735a83a0e02"
+    },
+    {
+      "id": "S095B",
+      "path": "outputs/storyboard-ai-edit/assets/s095b-source-match-r57.png",
+      "sha256": "27b0f53e01919c88ce7f43fe80317d977b3a23a3c64816149aedb178a40f6149"
+    },
+    {
+      "id": "S096",
+      "path": "outputs/storyboard-ai-edit/assets/s096-source-match-r57.png",
+      "sha256": "16ade87fd87b2907fbfb72008aede55ebcb2b5cd4ac4cde2de4c87cada270c15"
+    },
+    {
+      "id": "S096B",
+      "path": "outputs/storyboard-ai-edit/assets/s096b-source-match-r57.png",
+      "sha256": "288085a1f46ba3c19af433c06a80c40de98464b28a93e9c72f90b9fb49c3972a"
+    },
+    {
+      "id": "S097",
+      "path": "outputs/storyboard-ai-edit/assets/s097-source-match-r57.png",
+      "sha256": "7f740869af88d8f2e3a318b02912b0be8d6980fc95beea55cd0879f709358769"
+    },
+    {
+      "id": "S097B",
+      "path": "outputs/storyboard-ai-edit/assets/s097b-source-match-r57.png",
+      "sha256": "272262fa6a78a8d2770651f16a052012d817bf66f763a59f03d4e3d5869d40d3"
+    },
+    {
+      "id": "S098",
+      "path": "outputs/storyboard-ai-edit/assets/s098-source-match-r57.png",
+      "sha256": "e43dfc8df19b7706a3163741a62a67e061a10e2ce90bb54d3901caf0c3bb5f01"
+    },
+    {
+      "id": "S098B",
+      "path": "outputs/storyboard-ai-edit/assets/s098b-source-match-r57.png",
+      "sha256": "6fd3ea049f1feab440cc1fbf8bb08c927db3c9c4179bf569e1f5ad97da2518cc"
+    },
+    {
+      "id": "S099",
+      "path": "outputs/storyboard-ai-edit/assets/s099-source-match-r57.png",
+      "sha256": "ee65627a9b480da8a3d03d8c6ffcebc241f188311b1731337f35ebd6fc3ba125"
+    },
+    {
+      "id": "S099B",
+      "path": "outputs/storyboard-ai-edit/assets/s099b-source-match-r57.png",
+      "sha256": "5503ba01b0303e7493b70c91852303ff087196c1c9ced1e86de865d389d39e53"
+    },
+    {
+      "id": "S100",
+      "path": "outputs/storyboard-ai-edit/assets/s100-source-match-r57.png",
+      "sha256": "dc129294623de90bcf91342ce1b3a27ddc39d96de095cd090022ba8af5cfc7a6"
+    },
+    {
+      "id": "S100B",
+      "path": "outputs/storyboard-ai-edit/assets/s100b-source-match-r57.png",
+      "sha256": "4681f789282034a9c20f34bce6ba8bc5847afc63877b056b6f985626e97bc7d8"
+    },
+    {
+      "id": "S101",
+      "path": "outputs/storyboard-ai-edit/assets/s101-source-match-r57.png",
+      "sha256": "5996ad5738980575e700e1bcb3fd53b728a7392ff28f19ab5a6177feb1bb8714"
+    },
+    {
+      "id": "S101B",
+      "path": "outputs/storyboard-ai-edit/assets/s101b-source-match-r57.png",
+      "sha256": "22e9a8da9ccb105158d71da4234d2d60f861e7f97edc3bf4710254304ce70220"
+    },
+    {
+      "id": "S102",
+      "path": "outputs/storyboard-ai-edit/assets/s102-source-match-r57.png",
+      "sha256": "cc7826308f64139938800d3cf35f40f0ca7c16ed6a13d3871d1f7fa3bcb75a82"
+    }
+  ],
+  "frameRate": 30,
+  "renderedCuts": [
+    {
+      "id": "S001",
+      "sourceStart": 0.0,
+      "renderedStart": 0.0,
+      "firstFrame": 0
+    },
+    {
+      "id": "S002",
+      "sourceStart": 3.8,
+      "renderedStart": 3.8,
+      "firstFrame": 114
+    },
+    {
+      "id": "S004",
+      "sourceStart": 6.1,
+      "renderedStart": 6.1,
+      "firstFrame": 183
+    },
+    {
+      "id": "S005",
+      "sourceStart": 9.6,
+      "renderedStart": 9.6,
+      "firstFrame": 288
+    },
+    {
+      "id": "S006",
+      "sourceStart": 13.3,
+      "renderedStart": 13.3,
+      "firstFrame": 399
+    },
+    {
+      "id": "S007",
+      "sourceStart": 15.3,
+      "renderedStart": 15.3,
+      "firstFrame": 459
+    },
+    {
+      "id": "S007B",
+      "sourceStart": 17.5,
+      "renderedStart": 17.5,
+      "firstFrame": 525
+    },
+    {
+      "id": "S007C",
+      "sourceStart": 19.5,
+      "renderedStart": 19.5,
+      "firstFrame": 585
+    },
+    {
+      "id": "S011",
+      "sourceStart": 21.9,
+      "renderedStart": 21.9,
+      "firstFrame": 657
+    },
+    {
+      "id": "S012",
+      "sourceStart": 25.6,
+      "renderedStart": 25.6,
+      "firstFrame": 768
+    },
+    {
+      "id": "S013",
+      "sourceStart": 28.6,
+      "renderedStart": 28.6,
+      "firstFrame": 858
+    },
+    {
+      "id": "S014",
+      "sourceStart": 30.1,
+      "renderedStart": 30.1,
+      "firstFrame": 903
+    },
+    {
+      "id": "S015",
+      "sourceStart": 32.9,
+      "renderedStart": 32.9,
+      "firstFrame": 987
+    },
+    {
+      "id": "S015B",
+      "sourceStart": 34,
+      "renderedStart": 34.0,
+      "firstFrame": 1020
+    },
+    {
+      "id": "S015C",
+      "sourceStart": 35.4,
+      "renderedStart": 35.4,
+      "firstFrame": 1062
+    },
+    {
+      "id": "S015D",
+      "sourceStart": 36.8,
+      "renderedStart": 36.8,
+      "firstFrame": 1104
+    },
+    {
+      "id": "S015F",
+      "sourceStart": 38.1,
+      "renderedStart": 38.1,
+      "firstFrame": 1143
+    },
+    {
+      "id": "S015G",
+      "sourceStart": 39.6,
+      "renderedStart": 39.6,
+      "firstFrame": 1188
+    },
+    {
+      "id": "S015I",
+      "sourceStart": 41,
+      "renderedStart": 41.0,
+      "firstFrame": 1230
+    },
+    {
+      "id": "S015K",
+      "sourceStart": 42.4,
+      "renderedStart": 42.4,
+      "firstFrame": 1272
+    },
+    {
+      "id": "S015L",
+      "sourceStart": 43.85,
+      "renderedStart": 43.86666666666667,
+      "firstFrame": 1316
+    },
+    {
+      "id": "S015M",
+      "sourceStart": 45.5,
+      "renderedStart": 45.5,
+      "firstFrame": 1365
+    },
+    {
+      "id": "S016",
+      "sourceStart": 46.9,
+      "renderedStart": 46.9,
+      "firstFrame": 1407
+    },
+    {
+      "id": "S019",
+      "sourceStart": 50.02,
+      "renderedStart": 50.03333333333333,
+      "firstFrame": 1501
+    },
+    {
+      "id": "S020",
+      "sourceStart": 52.43,
+      "renderedStart": 52.43333333333333,
+      "firstFrame": 1573
+    },
+    {
+      "id": "S021",
+      "sourceStart": 55.1,
+      "renderedStart": 55.1,
+      "firstFrame": 1653
+    },
+    {
+      "id": "S022",
+      "sourceStart": 57.0,
+      "renderedStart": 57.0,
+      "firstFrame": 1710
+    },
+    {
+      "id": "S023",
+      "sourceStart": 59.25,
+      "renderedStart": 59.266666666666666,
+      "firstFrame": 1778
+    },
+    {
+      "id": "S023A",
+      "sourceStart": 61.4,
+      "renderedStart": 61.4,
+      "firstFrame": 1842
+    },
+    {
+      "id": "S024",
+      "sourceStart": 63.1,
+      "renderedStart": 63.1,
+      "firstFrame": 1893
+    },
+    {
+      "id": "S025",
+      "sourceStart": 64.92,
+      "renderedStart": 64.93333333333334,
+      "firstFrame": 1948
+    },
+    {
+      "id": "S026",
+      "sourceStart": 68.12,
+      "renderedStart": 68.13333333333334,
+      "firstFrame": 2044
+    },
+    {
+      "id": "S027",
+      "sourceStart": 69.52,
+      "renderedStart": 69.53333333333333,
+      "firstFrame": 2086
+    },
+    {
+      "id": "S028",
+      "sourceStart": 73.02,
+      "renderedStart": 73.03333333333333,
+      "firstFrame": 2191
+    },
+    {
+      "id": "S029",
+      "sourceStart": 75.5,
+      "renderedStart": 75.5,
+      "firstFrame": 2265
+    },
+    {
+      "id": "S030",
+      "sourceStart": 78.0,
+      "renderedStart": 78.0,
+      "firstFrame": 2340
+    },
+    {
+      "id": "S031",
+      "sourceStart": 80.64,
+      "renderedStart": 80.66666666666667,
+      "firstFrame": 2420
+    },
+    {
+      "id": "S032",
+      "sourceStart": 83.44,
+      "renderedStart": 83.46666666666667,
+      "firstFrame": 2504
+    },
+    {
+      "id": "S033",
+      "sourceStart": 86.14,
+      "renderedStart": 86.16666666666667,
+      "firstFrame": 2585
+    },
+    {
+      "id": "S034",
+      "sourceStart": 87.44,
+      "renderedStart": 87.46666666666667,
+      "firstFrame": 2624
+    },
+    {
+      "id": "S035",
+      "sourceStart": 89.94,
+      "renderedStart": 89.96666666666667,
+      "firstFrame": 2699
+    },
+    {
+      "id": "S036",
+      "sourceStart": 91.64,
+      "renderedStart": 91.66666666666667,
+      "firstFrame": 2750
+    },
+    {
+      "id": "S037",
+      "sourceStart": 95.75,
+      "renderedStart": 95.76666666666667,
+      "firstFrame": 2873
+    },
+    {
+      "id": "S038",
+      "sourceStart": 98.45,
+      "renderedStart": 98.46666666666667,
+      "firstFrame": 2954
+    },
+    {
+      "id": "S039",
+      "sourceStart": 99.55,
+      "renderedStart": 99.56666666666666,
+      "firstFrame": 2987
+    },
+    {
+      "id": "S040",
+      "sourceStart": 102.25,
+      "renderedStart": 102.26666666666667,
+      "firstFrame": 3068
+    },
+    {
+      "id": "S041",
+      "sourceStart": 104.05,
+      "renderedStart": 104.06666666666666,
+      "firstFrame": 3122
+    },
+    {
+      "id": "S042",
+      "sourceStart": 106.0,
+      "renderedStart": 106.0,
+      "firstFrame": 3180
+    },
+    {
+      "id": "S043",
+      "sourceStart": 108.5,
+      "renderedStart": 108.5,
+      "firstFrame": 3255
+    },
+    {
+      "id": "S044",
+      "sourceStart": 111.3,
+      "renderedStart": 111.3,
+      "firstFrame": 3339
+    },
+    {
+      "id": "S044A",
+      "sourceStart": 112.55,
+      "renderedStart": 112.56666666666666,
+      "firstFrame": 3377
+    },
+    {
+      "id": "S044B",
+      "sourceStart": 113.35,
+      "renderedStart": 113.36666666666666,
+      "firstFrame": 3401
+    },
+    {
+      "id": "S044C",
+      "sourceStart": 114.3,
+      "renderedStart": 114.3,
+      "firstFrame": 3429
+    },
+    {
+      "id": "S045",
+      "sourceStart": 115.8,
+      "renderedStart": 115.8,
+      "firstFrame": 3474
+    },
+    {
+      "id": "S046",
+      "sourceStart": 117.3,
+      "renderedStart": 117.3,
+      "firstFrame": 3519
+    },
+    {
+      "id": "S046B",
+      "sourceStart": 118.5,
+      "renderedStart": 118.5,
+      "firstFrame": 3555
+    },
+    {
+      "id": "S047",
+      "sourceStart": 119.3,
+      "renderedStart": 119.3,
+      "firstFrame": 3579
+    },
+    {
+      "id": "S047B",
+      "sourceStart": 120.7,
+      "renderedStart": 120.7,
+      "firstFrame": 3621
+    },
+    {
+      "id": "S048",
+      "sourceStart": 121.75,
+      "renderedStart": 121.76666666666667,
+      "firstFrame": 3653
+    },
+    {
+      "id": "S048B",
+      "sourceStart": 123.75,
+      "renderedStart": 123.76666666666667,
+      "firstFrame": 3713
+    },
+    {
+      "id": "S049",
+      "sourceStart": 125.36,
+      "renderedStart": 125.36666666666666,
+      "firstFrame": 3761
+    },
+    {
+      "id": "S050",
+      "sourceStart": 127.7,
+      "renderedStart": 127.7,
+      "firstFrame": 3831
+    },
+    {
+      "id": "S051",
+      "sourceStart": 130.77,
+      "renderedStart": 130.8,
+      "firstFrame": 3924
+    },
+    {
+      "id": "S051B",
+      "sourceStart": 131.62,
+      "renderedStart": 131.63333333333333,
+      "firstFrame": 3949
+    },
+    {
+      "id": "S051C",
+      "sourceStart": 132.42,
+      "renderedStart": 132.43333333333334,
+      "firstFrame": 3973
+    },
+    {
+      "id": "S052",
+      "sourceStart": 133.95,
+      "renderedStart": 133.96666666666667,
+      "firstFrame": 4019
+    },
+    {
+      "id": "S053",
+      "sourceStart": 135.75,
+      "renderedStart": 135.76666666666668,
+      "firstFrame": 4073
+    },
+    {
+      "id": "S054",
+      "sourceStart": 138.5,
+      "renderedStart": 138.5,
+      "firstFrame": 4155
+    },
+    {
+      "id": "S054B",
+      "sourceStart": 141.2,
+      "renderedStart": 141.2,
+      "firstFrame": 4236
+    },
+    {
+      "id": "S055",
+      "sourceStart": 143.0,
+      "renderedStart": 143.0,
+      "firstFrame": 4290
+    },
+    {
+      "id": "S057",
+      "sourceStart": 146.0,
+      "renderedStart": 146.0,
+      "firstFrame": 4380
+    },
+    {
+      "id": "S058",
+      "sourceStart": 148.5,
+      "renderedStart": 148.5,
+      "firstFrame": 4455
+    },
+    {
+      "id": "S059",
+      "sourceStart": 150.5,
+      "renderedStart": 150.5,
+      "firstFrame": 4515
+    },
+    {
+      "id": "S060",
+      "sourceStart": 152.7,
+      "renderedStart": 152.7,
+      "firstFrame": 4581
+    },
+    {
+      "id": "S061",
+      "sourceStart": 154.7,
+      "renderedStart": 154.7,
+      "firstFrame": 4641
+    },
+    {
+      "id": "S061B",
+      "sourceStart": 155.5,
+      "renderedStart": 155.5,
+      "firstFrame": 4665
+    },
+    {
+      "id": "S061C",
+      "sourceStart": 156.8,
+      "renderedStart": 156.8,
+      "firstFrame": 4704
+    },
+    {
+      "id": "S061D",
+      "sourceStart": 157.95,
+      "renderedStart": 157.96666666666667,
+      "firstFrame": 4739
+    },
+    {
+      "id": "S062",
+      "sourceStart": 159.75,
+      "renderedStart": 159.76666666666668,
+      "firstFrame": 4793
+    },
+    {
+      "id": "S062B",
+      "sourceStart": 160.75,
+      "renderedStart": 160.76666666666668,
+      "firstFrame": 4823
+    },
+    {
+      "id": "S063",
+      "sourceStart": 161.95,
+      "renderedStart": 161.96666666666667,
+      "firstFrame": 4859
+    },
+    {
+      "id": "S064",
+      "sourceStart": 163.75,
+      "renderedStart": 163.76666666666668,
+      "firstFrame": 4913
+    },
+    {
+      "id": "S065",
+      "sourceStart": 165.15,
+      "renderedStart": 165.16666666666666,
+      "firstFrame": 4955
+    },
+    {
+      "id": "S066",
+      "sourceStart": 166.05,
+      "renderedStart": 166.06666666666666,
+      "firstFrame": 4982
+    },
+    {
+      "id": "S066B",
+      "sourceStart": 168.05,
+      "renderedStart": 168.06666666666666,
+      "firstFrame": 5042
+    },
+    {
+      "id": "S066C",
+      "sourceStart": 168.95,
+      "renderedStart": 168.96666666666667,
+      "firstFrame": 5069
+    },
+    {
+      "id": "S066D",
+      "sourceStart": 169.8,
+      "renderedStart": 169.8,
+      "firstFrame": 5094
+    },
+    {
+      "id": "S066E",
+      "sourceStart": 170.75,
+      "renderedStart": 170.76666666666668,
+      "firstFrame": 5123
+    },
+    {
+      "id": "S066F",
+      "sourceStart": 171.85,
+      "renderedStart": 171.86666666666667,
+      "firstFrame": 5156
+    },
+    {
+      "id": "S067",
+      "sourceStart": 173.56,
+      "renderedStart": 173.56666666666666,
+      "firstFrame": 5207
+    },
+    {
+      "id": "S068",
+      "sourceStart": 176.61,
+      "renderedStart": 176.63333333333333,
+      "firstFrame": 5299
+    },
+    {
+      "id": "S069",
+      "sourceStart": 178.76,
+      "renderedStart": 178.76666666666668,
+      "firstFrame": 5363
+    },
+    {
+      "id": "S070",
+      "sourceStart": 180.01,
+      "renderedStart": 180.03333333333333,
+      "firstFrame": 5401
+    },
+    {
+      "id": "S071",
+      "sourceStart": 181.71,
+      "renderedStart": 181.73333333333332,
+      "firstFrame": 5452
+    },
+    {
+      "id": "S072",
+      "sourceStart": 184.41,
+      "renderedStart": 184.43333333333334,
+      "firstFrame": 5533
+    },
+    {
+      "id": "S073",
+      "sourceStart": 187.04,
+      "renderedStart": 187.06666666666666,
+      "firstFrame": 5612
+    },
+    {
+      "id": "S074",
+      "sourceStart": 189.61,
+      "renderedStart": 189.63333333333333,
+      "firstFrame": 5689
+    },
+    {
+      "id": "S076",
+      "sourceStart": 193.2,
+      "renderedStart": 193.2,
+      "firstFrame": 5796
+    },
+    {
+      "id": "S076A",
+      "sourceStart": 194.553,
+      "renderedStart": 194.56666666666666,
+      "firstFrame": 5837
+    },
+    {
+      "id": "S076B",
+      "sourceStart": 195.02,
+      "renderedStart": 195.03333333333333,
+      "firstFrame": 5851
+    },
+    {
+      "id": "S076C",
+      "sourceStart": 195.487,
+      "renderedStart": 195.5,
+      "firstFrame": 5865
+    },
+    {
+      "id": "S076D",
+      "sourceStart": 195.953,
+      "renderedStart": 195.96666666666667,
+      "firstFrame": 5879
+    },
+    {
+      "id": "S076E",
+      "sourceStart": 196.42,
+      "renderedStart": 196.43333333333334,
+      "firstFrame": 5893
+    },
+    {
+      "id": "S076F",
+      "sourceStart": 196.887,
+      "renderedStart": 196.9,
+      "firstFrame": 5907
+    },
+    {
+      "id": "S076G",
+      "sourceStart": 197.355,
+      "renderedStart": 197.36666666666667,
+      "firstFrame": 5921
+    },
+    {
+      "id": "S076H",
+      "sourceStart": 197.821,
+      "renderedStart": 197.83333333333334,
+      "firstFrame": 5935
+    },
+    {
+      "id": "S078A",
+      "sourceStart": 198.287,
+      "renderedStart": 198.3,
+      "firstFrame": 5949
+    },
+    {
+      "id": "S079",
+      "sourceStart": 202.018,
+      "renderedStart": 202.03333333333333,
+      "firstFrame": 6061
+    },
+    {
+      "id": "S080",
+      "sourceStart": 204.12,
+      "renderedStart": 204.13333333333333,
+      "firstFrame": 6124
+    },
+    {
+      "id": "S081",
+      "sourceStart": 206.72,
+      "renderedStart": 206.73333333333332,
+      "firstFrame": 6202
+    },
+    {
+      "id": "S082",
+      "sourceStart": 208.32,
+      "renderedStart": 208.33333333333334,
+      "firstFrame": 6250
+    },
+    {
+      "id": "S083",
+      "sourceStart": 210.12,
+      "renderedStart": 210.13333333333333,
+      "firstFrame": 6304
+    },
+    {
+      "id": "S084",
+      "sourceStart": 212.42,
+      "renderedStart": 212.43333333333334,
+      "firstFrame": 6373
+    },
+    {
+      "id": "S085",
+      "sourceStart": 215.52,
+      "renderedStart": 215.53333333333333,
+      "firstFrame": 6466
+    },
+    {
+      "id": "S086",
+      "sourceStart": 216.62,
+      "renderedStart": 216.63333333333333,
+      "firstFrame": 6499
+    },
+    {
+      "id": "S087",
+      "sourceStart": 219.62,
+      "renderedStart": 219.63333333333333,
+      "firstFrame": 6589
+    },
+    {
+      "id": "S088",
+      "sourceStart": 222.42,
+      "renderedStart": 222.43333333333334,
+      "firstFrame": 6673
+    },
+    {
+      "id": "S088A",
+      "sourceStart": 224.0,
+      "renderedStart": 224.0,
+      "firstFrame": 6720
+    },
+    {
+      "id": "S090",
+      "sourceStart": 228.0,
+      "renderedStart": 228.0,
+      "firstFrame": 6840
+    },
+    {
+      "id": "S091",
+      "sourceStart": 231.44,
+      "renderedStart": 231.46666666666667,
+      "firstFrame": 6944
+    },
+    {
+      "id": "S092",
+      "sourceStart": 234.36,
+      "renderedStart": 234.36666666666667,
+      "firstFrame": 7031
+    },
+    {
+      "id": "S093",
+      "sourceStart": 237.62,
+      "renderedStart": 237.63333333333333,
+      "firstFrame": 7129
+    },
+    {
+      "id": "S094",
+      "sourceStart": 242.3,
+      "renderedStart": 242.3,
+      "firstFrame": 7269
+    },
+    {
+      "id": "S095",
+      "sourceStart": 244.8,
+      "renderedStart": 244.8,
+      "firstFrame": 7344
+    },
+    {
+      "id": "S095B",
+      "sourceStart": 246.84,
+      "renderedStart": 246.86666666666667,
+      "firstFrame": 7406
+    },
+    {
+      "id": "S096",
+      "sourceStart": 248.88,
+      "renderedStart": 248.9,
+      "firstFrame": 7467
+    },
+    {
+      "id": "S096B",
+      "sourceStart": 251.04,
+      "renderedStart": 251.06666666666666,
+      "firstFrame": 7532
+    },
+    {
+      "id": "S097",
+      "sourceStart": 251.84,
+      "renderedStart": 251.86666666666667,
+      "firstFrame": 7556
+    },
+    {
+      "id": "S097B",
+      "sourceStart": 252.54,
+      "renderedStart": 252.56666666666666,
+      "firstFrame": 7577
+    },
+    {
+      "id": "S098",
+      "sourceStart": 253.44,
+      "renderedStart": 253.46666666666667,
+      "firstFrame": 7604
+    },
+    {
+      "id": "S098B",
+      "sourceStart": 254.38,
+      "renderedStart": 254.4,
+      "firstFrame": 7632
+    },
+    {
+      "id": "S099",
+      "sourceStart": 255.88,
+      "renderedStart": 255.9,
+      "firstFrame": 7677
+    },
+    {
+      "id": "S099B",
+      "sourceStart": 256.48,
+      "renderedStart": 256.5,
+      "firstFrame": 7695
+    },
+    {
+      "id": "S100",
+      "sourceStart": 258.88,
+      "renderedStart": 258.9,
+      "firstFrame": 7767
+    },
+    {
+      "id": "S100B",
+      "sourceStart": 261.28,
+      "renderedStart": 261.3,
+      "firstFrame": 7839
+    },
+    {
+      "id": "S101",
+      "sourceStart": 262.88,
+      "renderedStart": 262.9,
+      "firstFrame": 7887
+    },
+    {
+      "id": "S101B",
+      "sourceStart": 266.08,
+      "renderedStart": 266.1,
+      "firstFrame": 7983
+    },
+    {
+      "id": "S102",
+      "sourceStart": 268.48,
+      "renderedStart": 268.5,
+      "firstFrame": 8055
+    }
+  ],
+  "maximumCutQuantizationSeconds": 0.030000000000001137,
+  "sha256": "62cb2da8ea2d691fcfa89a150faddfd6b4cadde138429884a8005326beecb89b"
+}

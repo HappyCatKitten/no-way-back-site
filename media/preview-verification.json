@@ -1,9 +1,10 @@
 {
-  "sourceVersion": "s015b-apartment-match-r58",
+  "sourceVersion": "s038-hand-anatomy-r67",
   "shots": 138,
-  "file": "no-way-back-phone.mp4",
-  "bytes": 46469130,
-  "decimalMB": 46.46913,
+  "file": "no-way-back.mp4",
+  "bytes": 46964488,
+  "sha256": "53eb12c9f01a5865f2b3ae1a347691488e0aaa5cd858e53f7c468dc3dce09bf8",
+  "decimalMB": 46.964488,
   "limitBytes": 50000000,
   "under50MB": true,
   "sourceDuration": 273.285,
@@ -37,7 +38,7 @@
         "start_time": "0.000000",
         "duration_ts": 4197888,
         "duration": "273.300000",
-        "bit_rate": "1223397",
+        "bit_rate": "1237897",
         "bits_per_raw_sample": "8",
         "nb_frames": "8199",
         "extradata_size": 40,
@@ -122,7 +123,7 @@
       }
     ],
     "format": {
-      "filename": "/tmp/no-way-back-preview-r58-studio/no-way-back-phone.mp4",
+      "filename": "/tmp/no-way-back-preview-r67-20261107/no-way-back-phone.mp4",
       "nb_streams": 2,
       "nb_programs": 0,
       "nb_stream_groups": 0,
@@ -130,8 +131,8 @@
       "format_long_name": "QuickTime / MOV",
       "start_time": "0.000000",
       "duration": "273.300000",
-      "size": "46469130",
-      "bit_rate": "1360237",
+      "size": "46964488",
+      "bit_rate": "1374738",
       "probe_score": 100,
       "tags": {
         "major_brand": "isom",
@@ -149,23 +150,23 @@
   "inputs": [
     {
       "id": "S001",
-      "path": "outputs/storyboard-ai-edit/assets/s001-source-match-r57.png",
-      "sha256": "d766957f8e77db8262b6ad0f1a31d999104f7564a807ef53dfda83aecb8c884a"
+      "path": "outputs/storyboard-ai-edit/assets/s001-city-detail-r59.png",
+      "sha256": "5179ec83e0ab96894fd3c0435530863e7e0b97ced82ba2d147f846b060fbe786"
     },
     {
       "id": "S002",
-      "path": "outputs/storyboard-ai-edit/assets/s002-source-match-r57.png",
-      "sha256": "9f22bc77391aa710d6226865952c05362e54b5e48c99492f17d5d64adb1addb6"
+      "path": "outputs/storyboard-ai-edit/assets/s002-city-detail-r59.png",
+      "sha256": "66925cee9206c0d22ab55dac60c1aeed87ca7c565cc1db5a0274cbb4dcbc986d"
+    },
+    {
+      "id": "S002B",
+      "path": "outputs/storyboard-ai-edit/assets/s002b-city-aerial-r59.png",
+      "sha256": "d97830a7d3928c9db1656aaf1d044d8274fc04647bc21e0ed571b7e2338e5ff6"
     },
     {
       "id": "S004",
-      "path": "outputs/storyboard-ai-edit/assets/s004-source-match-r57.png",
-      "sha256": "4750731ff8b0f7ebcbab67e1a8ef77bae7b2372e71e6e086ba4bf9465270eebe"
-    },
-    {
-      "id": "S005",
-      "path": "outputs/storyboard-ai-edit/assets/s005-source-match-r57.png",
-      "sha256": "05592572a42232c806c69dbcda11b4396b75be260b92dd341268120588ce8381"
+      "path": "outputs/storyboard-ai-edit/assets/s004-city-detail-r59.png",
+      "sha256": "f608e1bd2ea9b757f302f3d21b484cb58dad2b5c8014615b195ac2901410e738"
     },
     {
       "id": "S006",
@@ -224,38 +225,38 @@
     },
     {
       "id": "S015D",
-      "path": "outputs/storyboard-ai-edit/assets/s015d-source-match-r57.png",
-      "sha256": "94bf8b6acc2ab86ea21deeb5d08bdfdaca6a12005f8253aeb100f0d3d82d2e31"
+      "path": "outputs/storyboard-ai-edit/assets/s015d-maker-stash-r61.png",
+      "sha256": "9e00f08739e7bd731e72e1d07298c82a9d98545360bfa7257003ed9dfc63db09"
     },
     {
       "id": "S015F",
-      "path": "outputs/storyboard-ai-edit/assets/s015f-source-match-r57.png",
-      "sha256": "b156c20f67c0cd2c9d0513d3f89035c8d1c835c5e39557f5db0f4c771429da82"
+      "path": "outputs/storyboard-ai-edit/assets/s015f-maker-stash-r61.png",
+      "sha256": "cd2c75701eaaf02b847793b20796f6cd204caaf738daa748fd4f9fca9439da8a"
     },
     {
       "id": "S015G",
-      "path": "outputs/storyboard-ai-edit/assets/s015g-source-match-r57.png",
-      "sha256": "a8503f59f2fa499929e49eed81132ed72ec3af6ce5edd77485388da75d09e30d"
+      "path": "outputs/storyboard-ai-edit/assets/s015g-maker-stash-r61.png",
+      "sha256": "7b75b2c55310d0beea1aa4d72746f2b8e1ecea10b9682b9e29c5d1d0f580c40b"
     },
     {
       "id": "S015I",
-      "path": "outputs/storyboard-ai-edit/assets/s015i-source-match-r57.png",
-      "sha256": "3dd7ecbddfa604045c3f1712c6b0f478a6e731550f1cbe13896c6d9f2bcfad74"
+      "path": "outputs/storyboard-ai-edit/assets/s015i-maker-stash-r61.png",
+      "sha256": "eb34b54e058cf01abe692e78edd38c90747e3679b32f5629057784ce0e20f79f"
     },
     {
       "id": "S015K",
-      "path": "outputs/storyboard-ai-edit/assets/s015k-source-match-r57.png",
-      "sha256": "121647be3f752659c18da15940a4114384f90b8bb9e87068c52bd4dd5b0be340"
+      "path": "outputs/storyboard-ai-edit/assets/s015k-maker-stash-label-r61b.png",
+      "sha256": "ca0c962dc716899a39f10a10c1bc68c8baa5c5b2d41276df50b89a1b6e108e0d"
     },
     {
       "id": "S015L",
-      "path": "outputs/storyboard-ai-edit/assets/s015l-source-match-r57.png",
-      "sha256": "bc4c64f9523091b4e05f24e1487926000394c58572903c6417fedd81290812c1"
+      "path": "outputs/storyboard-ai-edit/assets/s015l-maker-stash-r61.png",
+      "sha256": "b33a781e0d2311e7b110a3b91059fef1544463b862f34bd333a1872a808f9118"
     },
     {
       "id": "S015M",
-      "path": "outputs/storyboard-ai-edit/assets/s015m-source-match-r57.png",
-      "sha256": "1e322075524a0d4b85d4ccc1f35b98066d6b591c506fc4e44d85408f5f079656"
+      "path": "outputs/storyboard-ai-edit/assets/s015m-maker-stash-r61.png",
+      "sha256": "c45c7352d9b8f5f12bf1790ad2a9c4dcf6272340fc855c13559ec25efda26db2"
     },
     {
       "id": "S016",
@@ -264,8 +265,8 @@
     },
     {
       "id": "S019",
-      "path": "outputs/storyboard-ai-edit/assets/s019-source-match-r57.png",
-      "sha256": "e9e6f2071143f8de796f9d4e51d428b5e7e9f35362c94a73cdb998600205ca11"
+      "path": "outputs/storyboard-ai-edit/assets/s019-dress-back-r62.png",
+      "sha256": "7b4204be51fadad0b62e197ddd92e2df941379b84416592ac7588192266c1aad"
     },
     {
       "id": "S020",
@@ -329,8 +330,8 @@
     },
     {
       "id": "S031",
-      "path": "outputs/storyboard-ai-edit/assets/s031-source-match-r57.png",
-      "sha256": "24b9ab8f9e7ee4118fd7a1e65bc4acad3912f09b63bc5f1bdd977e2e297ccfd9"
+      "path": "outputs/storyboard-ai-edit/assets/s031-ex-expression-r63.png",
+      "sha256": "7125a9fc65c34f546d927ad45015aca13011d79fb18e9a10ef58c705c8a6edde"
     },
     {
       "id": "S032",
@@ -344,8 +345,8 @@
     },
     {
       "id": "S034",
-      "path": "outputs/storyboard-ai-edit/assets/s034-source-match-r57.png",
-      "sha256": "40d2ecd5e89346d23be60d60e6f8bafddce1e654b6e21e1730f3bec2c738c59b"
+      "path": "outputs/storyboard-ai-edit/assets/s034-ex-expression-r63.png",
+      "sha256": "65a5a4c5ccc98641d6e0e2915b6fb82ef66b22280edc26440d07ba43efe96a72"
     },
     {
       "id": "S035",
@@ -354,18 +355,18 @@
     },
     {
       "id": "S036",
-      "path": "outputs/storyboard-ai-edit/assets/s036-source-match-r57.png",
-      "sha256": "0f61ebb5429bc3613ca3ca694ae6b5ae5e9f94bcb5ce8d8c9279166daaca3171"
+      "path": "outputs/storyboard-ai-edit/assets/s036-ex-warmth-r64.png",
+      "sha256": "9f2de8453be48f67645602bf6b7dc57c1db090b8e9e4747bc9313a2bcbc49ca3"
     },
     {
       "id": "S037",
-      "path": "outputs/storyboard-ai-edit/assets/s037-source-match-r57.png",
-      "sha256": "b9441720c33cbeccfd140bb5845e3a7975a6e16747f40a88aa090e9b1b2deae4"
+      "path": "outputs/storyboard-ai-edit/assets/s037-ex-warmth-r64.png",
+      "sha256": "a061a62919786ad798571437b1148b7eebf5e92615be1250b54f0b1e881e7859"
     },
     {
       "id": "S038",
-      "path": "outputs/storyboard-ai-edit/assets/s038-source-match-r57.png",
-      "sha256": "cdc0832231522ed7ed2259b5ded004cfcc3e8a26eb5ecba968833bd361bf47fb"
+      "path": "outputs/storyboard-ai-edit/assets/s038-hand-anatomy-r67.png",
+      "sha256": "fa3c0ee3010130744c522e6f7365382b06e4e10e06c1055f73325a3f7f05587e"
     },
     {
       "id": "S039",
@@ -853,13 +854,13 @@
       "firstFrame": 114
     },
     {
-      "id": "S004",
+      "id": "S002B",
       "sourceStart": 6.1,
       "renderedStart": 6.1,
       "firstFrame": 183
     },
     {
-      "id": "S005",
+      "id": "S004",
       "sourceStart": 9.6,
       "renderedStart": 9.6,
       "firstFrame": 288
@@ -1670,5 +1671,13 @@
     }
   ],
   "maximumCutQuantizationSeconds": 0.030000000000001137,
-  "sha256": "62cb2da8ea2d691fcfa89a150faddfd6b4cadde138429884a8005326beecb89b"
+  "renderFile": "no-way-back-phone.mp4",
+  "publishedAt": "2026-11-07",
+  "previousVideoSha256": "62cb2da8ea2d691fcfa89a150faddfd6b4cadde138429884a8005326beecb89b",
+  "captions": {
+    "path": "no-way-back.en.vtt",
+    "verification": "captions-verification.json",
+    "optional": true,
+    "burnedIn": false
+  }
 }

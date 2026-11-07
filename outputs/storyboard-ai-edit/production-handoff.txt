@@ -1,6 +1,6 @@
 NO WAY BACK — STORYBOARD AI EDIT
 138 active shots · unchanged audio04:33.285 ·16:9
-Current revision: ex-elevator-warmth-r64. Approved S034 restrained warmth continued in ex expressions; timing and other artwork unchanged.
+Current revision: s038-hand-anatomy-r67. S038 five-digit hand corrected; all timings, audio and other artwork unchanged.
 
 01 · Metropolis to apartment [S001–S006]
 
@@ -5720,10 +5720,10 @@ shotPurpose: A flicker of old hurt is contained.
 narrativeAdvance: Fingers tighten once, then ease before the cut.
 
 2 · CHANGES
-decision: Retain approved composition; revise timing and precise performance/camera continuity.
-timingDelta: Timing 01:37.875–01:40.000 → 01:38.450–01:39.550.
+decision: Correct only surplus-finger anatomy in the S038 right-hand carrying grip; preserve wrist/pose, mesh/dress, complete fan-facing case and elevator exposure.
+timingDelta: None: 98.450–99.550 remains 1.100s.
 preserve: Stable shot ID, character identity, approved visual composition except explicit corrections; original source archived.
-artworkPublication: User approved all 138 source-match comparison candidates on 7 October 2026. Publish the selected native artwork, preserve the edit and match each original exposure; remove baked shot-number badges. CRT is a separate browser-only preview, not part of the artwork.
+artworkPublication: User requested five-digit correction before the video rebuild and Git/GitHub Pages publication. Built-in ImageGen correction visually reviewed; prior asset preserved.
 
 3 · TIMING
 start: 98.45
@@ -5738,17 +5738,17 @@ note: Local action beats below are editorial allocations, not measured performan
 previous: S037
 next: S039
 geography: Door south, rear cabin north. She occupies west side, he east. Screen sides change only when camera reverses: inside-looking-out S034/S040 woman right; door-side frontal shots woman left. Both bags remain anatomical right hands.
-costumeProps: Same teal wrap dress/mesh/ankle boots as market; rigid module case always anatomical RIGHT. Ex: original charcoal collared jacket/black tee, right-hand fabric duffel.
+costumeProps: Same teal wrap dress/mesh/ankle boots as market; rigid module case always anatomical RIGHT. Ex: original charcoal collared jacket/black tee, right-hand fabric duffel. The compact CORTEX ARRAY is re-seated coherently behind the existing closed case window: the broad circular cooling-fan face and finned cooler face outward through the glass, parallel to its plane, with only the window’s slight camera perspective. The complete circuit-board/cooler assembly shares this orientation; layered green/gold boards and silver standoffs recede into the case behind the fan, braided cables routed along the side. Do not force all processor faces or the nameplate into a contradictory display angle. Hardware remains securely mounted and OFF: stationary fan, no illuminated screen/status LEDs. Clear glass retains restrained reflections. Exterior case, anatomical RIGHT grip/slender fingers, mesh cuff, teal dress, elevator camera/crop and amber/navy exposure remain unchanged in intent. Her anatomical RIGHT hand has exactly five digits: four slender continuous curled fingers over the near handle and one thumb wrapping the far/right side. Four clear knuckles only; no surplus finger, doubled nail, split fingertip or duplicated thumb. Preserve the tan skin, natural small hand proportions, wrist/mesh cuff and carrying grip. Previously approved fan-facing CORTEX ARRAY orientation, closed case, teal dress, elevator camera and lighting remain unchanged.
 identity: Original adult heroine: brown almond eyes, original face/brow/jaw from locked crops, chestnut swept fringe and grouped loose curls ending mid-back above the waistband; no extra-long cascading hair or tiny red ringlets. Gold hoops. Slim naturally tapered legs with curvier hips/bum; preserve adult anatomy and slender hands. Outfit references govern clothes, not body redesign. Original drawn style, deep indigo/charcoal shadows, restrained amber and selective coloured rims.
 
 5 · STILL
-representativeImage: assets/s038-source-match-r57.png
-visibleMoment: Her slender right fingers tighten around the top handle of the black windowed CORTEX ARRAY case. Stacked electronics remain visible inside; the mesh sleeve and dark teal fabric replace the old leather cuff and denim.
+representativeImage: assets/s038-hand-anatomy-r67.png
+visibleMoment: Her slender right fingers tighten around the top handle of the black windowed CORTEX ARRAY case. Stacked electronics remain visible inside; the mesh sleeve and dark teal fabric replace the old leather cuff and denim. The compact CORTEX ARRAY is re-seated coherently behind the existing closed case window: the broad circular cooling-fan face and finned cooler face outward through the glass, parallel to its plane, with only the window’s slight camera perspective. The complete circuit-board/cooler assembly shares this orientation; layered green/gold boards and silver standoffs recede into the case behind the fan, braided cables routed along the side. Do not force all processor faces or the nameplate into a contradictory display angle. Hardware remains securely mounted and OFF: stationary fan, no illuminated screen/status LEDs. Clear glass retains restrained reflections. Exterior case, anatomical RIGHT grip/slender fingers, mesh cuff, teal dress, elevator camera/crop and amber/navy exposure remain unchanged in intent. Her anatomical RIGHT hand has exactly five digits: four slender continuous curled fingers over the near handle and one thumb wrapping the far/right side. Four clear knuckles only; no surplus finger, doubled nail, split fingertip or duplicated thumb. Preserve the tan skin, natural small hand proportions, wrist/mesh cuff and carrying grip. Previously approved fan-facing CORTEX ARRAY orientation, closed case, teal dress, elevator camera and lighting remain unchanged.
 firstFrameInstant: Her right hand holds the case handle normally.
 composition: Hand detail
 perspective: 100 mm perspective suggestion
 lightDepth: Cool brushed steel cabin, warm landing practicals, subdued reflections with exactly one of each person. No invented crowd or mirrored duplicate ex.
-keyframeRule: Preserve source foreground/midground/background arrangement and focus subject; prepare the earlier pose specified for the first frame. Do not enlarge accessories merely to show them.
+keyframeRule: Preserve source foreground/midground/background arrangement and focus subject; prepare the earlier pose specified for the first frame. Do not enlarge accessories merely to show them. The compact CORTEX ARRAY is re-seated coherently behind the existing closed case window: the broad circular cooling-fan face and finned cooler face outward through the glass, parallel to its plane, with only the window’s slight camera perspective. The complete circuit-board/cooler assembly shares this orientation; layered green/gold boards and silver standoffs recede into the case behind the fan, braided cables routed along the side. Do not force all processor faces or the nameplate into a contradictory display angle. Hardware remains securely mounted and OFF: stationary fan, no illuminated screen/status LEDs. Clear glass retains restrained reflections. Exterior case, anatomical RIGHT grip/slender fingers, mesh cuff, teal dress, elevator camera/crop and amber/navy exposure remain unchanged in intent. Her anatomical RIGHT hand has exactly five digits: four slender continuous curled fingers over the near handle and one thumb wrapping the far/right side. Four clear knuckles only; no surplus finger, doubled nail, split fingertip or duplicated thumb. Preserve the tan skin, natural small hand proportions, wrist/mesh cuff and carrying grip. Previously approved fan-facing CORTEX ARRAY orientation, closed case, teal dress, elevator camera and lighting remain unchanged.
 artworkDimensions: [
   1672,
   941
@@ -5790,10 +5790,10 @@ sceneRhythm: Arrival movement → uncomfortable stillness → threshold movement
 futureSubshots: If subdividing later, retain this action order: Her right hand holds the case handle normally. → Fingers tighten once, then ease before the cut. → The handle is secure; the case has not changed hands. Do not add a new emotion, location or repeated action merely to create a half-second insert.
 
 9 · GENERATION
-status: Brief complete; production keyframes and video not generated in this editorial pass.
+status: Exactly-five-digit grip corrected in native representative; unchanged actions and timing. Production keyframes and animation remain pending.
 referencePack: [
   {
-    "path": "assets/s038-source-match-r57.png",
+    "path": "assets/s038-hand-anatomy-r67.png",
     "role": "Representative composition and scene rendering; not automatically a production first frame."
   },
   {
@@ -5815,30 +5815,44 @@ referencePack: [
   {
     "path": "assets/s024-source-match-r57.png",
     "role": "CORTEX ARRAY module design: compact stacked boards, three chips, cooler."
+  },
+  {
+    "path": "assets/s029-source-match-r57.png",
+    "role": "Acquired CORTEX ARRAY hardware construction/reference only. Current S038 governs hand/grip, case angle/framing and elevator lighting."
+  },
+  {
+    "path": "assets/s029-source-match-r57.png",
+    "role": "Acquired CORTEX ARRAY hardware construction/reference only. Current S038 governs hand/grip, case angle/framing and elevator lighting."
   }
 ]
-firstFramePrompt: Create one clean 16:9 first frame for S038. Use the representative still for composition, camera height, environment and rendering; use the supplied identity/outfit references for those roles only. Exact first instant: Her right hand holds the case handle normally. Performance at that instant must permit: Slender fingers, thumb remains on the same side of handle; no shaking or knuckle distortion. Same teal wrap dress/mesh/ankle boots as market; rigid module case always anatomical RIGHT. Ex: original charcoal collared jacket/black tee, right-hand fabric duffel. Original adult heroine: brown almond eyes, original face/brow/jaw from locked crops, chestnut swept fringe and grouped loose curls ending mid-back above the waistband; no extra-long cascading hair or tiny red ringlets. Gold hoops. Slim naturally tapered legs with curvier hips/bum; preserve adult anatomy and slender hands. Outfit references govern clothes, not body redesign. Original drawn style, deep indigo/charcoal shadows, restrained amber and selective coloured rims. Cool brushed steel cabin, warm landing practicals, subdued reflections with exactly one of each person. No invented crowd or mirrored duplicate ex. Do not depict later events from the clip yet. Remove baked shot labels and lyric overlays. Keep physical geography and props consistent: Door south, rear cabin north. She occupies west side, he east. Screen sides change only when camera reverses: inside-looking-out S034/S040 woman right; door-side frontal shots woman left. Both bags remain anatomical right hands.
+firstFramePrompt: Create one clean 16:9 first frame for S038. Use the representative still for composition, camera height, environment and rendering; use the supplied identity/outfit references for those roles only. Exact first instant: Her right hand holds the case handle normally. Performance at that instant must permit: Slender fingers, thumb remains on the same side of handle; no shaking or knuckle distortion. Same teal wrap dress/mesh/ankle boots as market; rigid module case always anatomical RIGHT. Ex: original charcoal collared jacket/black tee, right-hand fabric duffel. Original adult heroine: brown almond eyes, original face/brow/jaw from locked crops, chestnut swept fringe and grouped loose curls ending mid-back above the waistband; no extra-long cascading hair or tiny red ringlets. Gold hoops. Slim naturally tapered legs with curvier hips/bum; preserve adult anatomy and slender hands. Outfit references govern clothes, not body redesign. Original drawn style, deep indigo/charcoal shadows, restrained amber and selective coloured rims. Cool brushed steel cabin, warm landing practicals, subdued reflections with exactly one of each person. No invented crowd or mirrored duplicate ex. Do not depict later events from the clip yet. Remove baked shot labels and lyric overlays. Keep physical geography and props consistent: Door south, rear cabin north. She occupies west side, he east. Screen sides change only when camera reverses: inside-looking-out S034/S040 woman right; door-side frontal shots woman left. Both bags remain anatomical right hands. The compact CORTEX ARRAY is re-seated coherently behind the existing closed case window: the broad circular cooling-fan face and finned cooler face outward through the glass, parallel to its plane, with only the window’s slight camera perspective. The complete circuit-board/cooler assembly shares this orientation; layered green/gold boards and silver standoffs recede into the case behind the fan, braided cables routed along the side. Do not force all processor faces or the nameplate into a contradictory display angle. Hardware remains securely mounted and OFF: stationary fan, no illuminated screen/status LEDs. Clear glass retains restrained reflections. Exterior case, anatomical RIGHT grip/slender fingers, mesh cuff, teal dress, elevator camera/crop and amber/navy exposure remain unchanged in intent. Her anatomical RIGHT hand has exactly five digits: four slender continuous curled fingers over the near handle and one thumb wrapping the far/right side. Four clear knuckles only; no surplus finger, doubled nail, split fingertip or duplicated thumb. Preserve the tan skin, natural small hand proportions, wrist/mesh cuff and carrying grip. Previously approved fan-facing CORTEX ARRAY orientation, closed case, teal dress, elevator camera and lighting remain unchanged.
 endFrameRecommended: False
 endFramePrompt: None
-videoPrompt: One continuous illustrated shot, 1.100 seconds of selected action, 16:9. Start: Her right hand holds the case handle normally. Action: Fingers tighten once, then ease before the cut. End: The handle is secure; the case has not changed hands. Performance: A flicker of old hurt is contained. Slender fingers, thumb remains on the same side of handle; no shaking or knuckle distortion. Camera: Locked hand detail, 100mm; no camera flourish in this short beat. Same teal wrap dress/mesh/ankle boots as market; rigid module case always anatomical RIGHT. Ex: original charcoal collared jacket/black tee, right-hand fabric duffel. Keep identity, hands, costume, prop geometry and background stable; no extra cuts or new story events. No added speech, lip-sync or soundtrack; edit against the unchanged master. 
+videoPrompt: One continuous illustrated shot, 1.100 seconds of selected action, 16:9. Start: Her right hand holds the case handle normally. Action: Fingers tighten once, then ease before the cut. End: The handle is secure; the case has not changed hands. Performance: A flicker of old hurt is contained. Slender fingers, thumb remains on the same side of handle; no shaking or knuckle distortion. Camera: Locked hand detail, 100mm; no camera flourish in this short beat. Same teal wrap dress/mesh/ankle boots as market; rigid module case always anatomical RIGHT. Ex: original charcoal collared jacket/black tee, right-hand fabric duffel. Keep identity, hands, costume, prop geometry and background stable; no extra cuts or new story events. No added speech, lip-sync or soundtrack; edit against the unchanged master. The compact CORTEX ARRAY is re-seated coherently behind the existing closed case window: the broad circular cooling-fan face and finned cooler face outward through the glass, parallel to its plane, with only the window’s slight camera perspective. The complete circuit-board/cooler assembly shares this orientation; layered green/gold boards and silver standoffs recede into the case behind the fan, braided cables routed along the side. Do not force all processor faces or the nameplate into a contradictory display angle. Hardware remains securely mounted and OFF: stationary fan, no illuminated screen/status LEDs. Clear glass retains restrained reflections. Exterior case, anatomical RIGHT grip/slender fingers, mesh cuff, teal dress, elevator camera/crop and amber/navy exposure remain unchanged in intent. Her anatomical RIGHT hand has exactly five digits: four slender continuous curled fingers over the near handle and one thumb wrapping the far/right side. Four clear knuckles only; no surplus finger, doubled nail, split fingertip or duplicated thumb. Preserve the tan skin, natural small hand proportions, wrist/mesh cuff and carrying grip. Previously approved fan-facing CORTEX ARRAY orientation, closed case, teal dress, elevator camera and lighting remain unchanged.
 audio: Use unchanged song.mp3 at the shot timeline interval. Generate no replacement song or dialogue. Stage inserts require later lip-sync verification.
 specialHandling: For S102 use separate portrait/world layers if generative composite is unstable. For readable screens/signs use an editorial plate if lettering deforms. Never send storyboard labels as desired video text.
 approvedArtworkLook: Use this approved source-matched still for exposure, skin colour and rendering. Preserve scene-specific neon, magic and stage luminance; no blanket darkening or CRT texture.
 
 10 · REVIEW
-status: Representative still visually reviewed; planned motion is not yet rendered. Production first frame and any end frame are specified, not claimed generated. User review pending.
+status: Corrected representative selected for user-requested full storyboard video rebuild; production character animation remains pending.
 checks: [
   "Check bag hands, shoulder proximity, threshold safety, reflected identities, closing direction, and no reappearance of the ex after S044.",
   "Compare first/end states with adjacent shots before animation.",
   "No unintended face/hair/body drift; slim legs, natural hands.",
-  "No premature completed action, floating props or unjustified camera movement."
+  "No premature completed action, floating props or unjustified camera movement.",
+  "Acquired stacked CORTEX ARRAY construction visible through existing case window; transport power remains off.",
+  "Right hand/grip, tan skin, mesh/teal dress, closed case exterior, camera and elevator lighting retained closely.",
+  "Fan faces through glass; cooler/boards share coherent orientation; acquired hardware remains off during transport.",
+  "Right hand/grip, tan skin, mesh/teal dress, closed case exterior, camera and elevator lighting retained closely.",
+  "Hand has exactly four fingers plus one thumb; no surplus finger. Fan-facing acquired array remains off.",
+  "Natural right-hand grip/wrist preserved; fan-facing case, tan skin, mesh/teal dress, camera and elevator lighting retained closely."
 ]
 sourceShot: S038
-revision: director-edit-r28
+revision: s038-hand-anatomy-r67
 savedPersonalNotes: Supplied lyric timing anchors; interior cuts are proposed editorial choices.
-artworkApproval: User approved all 138 source-match comparison candidates on 7 October 2026. Publish the selected native artwork, preserve the edit and match each original exposure; remove baked shot-number badges. CRT is a separate browser-only preview, not part of the artwork.
-artworkReview: Original case-handle grip and skin retained; dark circuitry, teal folds and blurred metal wall retained. Slate removed.
-artworkRevision: full-source-match-r57
+artworkApproval: User requested hand correction and publication with the full video; corrected still visually checked.
+artworkReview: 7 November 2026: visually checked the native generated S038. Four curled near-side fingers are clearly separate and continuous, plus a single thumb at the far/right side: five digits total. No extra knuckle/fingertip. Wrist/cuff, carrying pose, tan skin, fan-facing cooler/circuit case, nameplate, dress and elevator exposure retained closely. Slight hand contour and texture variation from the generative edit; pixel-identical preservation is not claimed. Native1672×941 retained without resize/recompression. Suitable for the user-requested full video rebuild and publication.
+artworkRevision: s038-hand-anatomy-r67
 
 ========================================================================
 

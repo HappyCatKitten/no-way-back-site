@@ -1,0 +1,230 @@
+{
+  "videoVersion": "s015b-apartment-match-r58",
+  "currentVersion": "s038-hand-anatomy-r67",
+  "shots": [
+    {
+      "id": "S001",
+      "start": 0.0,
+      "end": 3.8,
+      "before": {
+        "id": "S001",
+        "path": "outputs/storyboard-ai-edit/assets/s001-source-match-r57.png",
+        "sha256": "d766957f8e77db8262b6ad0f1a31d999104f7564a807ef53dfda83aecb8c884a"
+      },
+      "after": "assets/s001-city-detail-r59.png",
+      "afterSha256": "5179ec83e0ab96894fd3c0435530863e7e0b97ced82ba2d147f846b060fbe786",
+      "reason": "Sharper, more detailed city skyline."
+    },
+    {
+      "id": "S002",
+      "start": 3.8,
+      "end": 6.1,
+      "before": {
+        "id": "S002",
+        "path": "outputs/storyboard-ai-edit/assets/s002-source-match-r57.png",
+        "sha256": "9f22bc77391aa710d6226865952c05362e54b5e48c99492f17d5d64adb1addb6"
+      },
+      "after": "assets/s002-city-detail-r59.png",
+      "afterSha256": "66925cee9206c0d22ab55dac60c1aeed87ca7c565cc1db5a0274cbb4dcbc986d",
+      "reason": "Sharper, more detailed city view."
+    },
+    {
+      "id": "S002B",
+      "start": 6.1,
+      "end": 9.6,
+      "before": null,
+      "after": "assets/s002b-city-aerial-r59.png",
+      "afterSha256": "d97830a7d3928c9db1656aaf1d044d8274fc04647bc21e0ed571b7e2338e5ff6",
+      "reason": "New city aerial. The opening now runs S001 \u2192 S002 \u2192 S002B \u2192 S004; S005 is removed."
+    },
+    {
+      "id": "S004",
+      "start": 9.6,
+      "end": 13.3,
+      "before": {
+        "id": "S004",
+        "path": "outputs/storyboard-ai-edit/assets/s004-source-match-r57.png",
+        "sha256": "4750731ff8b0f7ebcbab67e1a8ef77bae7b2372e71e6e086ba4bf9465270eebe"
+      },
+      "after": "assets/s004-city-detail-r59.png",
+      "afterSha256": "f608e1bd2ea9b757f302f3d21b484cb58dad2b5c8014615b195ac2901410e738",
+      "reason": "Refined apartment-block exterior; moved later within the opening."
+    },
+    {
+      "id": "S015D",
+      "start": 36.8,
+      "end": 38.1,
+      "before": {
+        "id": "S015D",
+        "path": "outputs/storyboard-ai-edit/assets/s015d-source-match-r57.png",
+        "sha256": "94bf8b6acc2ab86ea21deeb5d08bdfdaca6a12005f8253aeb100f0d3d82d2e31"
+      },
+      "after": "assets/s015d-maker-stash-r61.png",
+      "afterSha256": "9e00f08739e7bd731e72e1d07298c82a9d98545360bfa7257003ed9dfc63db09",
+      "reason": "Larger, worn maker box carried consistently through the shelf sequence."
+    },
+    {
+      "id": "S015F",
+      "start": 38.1,
+      "end": 39.6,
+      "before": {
+        "id": "S015F",
+        "path": "outputs/storyboard-ai-edit/assets/s015f-source-match-r57.png",
+        "sha256": "b156c20f67c0cd2c9d0513d3f89035c8d1c835c5e39557f5db0f4c771429da82"
+      },
+      "after": "assets/s015f-maker-stash-r61.png",
+      "afterSha256": "cd2c75701eaaf02b847793b20796f6cd204caaf738daa748fd4f9fca9439da8a",
+      "reason": "Larger, worn maker box carried consistently through the shelf sequence."
+    },
+    {
+      "id": "S015G",
+      "start": 39.6,
+      "end": 41,
+      "before": {
+        "id": "S015G",
+        "path": "outputs/storyboard-ai-edit/assets/s015g-source-match-r57.png",
+        "sha256": "a8503f59f2fa499929e49eed81132ed72ec3af6ce5edd77485388da75d09e30d"
+      },
+      "after": "assets/s015g-maker-stash-r61.png",
+      "afterSha256": "7b75b2c55310d0beea1aa4d72746f2b8e1ecea10b9682b9e29c5d1d0f580c40b",
+      "reason": "Larger, worn maker box carried consistently through the shelf sequence."
+    },
+    {
+      "id": "S015I",
+      "start": 41,
+      "end": 42.4,
+      "before": {
+        "id": "S015I",
+        "path": "outputs/storyboard-ai-edit/assets/s015i-source-match-r57.png",
+        "sha256": "3dd7ecbddfa604045c3f1712c6b0f478a6e731550f1cbe13896c6d9f2bcfad74"
+      },
+      "after": "assets/s015i-maker-stash-r61.png",
+      "afterSha256": "eb34b54e058cf01abe692e78edd38c90747e3679b32f5629057784ce0e20f79f",
+      "reason": "Scruffy maker box with loose components and her homemade handheld devices."
+    },
+    {
+      "id": "S015K",
+      "start": 42.4,
+      "end": 43.85,
+      "before": {
+        "id": "S015K",
+        "path": "outputs/storyboard-ai-edit/assets/s015k-source-match-r57.png",
+        "sha256": "121647be3f752659c18da15940a4114384f90b8bb9e87068c52bd4dd5b0be340"
+      },
+      "after": "assets/s015k-maker-stash-label-r61b.png",
+      "afterSha256": "ca0c962dc716899a39f10a10c1bc68c8baa5c5b2d41276df50b89a1b6e108e0d",
+      "reason": "Device screen faces her; worn P7 / rev. B label faces us."
+    },
+    {
+      "id": "S015L",
+      "start": 43.85,
+      "end": 45.5,
+      "before": {
+        "id": "S015L",
+        "path": "outputs/storyboard-ai-edit/assets/s015l-source-match-r57.png",
+        "sha256": "bc4c64f9523091b4e05f24e1487926000394c58572903c6417fedd81290812c1"
+      },
+      "after": "assets/s015l-maker-stash-r61.png",
+      "afterSha256": "b33a781e0d2311e7b110a3b91059fef1544463b862f34bd333a1872a808f9118",
+      "reason": "Matching larger maker box and homemade handheld at the workbench."
+    },
+    {
+      "id": "S015M",
+      "start": 45.5,
+      "end": 46.9,
+      "before": {
+        "id": "S015M",
+        "path": "outputs/storyboard-ai-edit/assets/s015m-source-match-r57.png",
+        "sha256": "1e322075524a0d4b85d4ccc1f35b98066d6b591c506fc4e44d85408f5f079656"
+      },
+      "after": "assets/s015m-maker-stash-r61.png",
+      "afterSha256": "c45c7352d9b8f5f12bf1790ad2a9c4dcf6272340fc855c13559ec25efda26db2",
+      "reason": "Matching maker box and handheld left on her desk as she hurries out."
+    },
+    {
+      "id": "S019",
+      "start": 50.02,
+      "end": 52.43,
+      "before": {
+        "id": "S019",
+        "path": "outputs/storyboard-ai-edit/assets/s019-source-match-r57.png",
+        "sha256": "e9e6f2071143f8de796f9d4e51d428b5e7e9f35362c94a73cdb998600205ca11"
+      },
+      "after": "assets/s019-dress-back-r62.png",
+      "afterSha256": "7b4204be51fadad0b62e197ddd92e2df941379b84416592ac7588192266c1aad",
+      "reason": "Corrected the back of her teal dress."
+    },
+    {
+      "id": "S031",
+      "start": 80.64,
+      "end": 83.44,
+      "before": {
+        "id": "S031",
+        "path": "outputs/storyboard-ai-edit/assets/s031-source-match-r57.png",
+        "sha256": "24b9ab8f9e7ee4118fd7a1e65bc4acad3912f09b63bc5f1bdd977e2e297ccfd9"
+      },
+      "after": "assets/s031-ex-expression-r63.png",
+      "afterSha256": "7125a9fc65c34f546d927ad45015aca13011d79fb18e9a10ef58c705c8a6edde",
+      "reason": "Her ex looks mildly surprised to recognise her."
+    },
+    {
+      "id": "S034",
+      "start": 87.44,
+      "end": 89.94,
+      "before": {
+        "id": "S034",
+        "path": "outputs/storyboard-ai-edit/assets/s034-source-match-r57.png",
+        "sha256": "40d2ecd5e89346d23be60d60e6f8bafddce1e654b6e21e1730f3bec2c738c59b"
+      },
+      "after": "assets/s034-ex-expression-r63.png",
+      "afterSha256": "65a5a4c5ccc98641d6e0e2915b6fb82ef66b22280edc26440d07ba43efe96a72",
+      "reason": "Her ex is quietly pleased, trying to hide it."
+    },
+    {
+      "id": "S036",
+      "start": 91.64,
+      "end": 95.75,
+      "before": {
+        "id": "S036",
+        "path": "outputs/storyboard-ai-edit/assets/s036-source-match-r57.png",
+        "sha256": "0f61ebb5429bc3613ca3ca694ae6b5ae5e9f94bcb5ce8d8c9279166daaca3171"
+      },
+      "after": "assets/s036-ex-warmth-r64.png",
+      "afterSha256": "9f2de8453be48f67645602bf6b7dc57c1db090b8e9e4747bc9313a2bcbc49ca3",
+      "reason": "Continues his warmer, restrained expression."
+    },
+    {
+      "id": "S037",
+      "start": 95.75,
+      "end": 98.45,
+      "before": {
+        "id": "S037",
+        "path": "outputs/storyboard-ai-edit/assets/s037-source-match-r57.png",
+        "sha256": "b9441720c33cbeccfd140bb5845e3a7975a6e16747f40a88aa090e9b1b2deae4"
+      },
+      "after": "assets/s037-ex-warmth-r64.png",
+      "afterSha256": "a061a62919786ad798571437b1148b7eebf5e92615be1250b54f0b1e881e7859",
+      "reason": "Matching warmer expression in the elevator reflection."
+    },
+    {
+      "id": "S038",
+      "start": 98.45,
+      "end": 99.55,
+      "before": {
+        "id": "S038",
+        "path": "outputs/storyboard-ai-edit/assets/s038-source-match-r57.png",
+        "sha256": "cdc0832231522ed7ed2259b5ded004cfcc3e8a26eb5ecba968833bd361bf47fb"
+      },
+      "after": "assets/s038-hand-anatomy-r67.png",
+      "afterSha256": "fa3c0ee3010130744c522e6f7365382b06e4e10e06c1055f73325a3f7f05587e",
+      "reason": "Cortex Array fan faces naturally through the glass; the extra finger is corrected to four fingers and one thumb."
+    }
+  ],
+  "removed": [
+    {
+      "id": "S005",
+      "path": "outputs/storyboard-ai-edit/assets/s005-source-match-r57.png",
+      "sha256": "05592572a42232c806c69dbcda11b4396b75be260b92dd341268120588ce8381"
+    }
+  ]
+}

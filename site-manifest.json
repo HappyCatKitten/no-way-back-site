@@ -1,5 +1,5 @@
 {
-  "storyboardVersion": "ex-elevator-warmth-r64",
+  "storyboardVersion": "s038-hand-anatomy-r67",
   "shots": 138,
   "files": [
     {
@@ -14,18 +14,28 @@
     },
     {
       "path": "index.html",
-      "sha256": "6f525ca0f667fa0e54515f860f742d3617c9aeadd6dca47f70edb5fb131e277c",
-      "bytes": 32271
+      "sha256": "8c5f9e77ce88a25f536c2a43fcaaa842e9b7b86ea6cb9922e1400262ecdb6f13",
+      "bytes": 33222
+    },
+    {
+      "path": "media/captions-verification.json",
+      "sha256": "7de792d7b419e8b3f3e6f1dcb2be6f03128f2a61c8655d0b8b5abb63013776dc",
+      "bytes": 544
+    },
+    {
+      "path": "media/no-way-back.en.vtt",
+      "sha256": "8d7a19c949ef09a75f7781e353fa48c476ac9b37233782588a3602d0f3f33339",
+      "bytes": 3132
     },
     {
       "path": "media/no-way-back.mp4",
-      "sha256": "62cb2da8ea2d691fcfa89a150faddfd6b4cadde138429884a8005326beecb89b",
-      "bytes": 46469130
+      "sha256": "53eb12c9f01a5865f2b3ae1a347691488e0aaa5cd858e53f7c468dc3dce09bf8",
+      "bytes": 46964488
     },
     {
       "path": "media/preview-verification.json",
-      "sha256": "8279bdcd51ef416232453238f0effdc7a1c89db00d1dffb0b973d1f2cf86ea3a",
-      "bytes": 48141
+      "sha256": "b6759e8501f40d214a3af00e2201cfb3d30f6d594d97064d99b920c8ef522aec",
+      "bytes": 48441
     },
     {
       "path": "outputs/character-sheets/07-hacker-market-teal-dress-approved.png",
@@ -33,9 +43,24 @@
       "bytes": 1909670
     },
     {
+      "path": "outputs/image-quality-tests/video-vs-current-storyboard/comparison.json",
+      "sha256": "9b404a9126487c2afa73b49493f8bbaaafec8998052b64f37144c3cffe303def",
+      "bytes": 8768
+    },
+    {
+      "path": "outputs/image-quality-tests/video-vs-current-storyboard/index.html",
+      "sha256": "27fbe39eee1731ac7627a1cce46109456c19755195166da563bdc597a0ed3b4e",
+      "bytes": 16692
+    },
+    {
+      "path": "outputs/image-quality-tests/video-vs-current-storyboard/video-baseline.json",
+      "sha256": "8279bdcd51ef416232453238f0effdc7a1c89db00d1dffb0b973d1f2cf86ea3a",
+      "bytes": 48141
+    },
+    {
       "path": "outputs/storyboard-ai-edit/CURRENT-DIRECTION.txt",
-      "sha256": "94f455abdb9f56423c4a28244e660bd8ad5769854fccda68d1bcc8ddb2fcf5f2",
-      "bytes": 41831
+      "sha256": "fe223ef13b8a700e063f72db294cbaf9814d6696c4d945a3199b53b4c5a278fa",
+      "bytes": 47136
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s001-character-r14.jpg",
@@ -86,11 +111,6 @@
       "path": "outputs/storyboard-ai-edit/assets/s004-source-match-r57.png",
       "sha256": "4750731ff8b0f7ebcbab67e1a8ef77bae7b2372e71e6e086ba4bf9465270eebe",
       "bytes": 2288502
-    },
-    {
-      "path": "outputs/storyboard-ai-edit/assets/s005-character-r14.jpg",
-      "sha256": "d61467b8ab5893d73a98b1ce6f1d89894e8d2ce03d0357ac3fc7a32d562f5020",
-      "bytes": 255570
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s005-source-match-r57.png",
@@ -211,11 +231,6 @@
       "path": "outputs/storyboard-ai-edit/assets/s015c-current-movie-style-deskbook-r52.png",
       "sha256": "ce4df3545e2337145e529381fafd1de3b55f1d1885a06f010b460935af792c0d",
       "bytes": 2058906
-    },
-    {
-      "path": "outputs/storyboard-ai-edit/assets/s015c-individual-540-r43.png",
-      "sha256": "a9149592a4b97d9323fe76d201611280945872705d418987654085229d663a41",
-      "bytes": 1155515
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s015c-source-match-r57.png",
@@ -586,6 +601,16 @@
       "path": "outputs/storyboard-ai-edit/assets/s038-elevator-r18.jpg",
       "sha256": "d5b6b384e52ad8fdfdebd1f4fb9c082a7ecf78554f0a1b29a358b476a441e63a",
       "bytes": 137432
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s038-fan-facing-r66.png",
+      "sha256": "666f6d8632a7fe67297195c4b2d6b98c7229b10a931cd78f6ad2f76fc6720d3d",
+      "bytes": 1743995
+    },
+    {
+      "path": "outputs/storyboard-ai-edit/assets/s038-hand-anatomy-r67.png",
+      "sha256": "fa3c0ee3010130744c522e6f7365382b06e4e10e06c1055f73325a3f7f05587e",
+      "bytes": 1767642
     },
     {
       "path": "outputs/storyboard-ai-edit/assets/s038-source-match-r57.png",
@@ -1569,18 +1594,18 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/data.js",
-      "sha256": "cebdbf5af6be5b531aa83ef16619de6d5de6c41189b9c52403c05ef9a6d422f5",
-      "bytes": 4229363
+      "sha256": "048ddb1e6c2269fcb554324add93385b84c410ad83478faeb16a097b7db6438b",
+      "bytes": 4247941
     },
     {
       "path": "outputs/storyboard-ai-edit/edit-highlights.js",
-      "sha256": "f4320b8fa4f3fd9ad628172747629604d584fcfe0f8cbcf31ea95233ea367095",
-      "bytes": 110116
+      "sha256": "71a6d20f585667e932ea1fdcdae2bbbb0eecd1d732fc7af62436f4e6efdf5888",
+      "bytes": 110856
     },
     {
       "path": "outputs/storyboard-ai-edit/index.html",
-      "sha256": "13e10bda993598eb17898d01abe64293ad340687ccdd3a30186ed89ecbf5109f",
-      "bytes": 12596
+      "sha256": "ed3f4585dc295bb6a37899e1829dca25d6a597d4e191273750fbf8470ac1fbab",
+      "bytes": 12593
     },
     {
       "path": "outputs/storyboard-ai-edit/player.js",
@@ -1589,8 +1614,8 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/production-handoff.txt",
-      "sha256": "bd0ac4df00885bc0623ee2a91a78d03ad8c0f0b499205cbe999e921009783f80",
-      "bytes": 1829500
+      "sha256": "371a0f855d2945ba2636c3852baae524f1445ba9f9a0be5fcc4ba0a27adc5b83",
+      "bytes": 1837293
     },
     {
       "path": "outputs/storyboard-ai-edit/references/locked-characters/01-heroine-face.png",
@@ -1644,18 +1669,18 @@
     },
     {
       "path": "outputs/storyboard-ai-edit/scene-review.txt",
-      "sha256": "03eda4fbd89c88b399c02d0fb3f5c6377468f0944ee21827588886f7971a2364",
-      "bytes": 49799
+      "sha256": "0e24d285c3619e3d20c104ac12d71a7317c00893b2e9318dc9cf5cdd43ee49f6",
+      "bytes": 54917
     },
     {
       "path": "outputs/storyboard-ai-edit/shot-list.csv",
-      "sha256": "1808dac6c5c2ea3963ec2ecb37b477dc4b2fea313d67c6fc6c96882cb86dd3d3",
-      "bytes": 160850
+      "sha256": "2b31596cc6fb899e7cfd5a1f471d17b04ba91f516bda81018750edf442386f7c",
+      "bytes": 162135
     },
     {
       "path": "outputs/storyboard-ai-edit/shots.json",
-      "sha256": "ec582bf69c61e10d032df0294baa00ddd8fb3ee615b47ae02f156e92cd5b0b3f",
-      "bytes": 4229344
+      "sha256": "02fb9559361a2b87bd179e5ebb24e8cf3c66df45d7fc40c1de8ade8d542c9895",
+      "bytes": 4247922
     },
     {
       "path": "outputs/storyboard-ai-edit/song.mp3",
@@ -1784,8 +1809,8 @@
     },
     {
       "path": "site-assets/studio/data.js",
-      "sha256": "99a91fbfd9a489f1eececf9ec5a10778bc0a6e42fa3eba53df576382375b04a3",
-      "bytes": 1290375
+      "sha256": "0c7eba0956c09ddb4141e8d1bdb6384ed9afb166417f98f3d8e67d46bb7452d7",
+      "bytes": 1313849
     },
     {
       "path": "site-assets/studio/ex-bf-01-opening-v1.png",
@@ -1809,8 +1834,8 @@
     },
     {
       "path": "site-assets/studio/provenance.json",
-      "sha256": "bdc0d901ee890757b667f26758297fd5722a02ac5d5af8eaa43fae37572f53de",
-      "bytes": 6999
+      "sha256": "4a2c98a2325b4cb45c0ba4a9a51b5da817128f13cc5ee9e9b73d6e626c3c8215",
+      "bytes": 6995
     },
     {
       "path": "site-assets/studio/qa.json",
@@ -1819,18 +1844,23 @@
     },
     {
       "path": "site-assets/studio/recipes/S001.txt",
-      "sha256": "0a9f2d60f7d7e05749785c0d46318d2952639a46415e6806d47633805139fab2",
-      "bytes": 5096
+      "sha256": "a2c08ee2bad565e4d8c5dd092618e50e3918a50ff6e2f339bf1a441311a41907",
+      "bytes": 6236
     },
     {
       "path": "site-assets/studio/recipes/S002.txt",
-      "sha256": "404ee37256af2fb151d5133ad5723a5cd2edc421b9af55b1dd1d174018757227",
-      "bytes": 4992
+      "sha256": "faf3ab63b9d4776ec24670580942a875465e611113afdecb2784744f3eae3d88",
+      "bytes": 5108
+    },
+    {
+      "path": "site-assets/studio/recipes/S002B.txt",
+      "sha256": "0d39fa3c8a331ed0a2b91800b0326f298099f99f80f363048c39ea62be6b6f32",
+      "bytes": 6071
     },
     {
       "path": "site-assets/studio/recipes/S004.txt",
-      "sha256": "95bd61f131f85330a2718ebf40b7ffae1d86843e332d265ea580e43e6e49c17b",
-      "bytes": 4980
+      "sha256": "71c6907328fd6f046743e622a6ecb3558a836e1709de34e5157996f0a1a0eecd",
+      "bytes": 5666
     },
     {
       "path": "site-assets/studio/recipes/S005.txt",
@@ -1889,43 +1919,43 @@
     },
     {
       "path": "site-assets/studio/recipes/S015C.txt",
-      "sha256": "1bc0a9cb68d4a9f9df75ffbc541cf79cf4295aeb27f1230d417ec9b27b8dba3a",
-      "bytes": 10266
+      "sha256": "5b67a0ea2e95b4aecf120e747bee59593065dc743b54005df24db8b8b5d692c9",
+      "bytes": 12266
     },
     {
       "path": "site-assets/studio/recipes/S015D.txt",
-      "sha256": "9489e4130817b0df01ee67f0335bc431ae7c52fe22261cc7146356ba026ec6c7",
-      "bytes": 10439
+      "sha256": "4d2c7541e303df634582a37645906dc04143a52ca690fd6ca5df576d0f2b778e",
+      "bytes": 9812
     },
     {
       "path": "site-assets/studio/recipes/S015F.txt",
-      "sha256": "0cfda6dec833c6a21431b56da7d468f056772b7b288c4f075cfb16f18f9077ed",
-      "bytes": 10620
+      "sha256": "437e1075f6d9ecd4f8d14d9b4357167ea41cf9eddad70c48441c8152436b442b",
+      "bytes": 9740
     },
     {
       "path": "site-assets/studio/recipes/S015G.txt",
-      "sha256": "ee4a4085f0d20597efcadef464cea43977ee5473fd7c60eb9e04c9ea7d949f31",
-      "bytes": 10968
+      "sha256": "dca824fd04b76e64add9a290e2720af5d44078fc38cae58864fb78fdd1cf3d0c",
+      "bytes": 10084
     },
     {
       "path": "site-assets/studio/recipes/S015I.txt",
-      "sha256": "bd4fe9623f6bfb7fcedbca28bff7f1c7bd4245c09f3d17bef033e3d3112e2524",
-      "bytes": 10795
+      "sha256": "5e498454111cbac4a862ac6cba4609b6ba62a402543659f3b2b5992d4f2353bd",
+      "bytes": 10675
     },
     {
       "path": "site-assets/studio/recipes/S015K.txt",
-      "sha256": "386aa10c6a430b50a588231dac8a0295c7598a65350628c038c06847d972b05b",
-      "bytes": 10626
+      "sha256": "1de2d994c7a5542f00f9b080c4e71fd94eb537f69f77f3c5d0d57499057ec73e",
+      "bytes": 8814
     },
     {
       "path": "site-assets/studio/recipes/S015L.txt",
-      "sha256": "76be76e0a9167d4627846b6f9e6d74a9a1346434ecabccb54af22b11b4a84b2b",
-      "bytes": 11150
+      "sha256": "08944d0405e6ebd4b26cc53a191ac7960ac19829498eb6e26a5ec46128accf4c",
+      "bytes": 10983
     },
     {
       "path": "site-assets/studio/recipes/S015M.txt",
-      "sha256": "c575ea3f35159f7f812e3e897cf66218271d086b03ea31e17e73dff258ef7804",
-      "bytes": 11895
+      "sha256": "52ffd190ee7d771d7252b994e3d9ba3a632d1cdbff04ef4e6a3793685d41fb80",
+      "bytes": 11274
     },
     {
       "path": "site-assets/studio/recipes/S016.txt",
@@ -1934,8 +1964,8 @@
     },
     {
       "path": "site-assets/studio/recipes/S019.txt",
-      "sha256": "ed237038d8484dfdcda8fc2027dc6e4fe373605378b6a65734202e2867e44e3c",
-      "bytes": 9643
+      "sha256": "6670eec8dfb08c1b527efce67b27c62ce82834938eeb0c44eab9d1c3c5f8d925",
+      "bytes": 10428
     },
     {
       "path": "site-assets/studio/recipes/S020.txt",
@@ -1999,8 +2029,8 @@
     },
     {
       "path": "site-assets/studio/recipes/S031.txt",
-      "sha256": "8ab1bca53c36bc512a88b91ee0093725d92490d972b0eb3300ebc2c10f9700d2",
-      "bytes": 6438
+      "sha256": "a349886c116c8ac656837a7c0f43c34b7b554b8c18a8ee90aedee4140e00c452",
+      "bytes": 6579
     },
     {
       "path": "site-assets/studio/recipes/S032.txt",
@@ -2014,8 +2044,8 @@
     },
     {
       "path": "site-assets/studio/recipes/S034.txt",
-      "sha256": "e49db373238f94474af3348d4aae56ba6606675639046ce577afae3680ad4ee0",
-      "bytes": 6434
+      "sha256": "e7685dbd2dc5e06735e40d4e6d01138a09e63f222ac57987c9665e23b85157ef",
+      "bytes": 7139
     },
     {
       "path": "site-assets/studio/recipes/S035.txt",
@@ -2024,18 +2054,18 @@
     },
     {
       "path": "site-assets/studio/recipes/S036.txt",
-      "sha256": "074dcaf8df9efa4d90ef2e7422ce3014d2d1d33350df744be9ea1050b96da470",
-      "bytes": 6333
+      "sha256": "dac0ed2fe3bdb60fe4d48daf9d712a00525bb8bec617e90826b203fe06a89bbf",
+      "bytes": 6945
     },
     {
       "path": "site-assets/studio/recipes/S037.txt",
-      "sha256": "e1e94b19712e9f5e35464916c8424189fb800f96ae728fb09aafa9ed8e5c3fff",
-      "bytes": 6402
+      "sha256": "41736cefc84c799f44a7e46a3e95758e64eef09902949023b1abe1ab8797a640",
+      "bytes": 7404
     },
     {
       "path": "site-assets/studio/recipes/S038.txt",
-      "sha256": "728bba13750a339337673c707d0437a193188e486ef57e910a51050a7d8ab61c",
-      "bytes": 6117
+      "sha256": "07fbd93ddc35d720bc41e3c770690e5b1885558f6cd3e1254c5d429ede0bba4d",
+      "bytes": 9156
     },
     {
       "path": "site-assets/studio/recipes/S039.txt",
@@ -2521,6 +2551,11 @@
       "path": "site-assets/studio/vocals.mp3",
       "sha256": "f5ba7e4e8af69089e7105336c0a42f61482f96422cfbc68d0e2d161b820ca543",
       "bytes": 5466950
+    },
+    {
+      "path": "site-assets/video-captions.js",
+      "sha256": "5a41d951bb1b5b3f797471908eec184951ade3fbccf74dae79c9f18871c1e692",
+      "bytes": 1112
     }
   ]
 }

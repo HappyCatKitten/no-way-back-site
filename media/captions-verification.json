@@ -1,0 +1,12 @@
+{
+  "source": "lyric-analysis/outputs/final-take/lyrics.srt",
+  "sourceSha256": "221ab1f49b3915ee305a1b3bd7392c2b4c1b7fcaef9dbcdb98742d04fe7b837e",
+  "output": "no-way-back.en.vtt",
+  "sha256": "8d7a19c949ef09a75f7781e353fa48c476ac9b37233782588a3602d0f3f33339",
+  "cues": 46,
+  "lyricsFromSource": 45,
+  "additionalCue": "224.000\u2013231.440 Ooh, from the authored S088A/S090 vocalise sequence.",
+  "timing": "Existing saved lyric alignment estimates; no new transcription or audio retiming.",
+  "burnedIn": false,
+  "defaultVisible": false
+}
